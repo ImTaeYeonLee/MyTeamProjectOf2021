@@ -1,0 +1,47 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "v0.11.0-ue4.27.0",
+	"FriendlyName": "Off World Live Livestreaming Toolkit",
+	"Description": "Tools for livestreaming including a SPOUT management system",
+	"Category": "Other",
+	"CreatedBy": "OffWorldLive",
+	"CreatedByURL": "https://offworld.live/",
+	"DocsURL": "https://docs.offworld.live/#/",
+	"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/92307b570d474fbc87592b973ce82e3b",
+	"SupportURL": "support@offworld.live",
+	"EngineVersion": "4.27.0",
+	"CanContainContent": true,
+	"Installed": true,
+	"SupportedTargetPlatforms": [
+		"Win64"
+	],
+	"Modules": [
+		{
+			"Name": "LivestreamingToolkit",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"WhitelistPlatforms": [
+				"Win64"
+			]
+		},
+		{
+			"Name": "USpout",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"WhitelistPlatforms": [
+				"Win64"
+			]
+		},
+		{
+			"Name": "LivestreamingToolkitEditor",
+			"Type": "Editor",
+			"LoadingPhase": "Default"
+		},
+		{
+			"Name": "LivestreamingToolkitEditorShaders",
+			"Type": "Runtime",
+			"LoadingPhase": "PostConfigInit"
+		}
+	]
+}

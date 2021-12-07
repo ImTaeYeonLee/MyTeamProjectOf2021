@@ -1,0 +1,14 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.UEOSC.cpp.obj": [
+			"UEOSCReceiver.cpp.obj",
+			"UEOSC.cpp.obj"
+		],
+		"Module.UEOSC.gen.cpp.obj": [
+			"UEOSC.init.gen.cpp.obj",
+			"UEOSCElement.gen.cpp.obj",
+			"UEOSCReceiver.gen.cpp.obj"
+		]
+	}
+}

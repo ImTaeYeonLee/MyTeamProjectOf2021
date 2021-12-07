@@ -1,0 +1,22 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.VMC4UE.cpp.obj": [
+			"AnimNode_ModifyVMC4UEBones.cpp.obj",
+			"AnimNode_ModifyVMC4UEMorph.cpp.obj",
+			"VMC4UEBlueprintFunctionLibrary.cpp.obj",
+			"VMC4UEOscManager.cpp.obj",
+			"VMC4UEStreamingData.cpp.obj",
+			"VMC4UE.cpp.obj"
+		],
+		"Module.VMC4UE.gen.cpp.obj": [
+			"AnimNode_ModifyVMC4UEBones.gen.cpp.obj",
+			"AnimNode_ModifyVMC4UEMorph.gen.cpp.obj",
+			"VMC4UE.init.gen.cpp.obj",
+			"VMC4UEBlueprintFunctionLibrary.gen.cpp.obj",
+			"VMC4UEBoneMapping.gen.cpp.obj",
+			"VMC4UEOSCManager.gen.cpp.obj",
+			"VMC4UEStreamingData.gen.cpp.obj"
+		]
+	}
+}

@@ -1,0 +1,10 @@
+{
+	"BuildId": "17155196",
+	"Modules": 
+	{
+		"LivestreamingToolkit": "UE4Editor-LivestreamingToolkit.dll",
+		"LivestreamingToolkitEditor": "UE4Editor-LivestreamingToolkitEditor.dll",
+		"LivestreamingToolkitEditorShaders": "UE4Editor-LivestreamingToolkitEditorShaders.dll",
+		"USpout": "UE4Editor-USpout.dll"
+	}
+}
