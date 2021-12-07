@@ -1,19 +1,3 @@
 ﻿  Using 'git status' to determine working set for adaptive non-unity build (C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021).
-  Invalidating makefile for SubwayEditor (source file removed)
-  Parsing headers for SubwayEditor
-    Running UnrealHeaderTool "C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\Subway\Subway.uproject" "C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\Subway\Intermediate\Build\Win64\SubwayEditor\Development\SubwayEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\TFG5076XG\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
-  Reflection code generated for SubwayEditor in 4.4182046 seconds
-  Building SubwayEditor...
-  Using Visual Studio 2019 14.29.30133 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
-  Building 7 actions with 16 processes...
-    [1/7] Default.rc2
-    [2/7] SharedPCH.Engine.ShadowErrors.cpp
-    [3/7] Module.Subway.gen.cpp
-    [4/7] Module.Subway.cpp
-    [5/7] UE4Editor-Subway.lib
-       C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\Subway\Intermediate\Build\Win64\UE4Editor\Development\Subway\UE4Editor-Subway.lib 라이브러리 및 C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\Subway\Intermediate\Build\Win64\UE4Editor\Development\Subway\UE4Editor-Subway.exp 개체를 생성하고 있습니다.
-    [6/7] UE4Editor-Subway.dll
-       C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\Subway\Intermediate\Build\Win64\UE4Editor\Development\Subway\UE4Editor-Subway.suppressed.lib 라이브러리 및 C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\Subway\Intermediate\Build\Win64\UE4Editor\Development\Subway\UE4Editor-Subway.suppressed.exp 개체를 생성하고 있습니다.
-    [7/7] SubwayEditor.target
-  Total time in Parallel executor: 23.40 seconds
-  Total execution time: 30.04 seconds
+  Target is up to date
+  Total execution time: 0.58 seconds
