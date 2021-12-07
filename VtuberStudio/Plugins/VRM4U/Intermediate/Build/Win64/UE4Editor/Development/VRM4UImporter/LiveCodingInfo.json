@@ -1,0 +1,29 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.VRM4UImporter.cpp.obj": [
+			"AnimGraphNode_VrmCopyHandBone.cpp.obj",
+			"AnimGraphNode_VrmModifyBoneDynamic.cpp.obj",
+			"AnimGraphNode_VrmModifyHumanoidBone.cpp.obj",
+			"AnimGraphNode_VrmQuestHandBone.cpp.obj",
+			"AnimGraphNode_VrmSpringBone.cpp.obj",
+			"VRM4UDetailCustomize.cpp.obj",
+			"VRM4UImporterFactory.cpp.obj",
+			"VRM4UImporterModule.cpp.obj",
+			"VrmAssetListThumbnailRenderer.cpp.obj",
+			"VrmImportUI.cpp.obj",
+			"VrmOptionWindow.cpp.obj"
+		],
+		"Module.VRM4UImporter.gen.cpp.obj": [
+			"AnimGraphNode_VrmCopyHandBone.gen.cpp.obj",
+			"AnimGraphNode_VrmModifyBoneDynamic.gen.cpp.obj",
+			"AnimGraphNode_VrmModifyHumanoidBone.gen.cpp.obj",
+			"AnimGraphNode_VrmQuestHandBone.gen.cpp.obj",
+			"AnimGraphNode_VrmSpringBone.gen.cpp.obj",
+			"VRM4UImporter.init.gen.cpp.obj",
+			"VRM4UImporterFactory.gen.cpp.obj",
+			"VrmAssetListThumbnailRenderer.gen.cpp.obj",
+			"VrmImportUI.gen.cpp.obj"
+		]
+	}
+}

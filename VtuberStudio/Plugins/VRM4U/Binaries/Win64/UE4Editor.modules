@@ -1,0 +1,11 @@
+{
+	"BuildId": "17155196",
+	"Modules": 
+	{
+		"VRM4U": "UE4Editor-VRM4U.dll",
+		"VRM4UEditor": "UE4Editor-VRM4UEditor.dll",
+		"VRM4UImporter": "UE4Editor-VRM4UImporter.dll",
+		"VRM4ULoader": "UE4Editor-VRM4ULoader.dll",
+		"VRM4UMisc": "UE4Editor-VRM4UMisc.dll"
+	}
+}

@@ -1,0 +1,20 @@
+C:\Users\TFG5076XG\Documents\GitHub\UE_VtuberStudio\Plugins\VRM4U\Intermediate\Build\Win64\UE4Editor\Development\VRM4ULoader\Definitions.VRM4ULoader.h
+C:/Users/TFG5076XG/Documents/GitHub/UE_VtuberStudio/Plugins/VRM4U/Intermediate/Build/Win64/UE4Editor/Inc/VRM4ULoader/LoaderBPFunctionLibrary.gen.cpp
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Users\TFG5076XG\Documents\GitHub\UE_VtuberStudio\Plugins\VRM4U\Source\VRM4ULoader/Public/LoaderBPFunctionLibrary.h
+C:\Users\TFG5076XG\Documents\GitHub\UE_VtuberStudio\Plugins\VRM4U\Source\VRM4ULoader\Public\VrmConvert.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/EngineVersionComparison.h
+C:\Users\TFG5076XG\Documents\GitHub\UE_VtuberStudio\Plugins\VRM4U\Source\VRM4U\Public\VrmUtil.h
+C:\Users\TFG5076XG\Documents\GitHub\UE_VtuberStudio\Plugins\VRM4U\Intermediate\Build\Win64\UE4Editor\Inc\VRM4U\VrmUtil.generated.h
+C:\Users\TFG5076XG\Documents\GitHub\UE_VtuberStudio\Plugins\VRM4U\Intermediate\Build\Win64\UE4Editor\Inc\VRM4ULoader\LoaderBPFunctionLibrary.generated.h
+C:/Users/TFG5076XG/Documents/GitHub/UE_VtuberStudio/Plugins/VRM4U/Intermediate/Build/Win64/UE4Editor/Inc/VRM4ULoader/VRM4ULoader.init.gen.cpp
+C:/Users/TFG5076XG/Documents/GitHub/UE_VtuberStudio/Plugins/VRM4U/Intermediate/Build/Win64/UE4Editor/Inc/VRM4ULoader/VrmLoaderComponent.gen.cpp
+C:\Users\TFG5076XG\Documents\GitHub\UE_VtuberStudio\Plugins\VRM4U\Source\VRM4ULoader/Public/VrmLoaderComponent.h
+C:\Users\TFG5076XG\Documents\GitHub\UE_VtuberStudio\Plugins\VRM4U\Intermediate\Build\Win64\UE4Editor\Inc\VRM4ULoader\VrmLoaderComponent.generated.h
+C:/Users/TFG5076XG/Documents/GitHub/UE_VtuberStudio/Plugins/VRM4U/Intermediate/Build/Win64/UE4Editor/Inc/VRM4ULoader/VrmSkeletalMesh.gen.cpp
+C:\Users\TFG5076XG\Documents\GitHub\UE_VtuberStudio\Plugins\VRM4U\Source\VRM4ULoader/Public/VrmSkeletalMesh.h
+C:\Users\TFG5076XG\Documents\GitHub\UE_VtuberStudio\Plugins\VRM4U\Intermediate\Build\Win64\UE4Editor\Inc\VRM4ULoader\VrmSkeletalMesh.generated.h
+C:/Users/TFG5076XG/Documents/GitHub/UE_VtuberStudio/Plugins/VRM4U/Intermediate/Build/Win64/UE4Editor/Inc/VRM4ULoader/VrmSkeletalMeshComponent.gen.cpp
+C:\Users\TFG5076XG\Documents\GitHub\UE_VtuberStudio\Plugins\VRM4U\Source\VRM4ULoader/Public/VrmSkeletalMeshComponent.h
+C:\Users\TFG5076XG\Documents\GitHub\UE_VtuberStudio\Plugins\VRM4U\Intermediate\Build\Win64\UE4Editor\Inc\VRM4ULoader\VrmSkeletalMeshComponent.generated.h

@@ -1,0 +1,12 @@
+C:\Users\TFG5076XG\Documents\GitHub\UE_VtuberStudio\Plugins\VRM4U\Intermediate\Build\Win64\UE4Editor\Development\VRM4UEditor\Definitions.VRM4UEditor.h
+C:/Users/TFG5076XG/Documents/GitHub/UE_VtuberStudio/Plugins/VRM4U/Intermediate/Build/Win64/UE4Editor/Inc/VRM4UEditor/VRM4UEditor.init.gen.cpp
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:/Users/TFG5076XG/Documents/GitHub/UE_VtuberStudio/Plugins/VRM4U/Intermediate/Build/Win64/UE4Editor/Inc/VRM4UEditor/VrmEditorBPFunctionLibrary.gen.cpp
+C:\Users\TFG5076XG\Documents\GitHub\UE_VtuberStudio\Plugins\VRM4U\Source\VRM4UEditor/Public/VrmEditorBPFunctionLibrary.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/TextureRenderTarget2D.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/TextureRenderTarget.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\TextureRenderTarget.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\TextureRenderTarget2D.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/EngineVersionComparison.h
+C:\Users\TFG5076XG\Documents\GitHub\UE_VtuberStudio\Plugins\VRM4U\Intermediate\Build\Win64\UE4Editor\Inc\VRM4UEditor\VrmEditorBPFunctionLibrary.generated.h

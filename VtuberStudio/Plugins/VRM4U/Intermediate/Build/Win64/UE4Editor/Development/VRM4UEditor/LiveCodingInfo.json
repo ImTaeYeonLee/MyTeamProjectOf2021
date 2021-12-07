@@ -1,0 +1,13 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.VRM4UEditor.cpp.obj": [
+			"VRM4UEditor.cpp.obj",
+			"VrmEditorBPFunctionLibrary.cpp.obj"
+		],
+		"Module.VRM4UEditor.gen.cpp.obj": [
+			"VRM4UEditor.init.gen.cpp.obj",
+			"VrmEditorBPFunctionLibrary.gen.cpp.obj"
+		]
+	}
+}

@@ -1,0 +1,98 @@
+C:\Users\TFG5076XG\Documents\GitHub\UE_VtuberStudio\Plugins\VMC4UE\Intermediate\Build\Win64\UE4Editor\Development\VMC4UEEd\Definitions.VMC4UEEd.h
+C:/Users/TFG5076XG/Documents/GitHub/UE_VtuberStudio/Plugins/VMC4UE/Source/VMC4UEEd/Source/AnimGraphNode_ModifyVMC4UEBones.cpp
+C:\Users\TFG5076XG\Documents\GitHub\UE_VtuberStudio\Plugins\VMC4UE\Source\VMC4UEEd\Source\../Include/AnimGraphNode_ModifyVMC4UEBones.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\AnimGraph\Classes\AnimGraphNode_SkeletalControlBase.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\AnimGraph\Classes\AnimGraphNode_Base.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Animation/AnimBlueprint.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\AnimBlueprint.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Animation/AnimBlueprintGeneratedClass.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/PoseWatch.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\PoseWatch.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Animation/AnimStateMachineTypes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Public\AlphaBlend.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\AlphaBlend.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\AnimStateMachineTypes.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Animation/AnimClassInterface.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\AnimClassInterface.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Animation/AnimNodeBase.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Logging/TokenizedMessage.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Stats/StatsHierarchical.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Logging/MessageLog.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Public\Animation/AnimTrace.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Public\ObjectTrace.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Public\TraceFilter.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Animation/AnimInstance.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Animation/AnimMontage.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Animation/AnimCompositeBase.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\AnimCompositeBase.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Animation/TimeStretchCurve.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\TimeStretchCurve.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\AnimMontage.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Animation/AnimNotifies/AnimNotify.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\AnimNotify.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\AnimInstance.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ObjectTrace.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Animation/AnimationPoseData.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/UndefineUPropertyMacros.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\AnimNodeBase.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/DefineUPropertyMacros.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Animation/BlendSpaceBase.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Public\AnimationRuntime.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\BlendSpaceBase.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\PropertyAccess\Public\PropertyAccess.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\PropertyAccess\Public\PropertyEventInterfaces.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\PropertyAccess\PropertyEventInterfaces.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\PropertyAccess\Public\IPropertyAccess.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\PropertyAccess\IPropertyAccess.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\PropertyAccess\PropertyAccess.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\AnimBlueprintGeneratedClass.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AnimGraph\AnimGraphNode_Base.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AnimGraph\AnimGraphNode_SkeletalControlBase.generated.h
+C:\Users\TFG5076XG\Documents\GitHub\UE_VtuberStudio\Plugins\VMC4UE\Source\VMC4UEEd\Include\../../VMC4UE/Include/AnimNode_ModifyVMC4UEBones.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\AnimGraphRuntime\Public\BoneControllers/AnimNode_SkeletalControlBase.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Animation/InputScaleBias.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\InputScaleBias.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AnimGraphRuntime\AnimNode_SkeletalControlBase.generated.h
+C:\Users\TFG5076XG\Documents\GitHub\UE_VtuberStudio\Plugins\VMC4UE\Intermediate\Build\Win64\UE4Editor\Inc\VMC4UE\AnimNode_ModifyVMC4UEBones.generated.h
+C:\Users\TFG5076XG\Documents\GitHub\UE_VtuberStudio\Plugins\VMC4UE\Intermediate\Build\Win64\UE4Editor\Inc\VMC4UEEd\AnimGraphNode_ModifyVMC4UEBones.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\AnimGraph\Public\AnimNodeEditModes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\UnrealEd\Public\Kismet2/CompilerResultsLog.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\UnrealEd\Public\EdGraphToken.h
+C:/Users/TFG5076XG/Documents/GitHub/UE_VtuberStudio/Plugins/VMC4UE/Source/VMC4UEEd/Source/AnimGraphNode_ModifyVMC4UEMorph.cpp
+C:\Users\TFG5076XG\Documents\GitHub\UE_VtuberStudio\Plugins\VMC4UE\Source\VMC4UEEd\Source\../Include/AnimGraphNode_ModifyVMC4UEMorph.h
+C:\Users\TFG5076XG\Documents\GitHub\UE_VtuberStudio\Plugins\VMC4UE\Source\VMC4UEEd\Include\../../VMC4UE/Include/AnimNode_ModifyVMC4UEMorph.h
+C:\Users\TFG5076XG\Documents\GitHub\UE_VtuberStudio\Plugins\VMC4UE\Intermediate\Build\Win64\UE4Editor\Inc\VMC4UE\AnimNode_ModifyVMC4UEMorph.generated.h
+C:\Users\TFG5076XG\Documents\GitHub\UE_VtuberStudio\Plugins\VMC4UE\Intermediate\Build\Win64\UE4Editor\Inc\VMC4UEEd\AnimGraphNode_ModifyVMC4UEMorph.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\GraphEditor\Public\GraphEditorActions.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\AnimGraph\Classes\AnimationGraphSchema.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AnimGraph\AnimationGraphSchema.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\BlueprintGraph\Public\BlueprintActionDatabaseRegistrar.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\BlueprintGraph\Public\BlueprintActionDatabase.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\UnrealEd\Public\Kismet2/BlueprintEditorUtils.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor/ClassViewer/Public/ClassViewerModule.h
+C:/Users/TFG5076XG/Documents/GitHub/UE_VtuberStudio/Plugins/VMC4UE/Source/VMC4UEEd/Source/VMC4UEBoneMappingAssetFactory.cpp
+C:\Users\TFG5076XG\Documents\GitHub\UE_VtuberStudio\Plugins\VMC4UE\Source\VMC4UEEd\Source\../Include/VMC4UEBoneMappingAssetFactory.h
+C:\Users\TFG5076XG\Documents\GitHub\UE_VtuberStudio\Plugins\VMC4UE\Intermediate\Build\Win64\UE4Editor\Inc\VMC4UEEd\VMC4UEBoneMappingAssetFactory.generated.h
+C:\Users\TFG5076XG\Documents\GitHub\UE_VtuberStudio\Plugins\VMC4UE\Source\VMC4UEEd\Source\../../VMC4UE/Include/VMC4UEBoneMapping.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/NoExportTypes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/PropertyAccessUtil.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Math/UnitConversion.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Math/UnitConversion.inl
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Internationalization/PolyglotTextData.h
+C:\Users\TFG5076XG\Documents\GitHub\UE_VtuberStudio\Plugins\VMC4UE\Intermediate\Build\Win64\UE4Editor\Inc\VMC4UE\VMC4UEBoneMapping.generated.h
+C:\Users\TFG5076XG\Documents\GitHub\UE_VtuberStudio\Plugins\VMC4UE\Source\VMC4UEEd\Source\../../VMC4UE/Include/VMC4UEStreamingData.h
+C:\Users\TFG5076XG\Documents\GitHub\UE_VtuberStudio\Plugins\UEOSC\Source\UEOSC/Include/UEOscElement.h
+C:\Users\TFG5076XG\Documents\GitHub\UE_VtuberStudio\Plugins\UEOSC\Intermediate\Build\Win64\UE4Editor\Inc\UEOSC\UEOscElement.generated.h
+C:\Users\TFG5076XG\Documents\GitHub\UE_VtuberStudio\Plugins\VMC4UE\Intermediate\Build\Win64\UE4Editor\Inc\VMC4UE\VMC4UEStreamingData.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Json\Public\Dom/JsonObject.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Json\Public\JsonGlobals.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Json\Public\Serialization/JsonTypes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Json\Public\Dom/JsonValue.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\JsonUtilities\Public\JsonObjectConverter.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Json\Public\Serialization/JsonReader.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Json\Public\Serialization/JsonSerializer.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Json\Public\Serialization/JsonWriter.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\JsonUtilities\Public\JsonObjectWrapper.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\JsonUtilities\JsonObjectWrapper.generated.h
+C:/Users/TFG5076XG/Documents/GitHub/UE_VtuberStudio/Plugins/VMC4UE/Source/VMC4UEEd/VMC4UEEd.cpp
+C:\Users\TFG5076XG\Documents\GitHub\UE_VtuberStudio\Plugins\VMC4UE\Source\VMC4UEEd\VMC4UEEd.h

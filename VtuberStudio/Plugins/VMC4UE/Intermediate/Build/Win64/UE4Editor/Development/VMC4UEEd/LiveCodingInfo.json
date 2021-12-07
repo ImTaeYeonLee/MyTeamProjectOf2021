@@ -1,0 +1,17 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.VMC4UEEd.cpp.obj": [
+			"AnimGraphNode_ModifyVMC4UEBones.cpp.obj",
+			"AnimGraphNode_ModifyVMC4UEMorph.cpp.obj",
+			"VMC4UEBoneMappingAssetFactory.cpp.obj",
+			"VMC4UEEd.cpp.obj"
+		],
+		"Module.VMC4UEEd.gen.cpp.obj": [
+			"AnimGraphNode_ModifyVMC4UEBones.gen.cpp.obj",
+			"AnimGraphNode_ModifyVMC4UEMorph.gen.cpp.obj",
+			"VMC4UEBoneMappingAssetFactory.gen.cpp.obj",
+			"VMC4UEEd.init.gen.cpp.obj"
+		]
+	}
+}

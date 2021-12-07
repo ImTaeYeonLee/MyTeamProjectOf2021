@@ -1,0 +1,30 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.VRM4ULoader.cpp.obj": [
+			"LoaderBPFunctionLibrary.cpp.obj",
+			"VRM4ULoaderModule.cpp.obj",
+			"VrmAsyncLoadAction.cpp.obj",
+			"VrmConvert.cpp.obj",
+			"VrmConvertHumanoid.cpp.obj",
+			"VrmConvertMetadata.cpp.obj",
+			"VrmConvertModel.cpp.obj",
+			"VrmConvertMorphTarget.cpp.obj",
+			"VrmConvertPose.cpp.obj",
+			"VrmConvertRig.cpp.obj",
+			"VrmConvertTexture.cpp.obj",
+			"VrmJson.cpp.obj",
+			"VrmLoaderComponent.cpp.obj",
+			"VrmSkeletalMesh.cpp.obj",
+			"VrmSkeletalMeshComponent.cpp.obj",
+			"VrmSkeleton.cpp.obj"
+		],
+		"Module.VRM4ULoader.gen.cpp.obj": [
+			"LoaderBPFunctionLibrary.gen.cpp.obj",
+			"VRM4ULoader.init.gen.cpp.obj",
+			"VrmLoaderComponent.gen.cpp.obj",
+			"VrmSkeletalMesh.gen.cpp.obj",
+			"VrmSkeletalMeshComponent.gen.cpp.obj"
+		]
+	}
+}

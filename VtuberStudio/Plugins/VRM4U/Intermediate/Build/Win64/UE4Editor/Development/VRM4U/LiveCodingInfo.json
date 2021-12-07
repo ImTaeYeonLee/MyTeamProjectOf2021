@@ -1,0 +1,54 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.VRM4U.cpp.obj": [
+			"AnimNode_VrmCopyHandBone.cpp.obj",
+			"AnimNode_VrmModifyBoneDynamic.cpp.obj",
+			"AnimNode_VrmModifyHumanoidBone.cpp.obj",
+			"AnimNode_VrmQuestHandBone.cpp.obj",
+			"AnimNode_VrmSpringBone.cpp.obj",
+			"VRM4U.cpp.obj",
+			"VrmAnimInstance.cpp.obj",
+			"VrmAnimInstanceCopy.cpp.obj",
+			"VrmAssetListObject.cpp.obj",
+			"VrmBPFunctionLibrary.cpp.obj",
+			"VrmCameraCheckComponent.cpp.obj",
+			"VrmCustomStruct.cpp.obj",
+			"VrmDropFiles.cpp.obj",
+			"VrmEditorEventComponent.cpp.obj",
+			"VrmHMDTrackingComponent.cpp.obj",
+			"VrmImportMaterialSet.cpp.obj",
+			"VrmLicenseObject.cpp.obj",
+			"VrmMetaObject.cpp.obj",
+			"VrmModelActor.cpp.obj",
+			"VrmPoseableMeshComponent.cpp.obj",
+			"VrmRuntimeSettings.cpp.obj",
+			"VrmUtil.cpp.obj",
+			"VrmUtilImage.cpp.obj"
+		],
+		"Module.VRM4U.gen.cpp.obj": [
+			"AnimNode_VrmCopyHandBone.gen.cpp.obj",
+			"AnimNode_VrmModifyBoneDynamic.gen.cpp.obj",
+			"AnimNode_VrmModifyHumanoidBone.gen.cpp.obj",
+			"AnimNode_VrmQuestHandBone.gen.cpp.obj",
+			"AnimNode_VrmSpringBone.gen.cpp.obj",
+			"VRM4U.init.gen.cpp.obj",
+			"VrmAnimInstance.gen.cpp.obj",
+			"VrmAnimInstanceCopy.gen.cpp.obj",
+			"VrmAssetListObject.gen.cpp.obj",
+			"VrmBPFunctionLibrary.gen.cpp.obj",
+			"VrmCameraCheckComponent.gen.cpp.obj",
+			"VrmCustomStruct.gen.cpp.obj",
+			"VrmDropFiles.gen.cpp.obj",
+			"VrmEditorEventComponent.gen.cpp.obj",
+			"VrmHMDTrackingComponent.gen.cpp.obj",
+			"VrmImportMaterialSet.gen.cpp.obj",
+			"VrmLicenseObject.gen.cpp.obj",
+			"VrmMetaObject.gen.cpp.obj",
+			"VrmModelActor.gen.cpp.obj",
+			"VrmPoseableMeshComponent.gen.cpp.obj",
+			"VrmRuntimeSettings.gen.cpp.obj",
+			"VrmUtil.gen.cpp.obj"
+		]
+	}
+}

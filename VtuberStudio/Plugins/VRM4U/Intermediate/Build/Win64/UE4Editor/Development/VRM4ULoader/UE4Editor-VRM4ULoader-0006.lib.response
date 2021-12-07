@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-VRM4ULoader-0006.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\TFG5076XG\Documents\GitHub\UE_VtuberStudio\Intermediate\Build\Win64\UE_VtuberStudioEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\TFG5076XG\Documents\GitHub\UE_VtuberStudio\Plugins\VRM4U\Intermediate\Build\Win64\UE4Editor\Development\VRM4ULoader\Module.VRM4ULoader.cpp.obj"
+"C:\Users\TFG5076XG\Documents\GitHub\UE_VtuberStudio\Plugins\VRM4U\Intermediate\Build\Win64\UE4Editor\Development\VRM4ULoader\Module.VRM4ULoader.gen.cpp.obj"
+"C:\Users\TFG5076XG\Documents\GitHub\UE_VtuberStudio\Plugins\VRM4U\Intermediate\Build\Win64\UE4Editor\Development\VRM4ULoader\Default.rc2.res"
+/OUT:"C:\Users\TFG5076XG\Documents\GitHub\UE_VtuberStudio\Plugins\VRM4U\Intermediate\Build\Win64\UE4Editor\Development\VRM4ULoader\UE4Editor-VRM4ULoader-0006.lib"
