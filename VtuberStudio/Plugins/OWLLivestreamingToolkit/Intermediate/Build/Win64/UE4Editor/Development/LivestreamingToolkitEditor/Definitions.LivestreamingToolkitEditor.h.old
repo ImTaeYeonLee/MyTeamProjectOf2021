@@ -288,7 +288,7 @@
 #define AIMODULE_API DLLIMPORT
 #define OWL_AUTH_URL "https://plugin-api.offworld.live"
 #define PUBLIC_KEY 
-#define RELEASE_DATE 2021-11-28T19:21:27.335Z
+#define RELEASE_DATE 2021-11-28T19:22:08.274Z
 #define OFFWORLDLIVE_DEBUG 0
 #define LIVESTREAMINGTOOLKIT_API DLLIMPORT
 #define OWL_SPOUT_DLL_PATH "/Source/ThirdParty/Spout/Spout2/BUILD/Binaries/x64/Spout.dll"

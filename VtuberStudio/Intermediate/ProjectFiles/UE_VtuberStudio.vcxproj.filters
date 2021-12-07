@@ -1,0 +1,1551 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\UE_VtuberStudio.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{97FE7BF3-68CE-4E86-82D7-88FD9969C82B}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\UE_VtuberStudio.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\UE_VtuberStudioEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{C7F3B704-485C-4EA4-9D32-168B1007F382}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Plugins">
+      <UniqueIdentifier>{C62B55BE-40DE-4793-AC56-932B1588B11D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\AdvancedSessions">
+      <UniqueIdentifier>{CC5F2B66-9FBA-44CD-9E63-790EA927978B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\AdvancedSessions\Source">
+      <UniqueIdentifier>{3DFB7646-9143-4F4D-969F-358D9AFB1AEE}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\AdvancedSessions\Source\AdvancedSessions">
+      <UniqueIdentifier>{A572A8D2-F195-443F-A4BB-DD6B7E1BE948}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\AdvancedSessions\Source\AdvancedSessions\AdvancedSessions.Build.cs">
+      <Filter>Plugins\AdvancedSessions\Source\AdvancedSessions</Filter>
+    </None>
+    <Filter Include="Plugins\AdvancedSessions\Source\AdvancedSessions\Classes">
+      <UniqueIdentifier>{228CF2F9-CF4A-442D-8561-3D6EE9CD5AF3}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\AdvancedExternalUILibrary.h">
+      <Filter>Plugins\AdvancedSessions\Source\AdvancedSessions\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\AdvancedFriendsGameInstance.h">
+      <Filter>Plugins\AdvancedSessions\Source\AdvancedSessions\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\AdvancedFriendsInterface.h">
+      <Filter>Plugins\AdvancedSessions\Source\AdvancedSessions\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\AdvancedFriendsLibrary.h">
+      <Filter>Plugins\AdvancedSessions\Source\AdvancedSessions\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\AdvancedGameSession.h">
+      <Filter>Plugins\AdvancedSessions\Source\AdvancedSessions\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\AdvancedIdentityLibrary.h">
+      <Filter>Plugins\AdvancedSessions\Source\AdvancedSessions\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\AdvancedSessions.h">
+      <Filter>Plugins\AdvancedSessions\Source\AdvancedSessions\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\AdvancedSessionsLibrary.h">
+      <Filter>Plugins\AdvancedSessions\Source\AdvancedSessions\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\AdvancedVoiceLibrary.h">
+      <Filter>Plugins\AdvancedSessions\Source\AdvancedSessions\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\BlueprintDataDefinitions.h">
+      <Filter>Plugins\AdvancedSessions\Source\AdvancedSessions\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\CancelFindSessionsCallbackProxy.h">
+      <Filter>Plugins\AdvancedSessions\Source\AdvancedSessions\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\CreateSessionCallbackProxyAdvanced.h">
+      <Filter>Plugins\AdvancedSessions\Source\AdvancedSessions\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\EndSessionCallbackProxy.h">
+      <Filter>Plugins\AdvancedSessions\Source\AdvancedSessions\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\FindFriendSessionCallbackProxy.h">
+      <Filter>Plugins\AdvancedSessions\Source\AdvancedSessions\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\FindSessionsCallbackProxyAdvanced.h">
+      <Filter>Plugins\AdvancedSessions\Source\AdvancedSessions\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\GetFriendsCallbackProxy.h">
+      <Filter>Plugins\AdvancedSessions\Source\AdvancedSessions\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\GetRecentPlayersCallbackProxy.h">
+      <Filter>Plugins\AdvancedSessions\Source\AdvancedSessions\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\GetUserPrivilegeCallbackProxy.h">
+      <Filter>Plugins\AdvancedSessions\Source\AdvancedSessions\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\LoginUserCallbackProxy.h">
+      <Filter>Plugins\AdvancedSessions\Source\AdvancedSessions\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\LogoutUserCallbackProxy.h">
+      <Filter>Plugins\AdvancedSessions\Source\AdvancedSessions\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\OnlineSubSystemHeader.h">
+      <Filter>Plugins\AdvancedSessions\Source\AdvancedSessions\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\SendFriendInviteCallbackProxy.h">
+      <Filter>Plugins\AdvancedSessions\Source\AdvancedSessions\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\UpdateSessionCallbackProxyAdvanced.h">
+      <Filter>Plugins\AdvancedSessions\Source\AdvancedSessions\Classes</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\AdvancedSessions\Source\AdvancedSessions\Private">
+      <UniqueIdentifier>{9C6EE3A4-714B-404C-90B4-33BC70117DBC}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\AdvancedSessions\Source\AdvancedSessions\Private\AdvancedExternalUILibrary.cpp">
+      <Filter>Plugins\AdvancedSessions\Source\AdvancedSessions\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\AdvancedSessions\Source\AdvancedSessions\Private\AdvancedFriendsGameInstance.cpp">
+      <Filter>Plugins\AdvancedSessions\Source\AdvancedSessions\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\AdvancedSessions\Source\AdvancedSessions\Private\AdvancedFriendsInterface.cpp">
+      <Filter>Plugins\AdvancedSessions\Source\AdvancedSessions\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\AdvancedSessions\Source\AdvancedSessions\Private\AdvancedFriendsLibrary.cpp">
+      <Filter>Plugins\AdvancedSessions\Source\AdvancedSessions\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\AdvancedSessions\Source\AdvancedSessions\Private\AdvancedIdentityLibrary.cpp">
+      <Filter>Plugins\AdvancedSessions\Source\AdvancedSessions\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\AdvancedSessions\Source\AdvancedSessions\Private\AdvancedSessions.cpp">
+      <Filter>Plugins\AdvancedSessions\Source\AdvancedSessions\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\AdvancedSessions\Source\AdvancedSessions\Private\AdvancedSessionsLibrary.cpp">
+      <Filter>Plugins\AdvancedSessions\Source\AdvancedSessions\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\AdvancedSessions\Source\AdvancedSessions\Private\AdvancedVoiceLibrary.cpp">
+      <Filter>Plugins\AdvancedSessions\Source\AdvancedSessions\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\AdvancedSessions\Source\AdvancedSessions\Private\CancelFindSessionsCallbackProxy.cpp">
+      <Filter>Plugins\AdvancedSessions\Source\AdvancedSessions\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\AdvancedSessions\Source\AdvancedSessions\Private\CreateSessionCallbackProxyAdvanced.cpp">
+      <Filter>Plugins\AdvancedSessions\Source\AdvancedSessions\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\AdvancedSessions\Source\AdvancedSessions\Private\EndSessionCallbackProxy.cpp">
+      <Filter>Plugins\AdvancedSessions\Source\AdvancedSessions\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\AdvancedSessions\Source\AdvancedSessions\Private\FindFriendSessionCallbackProxy.cpp">
+      <Filter>Plugins\AdvancedSessions\Source\AdvancedSessions\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\AdvancedSessions\Source\AdvancedSessions\Private\FindSessionsCallbackProxyAdvanced.cpp">
+      <Filter>Plugins\AdvancedSessions\Source\AdvancedSessions\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\AdvancedSessions\Source\AdvancedSessions\Private\GetFriendsCallbackProxy.cpp">
+      <Filter>Plugins\AdvancedSessions\Source\AdvancedSessions\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\AdvancedSessions\Source\AdvancedSessions\Private\GetRecentPlayersCallbackProxy.cpp">
+      <Filter>Plugins\AdvancedSessions\Source\AdvancedSessions\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\AdvancedSessions\Source\AdvancedSessions\Private\GetUserPrivilegeCallbackProxy.cpp">
+      <Filter>Plugins\AdvancedSessions\Source\AdvancedSessions\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\AdvancedSessions\Source\AdvancedSessions\Private\LoginUserCallbackProxy.cpp">
+      <Filter>Plugins\AdvancedSessions\Source\AdvancedSessions\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\AdvancedSessions\Source\AdvancedSessions\Private\LogoutUserCallbackProxy.cpp">
+      <Filter>Plugins\AdvancedSessions\Source\AdvancedSessions\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\AdvancedSessions\Source\AdvancedSessions\Private\SendFriendInviteCallbackProxy.cpp">
+      <Filter>Plugins\AdvancedSessions\Source\AdvancedSessions\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\AdvancedSessions\Source\AdvancedSessions\Private\UpdateSessionCallbackProxyAdvanced.cpp">
+      <Filter>Plugins\AdvancedSessions\Source\AdvancedSessions\Private</Filter>
+    </ClCompile>
+    <None Include="..\..\Plugins\AdvancedSessions\AdvancedSessions.uplugin">
+      <Filter>Plugins\AdvancedSessions</Filter>
+    </None>
+    <Filter Include="Plugins\AdvancedSessions\Resources">
+      <UniqueIdentifier>{26E61432-890C-4287-B221-8FF38ED106F4}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\AdvancedSessions\Resources\Icon128.png">
+      <Filter>Plugins\AdvancedSessions\Resources</Filter>
+    </None>
+    <Filter Include="Plugins\AdvancedSteamSessions">
+      <UniqueIdentifier>{24CC9819-598D-4CCB-8E10-06FE707DA2EF}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\AdvancedSteamSessions\AdvancedSteamSessions.uplugin">
+      <Filter>Plugins\AdvancedSteamSessions</Filter>
+    </None>
+    <Filter Include="Plugins\AdvancedSteamSessions\Resources">
+      <UniqueIdentifier>{53644FB2-BC7C-4EDB-8BA7-5C7AC7860777}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\AdvancedSteamSessions\Resources\Icon128.png">
+      <Filter>Plugins\AdvancedSteamSessions\Resources</Filter>
+    </None>
+    <Filter Include="Plugins\APSLiveLink">
+      <UniqueIdentifier>{AEBCA696-3D85-4885-8A41-2D49F79022C7}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\APSLiveLink\APSLiveLink.uplugin">
+      <Filter>Plugins\APSLiveLink</Filter>
+    </None>
+    <Filter Include="Plugins\APSLiveLink\Resources">
+      <UniqueIdentifier>{8C14122F-8A46-44FB-9E55-665AFBF838B9}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\APSLiveLink\Resources\Icon128.png">
+      <Filter>Plugins\APSLiveLink\Resources</Filter>
+    </None>
+    <Filter Include="Plugins\GoogleSTT">
+      <UniqueIdentifier>{7127E2FB-B1C9-4A7A-AEA1-1BE29F9F923E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\GoogleSTT\GoogleSTT.uplugin">
+      <Filter>Plugins\GoogleSTT</Filter>
+    </None>
+    <Filter Include="Plugins\GoogleSTT\Resources">
+      <UniqueIdentifier>{77A9096C-4695-494E-BB67-0E833089E2B0}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\GoogleSTT\Resources\Icon128.png">
+      <Filter>Plugins\GoogleSTT\Resources</Filter>
+    </None>
+    <Filter Include="Plugins\OWLLivestreamingToolkit">
+      <UniqueIdentifier>{2A9FAD39-1A25-491A-8414-385F0E78C1D5}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\OWLLivestreamingToolkit\OWLLivestreamingToolkit.uplugin">
+      <Filter>Plugins\OWLLivestreamingToolkit</Filter>
+    </None>
+    <Filter Include="Plugins\OWLLivestreamingToolkit\Resources">
+      <UniqueIdentifier>{B8A50806-19E8-4C26-8FAA-0A31E94CD5A2}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\OWLLivestreamingToolkit\Resources\Icon128.png">
+      <Filter>Plugins\OWLLivestreamingToolkit\Resources</Filter>
+    </None>
+    <Filter Include="Plugins\OWLLivestreamingToolkit\Resources\ClassIcons">
+      <UniqueIdentifier>{8447F3B4-DDD1-40B6-B704-A80277B746FF}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\OWLLivestreamingToolkit\Resources\ClassIcons\CineCapture_16x.png">
+      <Filter>Plugins\OWLLivestreamingToolkit\Resources\ClassIcons</Filter>
+    </None>
+    <None Include="..\..\Plugins\OWLLivestreamingToolkit\Resources\ClassIcons\CineCapture_64x.png">
+      <Filter>Plugins\OWLLivestreamingToolkit\Resources\ClassIcons</Filter>
+    </None>
+    <None Include="..\..\Plugins\OWLLivestreamingToolkit\Resources\ClassIcons\FinalOutput_16x.png">
+      <Filter>Plugins\OWLLivestreamingToolkit\Resources\ClassIcons</Filter>
+    </None>
+    <None Include="..\..\Plugins\OWLLivestreamingToolkit\Resources\ClassIcons\FinalOutput_64x.png">
+      <Filter>Plugins\OWLLivestreamingToolkit\Resources\ClassIcons</Filter>
+    </None>
+    <None Include="..\..\Plugins\OWLLivestreamingToolkit\Resources\ClassIcons\Instant_16x.png">
+      <Filter>Plugins\OWLLivestreamingToolkit\Resources\ClassIcons</Filter>
+    </None>
+    <None Include="..\..\Plugins\OWLLivestreamingToolkit\Resources\ClassIcons\Instant_64x.png">
+      <Filter>Plugins\OWLLivestreamingToolkit\Resources\ClassIcons</Filter>
+    </None>
+    <None Include="..\..\Plugins\OWLLivestreamingToolkit\Resources\ClassIcons\Receiver_16x.png">
+      <Filter>Plugins\OWLLivestreamingToolkit\Resources\ClassIcons</Filter>
+    </None>
+    <None Include="..\..\Plugins\OWLLivestreamingToolkit\Resources\ClassIcons\Receiver_64x.png">
+      <Filter>Plugins\OWLLivestreamingToolkit\Resources\ClassIcons</Filter>
+    </None>
+    <None Include="..\..\Plugins\OWLLivestreamingToolkit\Resources\ClassIcons\Sender_16x.png">
+      <Filter>Plugins\OWLLivestreamingToolkit\Resources\ClassIcons</Filter>
+    </None>
+    <None Include="..\..\Plugins\OWLLivestreamingToolkit\Resources\ClassIcons\Sender_64x.png">
+      <Filter>Plugins\OWLLivestreamingToolkit\Resources\ClassIcons</Filter>
+    </None>
+    <Filter Include="Plugins\OWLLivestreamingToolkit\Resources\Logo">
+      <UniqueIdentifier>{742CAD9F-AAAA-4F09-BE9E-431B61974D95}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\OWLLivestreamingToolkit\Resources\Logo\Logo_40x.png">
+      <Filter>Plugins\OWLLivestreamingToolkit\Resources\Logo</Filter>
+    </None>
+    <None Include="..\..\Plugins\OWLLivestreamingToolkit\Resources\Logo\Logo_80x.png">
+      <Filter>Plugins\OWLLivestreamingToolkit\Resources\Logo</Filter>
+    </None>
+    <None Include="..\..\Plugins\OWLLivestreamingToolkit\Resources\Logo\Logo_full.png">
+      <Filter>Plugins\OWLLivestreamingToolkit\Resources\Logo</Filter>
+    </None>
+    <Filter Include="Plugins\OWLLivestreamingToolkit\Resources\Wizard">
+      <UniqueIdentifier>{34267CA1-1F88-41A7-A74F-BC63AF403495}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\OWLLivestreamingToolkit\Resources\Wizard\Wizard_128x.png">
+      <Filter>Plugins\OWLLivestreamingToolkit\Resources\Wizard</Filter>
+    </None>
+    <None Include="..\..\Plugins\OWLLivestreamingToolkit\Resources\Wizard\Wizard_16x.png">
+      <Filter>Plugins\OWLLivestreamingToolkit\Resources\Wizard</Filter>
+    </None>
+    <None Include="..\..\Plugins\OWLLivestreamingToolkit\Resources\Wizard\Wizard_250x.png">
+      <Filter>Plugins\OWLLivestreamingToolkit\Resources\Wizard</Filter>
+    </None>
+    <Filter Include="Plugins\UEOSC">
+      <UniqueIdentifier>{94B2AE31-5E71-4E39-932E-A2F125AC70C8}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\UEOSC\UEOSC.uplugin">
+      <Filter>Plugins\UEOSC</Filter>
+    </None>
+    <Filter Include="Plugins\UEOSC\Resources">
+      <UniqueIdentifier>{422E8844-4720-4F88-AB4D-C8777E0C58CB}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\UEOSC\Resources\Icon128.png">
+      <Filter>Plugins\UEOSC\Resources</Filter>
+    </None>
+    <Filter Include="Plugins\UnrealAnimatedTexturePlugin-master">
+      <UniqueIdentifier>{31F7345D-629E-46A8-A1F3-07DC09F914B4}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\UnrealAnimatedTexturePlugin-master\AnimatedTexture.uplugin">
+      <Filter>Plugins\UnrealAnimatedTexturePlugin-master</Filter>
+    </None>
+    <Filter Include="Plugins\UnrealAnimatedTexturePlugin-master\Config">
+      <UniqueIdentifier>{21AFDED5-1BF0-4BC9-9BAE-CB17DAE3FFFA}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\UnrealAnimatedTexturePlugin-master\Config\FilterPlugin.ini">
+      <Filter>Plugins\UnrealAnimatedTexturePlugin-master\Config</Filter>
+    </None>
+    <Filter Include="Plugins\UnrealAnimatedTexturePlugin-master\Resources">
+      <UniqueIdentifier>{3233DCA1-493E-453D-AC3A-F27099858B42}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\UnrealAnimatedTexturePlugin-master\Resources\Icon128.png">
+      <Filter>Plugins\UnrealAnimatedTexturePlugin-master\Resources</Filter>
+    </None>
+    <None Include="..\..\Plugins\UnrealAnimatedTexturePlugin-master\Resources\Icon284.png">
+      <Filter>Plugins\UnrealAnimatedTexturePlugin-master\Resources</Filter>
+    </None>
+    <Filter Include="Plugins\VMC4UE">
+      <UniqueIdentifier>{CEAE0D28-00FB-4C78-8FEE-4749A2A0BEE8}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\VMC4UE\VMC4UE.uplugin">
+      <Filter>Plugins\VMC4UE</Filter>
+    </None>
+    <Filter Include="Plugins\VMC4UE\Resources">
+      <UniqueIdentifier>{590A0856-7BE9-4F16-BDE0-F38BCFAF46EB}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\VMC4UE\Resources\Icon128.png">
+      <Filter>Plugins\VMC4UE\Resources</Filter>
+    </None>
+    <Filter Include="Plugins\VRM4U">
+      <UniqueIdentifier>{CE917D4D-3898-4851-808F-1EADDD6649EC}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\VRM4U\VRM4U.uplugin">
+      <Filter>Plugins\VRM4U</Filter>
+    </None>
+    <Filter Include="Plugins\VRM4U\Resources">
+      <UniqueIdentifier>{74308CC0-B9A3-4069-9A13-A8ADFF67AF8A}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\VRM4U\Resources\Icon128.png">
+      <Filter>Plugins\VRM4U\Resources</Filter>
+    </None>
+    <Filter Include="Plugins\AdvancedSteamSessions\Source">
+      <UniqueIdentifier>{A301245F-3C8C-4CD4-B3D7-C74B1FF9E511}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\AdvancedSteamSessions\Source\AdvancedSteamSessions">
+      <UniqueIdentifier>{3F3EE99F-0EE6-481F-8726-1FF2D657F4E7}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\AdvancedSteamSessions\Source\AdvancedSteamSessions\AdvancedSteamSessions.Build.cs">
+      <Filter>Plugins\AdvancedSteamSessions\Source\AdvancedSteamSessions</Filter>
+    </None>
+    <Filter Include="Plugins\AdvancedSteamSessions\Source\AdvancedSteamSessions\Classes">
+      <UniqueIdentifier>{005687C6-34DA-42BD-8502-253F473F4ACC}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\AdvancedSteamSessions\Source\AdvancedSteamSessions\Classes\AdvancedSteamFriendsLibrary.h">
+      <Filter>Plugins\AdvancedSteamSessions\Source\AdvancedSteamSessions\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\AdvancedSteamSessions\Source\AdvancedSteamSessions\Classes\AdvancedSteamSessions.h">
+      <Filter>Plugins\AdvancedSteamSessions\Source\AdvancedSteamSessions\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\AdvancedSteamSessions\Source\AdvancedSteamSessions\Classes\AdvancedSteamWorkshopLibrary.h">
+      <Filter>Plugins\AdvancedSteamSessions\Source\AdvancedSteamSessions\Classes</Filter>
+    </ClInclude>
+    <None Include="..\..\Plugins\AdvancedSteamSessions\Source\AdvancedSteamSessions\Classes\AdvancedSteamWorkshopLibrary.h.orig">
+      <Filter>Plugins\AdvancedSteamSessions\Source\AdvancedSteamSessions\Classes</Filter>
+    </None>
+    <ClInclude Include="..\..\Plugins\AdvancedSteamSessions\Source\AdvancedSteamSessions\Classes\SteamRequestGroupOfficersCallbackProxy.h">
+      <Filter>Plugins\AdvancedSteamSessions\Source\AdvancedSteamSessions\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\AdvancedSteamSessions\Source\AdvancedSteamSessions\Classes\SteamWSRequestUGCDetailsCallbackProxy.h">
+      <Filter>Plugins\AdvancedSteamSessions\Source\AdvancedSteamSessions\Classes</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\AdvancedSteamSessions\Source\AdvancedSteamSessions\Private">
+      <UniqueIdentifier>{667F3228-FABB-4EF2-8DFB-1853BA14A326}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\AdvancedSteamSessions\Source\AdvancedSteamSessions\Private\AdvancedSteamFriendsLibrary.cpp">
+      <Filter>Plugins\AdvancedSteamSessions\Source\AdvancedSteamSessions\Private</Filter>
+    </ClCompile>
+    <None Include="..\..\Plugins\AdvancedSteamSessions\Source\AdvancedSteamSessions\Private\AdvancedSteamFriendsLibrary.cpp.orig">
+      <Filter>Plugins\AdvancedSteamSessions\Source\AdvancedSteamSessions\Private</Filter>
+    </None>
+    <ClCompile Include="..\..\Plugins\AdvancedSteamSessions\Source\AdvancedSteamSessions\Private\AdvancedSteamSessions.cpp">
+      <Filter>Plugins\AdvancedSteamSessions\Source\AdvancedSteamSessions\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\AdvancedSteamSessions\Source\AdvancedSteamSessions\Private\AdvancedSteamWorkshopLibrary.cpp">
+      <Filter>Plugins\AdvancedSteamSessions\Source\AdvancedSteamSessions\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\AdvancedSteamSessions\Source\AdvancedSteamSessions\Private\SteamRequestGroupOfficersCallbackProxy.cpp">
+      <Filter>Plugins\AdvancedSteamSessions\Source\AdvancedSteamSessions\Private</Filter>
+    </ClCompile>
+    <None Include="..\..\Plugins\AdvancedSteamSessions\Source\AdvancedSteamSessions\Private\SteamRequestGroupOfficersCallbackProxy.cpp.orig">
+      <Filter>Plugins\AdvancedSteamSessions\Source\AdvancedSteamSessions\Private</Filter>
+    </None>
+    <ClCompile Include="..\..\Plugins\AdvancedSteamSessions\Source\AdvancedSteamSessions\Private\SteamWSRequestUGCDetailsCallbackProxy.cpp">
+      <Filter>Plugins\AdvancedSteamSessions\Source\AdvancedSteamSessions\Private</Filter>
+    </ClCompile>
+    <None Include="..\..\Plugins\AdvancedSteamSessions\Source\AdvancedSteamSessions\Private\SteamWSRequestUGCDetailsCallbackProxy.cpp.orig">
+      <Filter>Plugins\AdvancedSteamSessions\Source\AdvancedSteamSessions\Private</Filter>
+    </None>
+    <Filter Include="Plugins\APSLiveLink\Source">
+      <UniqueIdentifier>{4BBF9D72-5A4E-41DB-9BAD-D148686CD6AF}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\APSLiveLink\Source\APSLiveLink">
+      <UniqueIdentifier>{9D5DF6A1-2700-4A06-BF8F-2FA40EF60C23}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\APSLiveLink\Source\APSLiveLink\APSLiveLink.Build.cs">
+      <Filter>Plugins\APSLiveLink\Source\APSLiveLink</Filter>
+    </None>
+    <Filter Include="Plugins\APSLiveLink\Source\APSLiveLink\Private">
+      <UniqueIdentifier>{2D6B019C-3AC7-4F59-BA84-EE2CF68EA666}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\APSLiveLink\Source\APSLiveLink\Private\APSClient.cpp">
+      <Filter>Plugins\APSLiveLink\Source\APSLiveLink\Private</Filter>
+    </ClCompile>
+    <Filter Include="Plugins\APSLiveLink\Source\APSLiveLink\Public">
+      <UniqueIdentifier>{37B606B1-15F4-4DF4-94F8-F160DB3222AE}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\APSLiveLink\Source\APSLiveLink\Public\AnimNode_APSARKitNode.h">
+      <Filter>Plugins\APSLiveLink\Source\APSLiveLink\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\APSLiveLink\Source\APSLiveLink\Public\AnimNode_APSLiveLinkNode.h">
+      <Filter>Plugins\APSLiveLink\Source\APSLiveLink\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\APSLiveLink\Source\APSLiveLink\Public\APSClient.h">
+      <Filter>Plugins\APSLiveLink\Source\APSLiveLink\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\APSLiveLink\Source\APSLiveLink\Public\APSLiveLink.h">
+      <Filter>Plugins\APSLiveLink\Source\APSLiveLink\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\APSLiveLink\Source\APSLiveLink\Public\APSMocapServerSync.h">
+      <Filter>Plugins\APSLiveLink\Source\APSLiveLink\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\APSLiveLink\Source\APSLiveLink\Public\APSVirtualTrackerNode.h">
+      <Filter>Plugins\APSLiveLink\Source\APSLiveLink\Public</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\APSLiveLink\Source\APSLiveLinkEditor">
+      <UniqueIdentifier>{41EAE9F6-DE73-4811-B878-FDDE4FAD7A0D}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\APSLiveLink\Source\APSLiveLinkEditor\APSLiveLinkEditor.Build.cs">
+      <Filter>Plugins\APSLiveLink\Source\APSLiveLinkEditor</Filter>
+    </None>
+    <Filter Include="Plugins\APSLiveLink\Source\APSLiveLinkEditor\Private">
+      <UniqueIdentifier>{881C30C7-5CE1-4215-BE77-318BAAC502E4}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\APSLiveLink\Source\APSLiveLinkEditor\Private\AnimGraphNode_APSARKitNode.cpp">
+      <Filter>Plugins\APSLiveLink\Source\APSLiveLinkEditor\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\APSLiveLink\Source\APSLiveLinkEditor\Private\AnimGraphNode_APSLiveLinkNode.cpp">
+      <Filter>Plugins\APSLiveLink\Source\APSLiveLinkEditor\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\APSLiveLink\Source\APSLiveLinkEditor\Private\APSLiveLinkEditor.cpp">
+      <Filter>Plugins\APSLiveLink\Source\APSLiveLinkEditor\Private</Filter>
+    </ClCompile>
+    <Filter Include="Plugins\APSLiveLink\Source\APSLiveLinkEditor\Public">
+      <UniqueIdentifier>{6959D4AD-2009-4E39-99A9-A0740998F31E}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\APSLiveLink\Source\APSLiveLinkEditor\Public\AnimGraphNode_APSARKitNode.h">
+      <Filter>Plugins\APSLiveLink\Source\APSLiveLinkEditor\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\APSLiveLink\Source\APSLiveLinkEditor\Public\AnimGraphNode_APSLiveLinkNode.h">
+      <Filter>Plugins\APSLiveLink\Source\APSLiveLinkEditor\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\APSLiveLink\Source\APSLiveLinkEditor\Public\APSLiveLinkEditor.h">
+      <Filter>Plugins\APSLiveLink\Source\APSLiveLinkEditor\Public</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\GoogleSTT\Source">
+      <UniqueIdentifier>{FCB20D91-CD78-4B2D-98C5-7C1B6FB2E821}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\GoogleSTT\Source\GoogleSTT">
+      <UniqueIdentifier>{9A3CC8A7-B366-4EAD-9884-CC7A283BABDD}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\GoogleSTT\Source\GoogleSTT\GoogleSTT.Build.cs">
+      <Filter>Plugins\GoogleSTT\Source\GoogleSTT</Filter>
+    </None>
+    <Filter Include="Plugins\GoogleSTT\Source\GoogleSTT\Private">
+      <UniqueIdentifier>{39A4A0B2-322F-4E80-87B4-01B0AF3D037B}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\GoogleSTT\Source\GoogleSTT\Private\GoogleSpeechRecognition.cpp">
+      <Filter>Plugins\GoogleSTT\Source\GoogleSTT\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\GoogleSTT\Source\GoogleSTT\Private\GoogleSTT.cpp">
+      <Filter>Plugins\GoogleSTT\Source\GoogleSTT\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\GoogleSTT\Source\GoogleSTT\Private\RecordingComponent.cpp">
+      <Filter>Plugins\GoogleSTT\Source\GoogleSTT\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\GoogleSTT\Source\GoogleSTT\Private\RecordingManager.cpp">
+      <Filter>Plugins\GoogleSTT\Source\GoogleSTT\Private</Filter>
+    </ClCompile>
+    <Filter Include="Plugins\GoogleSTT\Source\GoogleSTT\Public">
+      <UniqueIdentifier>{96866867-56FD-4764-90AF-D36ACBA99DE7}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\GoogleSTT\Source\GoogleSTT\Public\GoogleSpeechRecognition.h">
+      <Filter>Plugins\GoogleSTT\Source\GoogleSTT\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\GoogleSTT\Source\GoogleSTT\Public\GoogleSTT.h">
+      <Filter>Plugins\GoogleSTT\Source\GoogleSTT\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\GoogleSTT\Source\GoogleSTT\Public\RecordingComponent.h">
+      <Filter>Plugins\GoogleSTT\Source\GoogleSTT\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\GoogleSTT\Source\GoogleSTT\Public\RecordingManager.h">
+      <Filter>Plugins\GoogleSTT\Source\GoogleSTT\Public</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\OWLLivestreamingToolkit\Source">
+      <UniqueIdentifier>{DBB6CBB5-8B87-4149-90A1-ED76112A20A3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\OWLLivestreamingToolkit\Source\LivestreamingToolkit">
+      <UniqueIdentifier>{2B2A0393-4D0C-4BC7-8A81-FAFE70FE9516}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\OWLLivestreamingToolkit\Source\LivestreamingToolkit\LivestreamingToolkit.Build.cs">
+      <Filter>Plugins\OWLLivestreamingToolkit\Source\LivestreamingToolkit</Filter>
+    </None>
+    <Filter Include="Plugins\OWLLivestreamingToolkit\Source\LivestreamingToolkit\Public">
+      <UniqueIdentifier>{8DDB34A6-A00C-4F0B-97E2-0EA7A3FF07E3}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\OWLLivestreamingToolkit\Source\LivestreamingToolkit\Public\LivestreamingToolkitModule.h">
+      <Filter>Plugins\OWLLivestreamingToolkit\Source\LivestreamingToolkit\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\OWLLivestreamingToolkit\Source\LivestreamingToolkit\Public\OWLCaptureComponent.h">
+      <Filter>Plugins\OWLLivestreamingToolkit\Source\LivestreamingToolkit\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\OWLLivestreamingToolkit\Source\LivestreamingToolkit\Public\OWLCineCamCapture.h">
+      <Filter>Plugins\OWLLivestreamingToolkit\Source\LivestreamingToolkit\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\OWLLivestreamingToolkit\Source\LivestreamingToolkit\Public\OWLPROBlueprintFunctionLibrary.h">
+      <Filter>Plugins\OWLLivestreamingToolkit\Source\LivestreamingToolkit\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\OWLLivestreamingToolkit\Source\LivestreamingToolkit\Public\OWLSpoutReceiverManager.h">
+      <Filter>Plugins\OWLLivestreamingToolkit\Source\LivestreamingToolkit\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\OWLLivestreamingToolkit\Source\LivestreamingToolkit\Public\OWLSpoutSenderManager.h">
+      <Filter>Plugins\OWLLivestreamingToolkit\Source\LivestreamingToolkit\Public</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\OWLLivestreamingToolkit\Source\LivestreamingToolkit\Public\InstantCamera">
+      <UniqueIdentifier>{7A16F138-A783-4939-8F51-E2D495779CD3}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\OWLLivestreamingToolkit\Source\LivestreamingToolkit\Public\InstantCamera\OWLInstantSpoutCamera.h">
+      <Filter>Plugins\OWLLivestreamingToolkit\Source\LivestreamingToolkit\Public\InstantCamera</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\OWLLivestreamingToolkit\Source\LivestreamingToolkit\Public\InstantCamera\SceneCaptureComponent2DNoMesh.h">
+      <Filter>Plugins\OWLLivestreamingToolkit\Source\LivestreamingToolkit\Public\InstantCamera</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\OWLLivestreamingToolkit\Source\LivestreamingToolkit\Public\Tools">
+      <UniqueIdentifier>{AFDACB5C-1E68-4276-B31F-36F0CDA7851E}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\OWLLivestreamingToolkit\Source\LivestreamingToolkit\Public\Tools\OWLWatermark.h">
+      <Filter>Plugins\OWLLivestreamingToolkit\Source\LivestreamingToolkit\Public\Tools</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\OWLLivestreamingToolkit\Source\LivestreamingToolkitEditor">
+      <UniqueIdentifier>{9143D1DB-9896-44C0-898F-8BD30F6D6D71}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\OWLLivestreamingToolkit\Source\LivestreamingToolkitEditor\LivestreamingToolkitEditor.Build.cs">
+      <Filter>Plugins\OWLLivestreamingToolkit\Source\LivestreamingToolkitEditor</Filter>
+    </None>
+    <Filter Include="Plugins\OWLLivestreamingToolkit\Source\LivestreamingToolkitEditor\Public">
+      <UniqueIdentifier>{F9C5A05F-530F-4C9D-9AC1-1BE7D6BC5050}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\OWLLivestreamingToolkit\Source\LivestreamingToolkitEditor\Public\LivestreamingToolkitEditor.h">
+      <Filter>Plugins\OWLLivestreamingToolkit\Source\LivestreamingToolkitEditor\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\OWLLivestreamingToolkit\Source\LivestreamingToolkitEditor\Public\LivestreamingToolkitEditorCommands.h">
+      <Filter>Plugins\OWLLivestreamingToolkit\Source\LivestreamingToolkitEditor\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\OWLLivestreamingToolkit\Source\LivestreamingToolkitEditor\Public\LivestreamingToolkitEditorStyle.h">
+      <Filter>Plugins\OWLLivestreamingToolkit\Source\LivestreamingToolkitEditor\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\OWLLivestreamingToolkit\Source\LivestreamingToolkitEditor\Public\LoginWarningDebugText.h">
+      <Filter>Plugins\OWLLivestreamingToolkit\Source\LivestreamingToolkitEditor\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\OWLLivestreamingToolkit\Source\LivestreamingToolkitEditor\Public\SCineStreamWizard.h">
+      <Filter>Plugins\OWLLivestreamingToolkit\Source\LivestreamingToolkitEditor\Public</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\OWLLivestreamingToolkit\Source\LivestreamingToolkitEditor\Public\DetailCustomisations">
+      <UniqueIdentifier>{608672C3-10AE-4B7F-9009-5D222D10571E}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\OWLLivestreamingToolkit\Source\LivestreamingToolkitEditor\Public\DetailCustomisations\ActiveSenderNamesCustomisation.h">
+      <Filter>Plugins\OWLLivestreamingToolkit\Source\LivestreamingToolkitEditor\Public\DetailCustomisations</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\OWLLivestreamingToolkit\Source\LivestreamingToolkitEditor\Public\DetailCustomisations\CaptureComponentDetailsCustomisation.h">
+      <Filter>Plugins\OWLLivestreamingToolkit\Source\LivestreamingToolkitEditor\Public\DetailCustomisations</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\OWLLivestreamingToolkit\Source\LivestreamingToolkitEditor\Public\RenderTargetPreview">
+      <UniqueIdentifier>{7C5415F7-44A6-445C-AC73-601AA7CA0AC2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\OWLLivestreamingToolkit\Source\LivestreamingToolkitEditor\Public\RenderTargetPreview\Asset">
+      <UniqueIdentifier>{BF651F3B-A489-4514-8B8F-D09BEC7C3EF8}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\OWLLivestreamingToolkit\Source\LivestreamingToolkitEditor\Public\RenderTargetPreview\Asset\AssetTypeActions_FinalOutputPreview.h">
+      <Filter>Plugins\OWLLivestreamingToolkit\Source\LivestreamingToolkitEditor\Public\RenderTargetPreview\Asset</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\OWLLivestreamingToolkit\Source\LivestreamingToolkitEditor\Public\RenderTargetPreview\Asset\FinalOutputPreview.h">
+      <Filter>Plugins\OWLLivestreamingToolkit\Source\LivestreamingToolkitEditor\Public\RenderTargetPreview\Asset</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\OWLLivestreamingToolkit\Source\LivestreamingToolkitEditor\Public\RenderTargetPreview\Asset\FinalOutputPreviewFactory.h">
+      <Filter>Plugins\OWLLivestreamingToolkit\Source\LivestreamingToolkitEditor\Public\RenderTargetPreview\Asset</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\OWLLivestreamingToolkit\Source\LivestreamingToolkitEditor\Public\RenderTargetPreview\Editor">
+      <UniqueIdentifier>{C059F0C4-EAEE-40AE-8C12-584AC836AE1D}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\OWLLivestreamingToolkit\Source\LivestreamingToolkitEditor\Public\RenderTargetPreview\Editor\FinalOutputPreviewEditor.h">
+      <Filter>Plugins\OWLLivestreamingToolkit\Source\LivestreamingToolkitEditor\Public\RenderTargetPreview\Editor</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\OWLLivestreamingToolkit\Source\LivestreamingToolkitEditorShaders">
+      <UniqueIdentifier>{1383BD14-85CC-483F-B5E9-6AE11EEFD560}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\OWLLivestreamingToolkit\Source\LivestreamingToolkitEditorShaders\LivestreamingToolkitEditorShaders.Build.cs">
+      <Filter>Plugins\OWLLivestreamingToolkit\Source\LivestreamingToolkitEditorShaders</Filter>
+    </None>
+    <Filter Include="Plugins\OWLLivestreamingToolkit\Source\LivestreamingToolkitEditorShaders\Public">
+      <UniqueIdentifier>{1D68746A-216B-4E90-9EB9-61817FF94C0A}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\OWLLivestreamingToolkit\Source\LivestreamingToolkitEditorShaders\Public\LivestreamingToolkitEditorShaders.h">
+      <Filter>Plugins\OWLLivestreamingToolkit\Source\LivestreamingToolkitEditorShaders\Public</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\OWLLivestreamingToolkit\Source\LivestreamingToolkitEditorShaders\Public\RenderTargetPreview">
+      <UniqueIdentifier>{743CB674-8187-4741-BCBD-959FB6564173}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\OWLLivestreamingToolkit\Source\LivestreamingToolkitEditorShaders\Public\RenderTargetPreview\FinalOutputPreviewBatchElements.h">
+      <Filter>Plugins\OWLLivestreamingToolkit\Source\LivestreamingToolkitEditorShaders\Public\RenderTargetPreview</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\OWLLivestreamingToolkit\Source\ThirdParty">
+      <UniqueIdentifier>{0056C266-634E-4E68-AC92-7EDF6D6E8126}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\OWLLivestreamingToolkit\Source\ThirdParty\Spout">
+      <UniqueIdentifier>{B8E0A623-928E-466A-B6BF-D1C46B11CADF}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\OWLLivestreamingToolkit\Source\ThirdParty\Spout\Spout.Build.cs">
+      <Filter>Plugins\OWLLivestreamingToolkit\Source\ThirdParty\Spout</Filter>
+    </None>
+    <Filter Include="Plugins\OWLLivestreamingToolkit\Source\ThirdParty\Spout\Spout2">
+      <UniqueIdentifier>{0D29DF98-64E3-47AF-9758-CD315EF3DCD9}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\OWLLivestreamingToolkit\Source\ThirdParty\Spout\Spout2\Building the libraries.pdf">
+      <Filter>Plugins\OWLLivestreamingToolkit\Source\ThirdParty\Spout\Spout2</Filter>
+    </None>
+    <None Include="..\..\Plugins\OWLLivestreamingToolkit\Source\ThirdParty\Spout\Spout2\LICENSE">
+      <Filter>Plugins\OWLLivestreamingToolkit\Source\ThirdParty\Spout\Spout2</Filter>
+    </None>
+    <Filter Include="Plugins\OWLLivestreamingToolkit\Source\ThirdParty\Spout\Spout2\BUILD">
+      <UniqueIdentifier>{DED68971-4378-4E0E-8A3E-E88FBD432558}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\OWLLivestreamingToolkit\Source\ThirdParty\Spout\Spout2\BUILD\README.md">
+      <Filter>Plugins\OWLLivestreamingToolkit\Source\ThirdParty\Spout\Spout2\BUILD</Filter>
+    </None>
+    <Filter Include="Plugins\OWLLivestreamingToolkit\Source\ThirdParty\Spout\Spout2\BUILD\Binaries">
+      <UniqueIdentifier>{D630047A-447C-4CA9-B7DD-4233F36E8F9E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\OWLLivestreamingToolkit\Source\ThirdParty\Spout\Spout2\BUILD\Binaries\Win32">
+      <UniqueIdentifier>{894D30C9-0203-4C69-97CE-0F0BE1C1A884}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\OWLLivestreamingToolkit\Source\ThirdParty\Spout\Spout2\BUILD\Binaries\Win32\Spout.dll">
+      <Filter>Plugins\OWLLivestreamingToolkit\Source\ThirdParty\Spout\Spout2\BUILD\Binaries\Win32</Filter>
+    </None>
+    <None Include="..\..\Plugins\OWLLivestreamingToolkit\Source\ThirdParty\Spout\Spout2\BUILD\Binaries\Win32\Spout.lib">
+      <Filter>Plugins\OWLLivestreamingToolkit\Source\ThirdParty\Spout\Spout2\BUILD\Binaries\Win32</Filter>
+    </None>
+    <None Include="..\..\Plugins\OWLLivestreamingToolkit\Source\ThirdParty\Spout\Spout2\BUILD\Binaries\Win32\SpoutDX.dll">
+      <Filter>Plugins\OWLLivestreamingToolkit\Source\ThirdParty\Spout\Spout2\BUILD\Binaries\Win32</Filter>
+    </None>
+    <None Include="..\..\Plugins\OWLLivestreamingToolkit\Source\ThirdParty\Spout\Spout2\BUILD\Binaries\Win32\SpoutDX.lib">
+      <Filter>Plugins\OWLLivestreamingToolkit\Source\ThirdParty\Spout\Spout2\BUILD\Binaries\Win32</Filter>
+    </None>
+    <None Include="..\..\Plugins\OWLLivestreamingToolkit\Source\ThirdParty\Spout\Spout2\BUILD\Binaries\Win32\SpoutLibrary.dll">
+      <Filter>Plugins\OWLLivestreamingToolkit\Source\ThirdParty\Spout\Spout2\BUILD\Binaries\Win32</Filter>
+    </None>
+    <None Include="..\..\Plugins\OWLLivestreamingToolkit\Source\ThirdParty\Spout\Spout2\BUILD\Binaries\Win32\SpoutLibrary.lib">
+      <Filter>Plugins\OWLLivestreamingToolkit\Source\ThirdParty\Spout\Spout2\BUILD\Binaries\Win32</Filter>
+    </None>
+    <None Include="..\..\Plugins\OWLLivestreamingToolkit\Source\ThirdParty\Spout\Spout2\BUILD\Binaries\Win32\Spout_static.lib">
+      <Filter>Plugins\OWLLivestreamingToolkit\Source\ThirdParty\Spout\Spout2\BUILD\Binaries\Win32</Filter>
+    </None>
+    <Filter Include="Plugins\OWLLivestreamingToolkit\Source\ThirdParty\Spout\Spout2\BUILD\Binaries\x64">
+      <UniqueIdentifier>{E505B6C2-C705-4226-8D32-F1CB9992CF43}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\OWLLivestreamingToolkit\Source\ThirdParty\Spout\Spout2\BUILD\Binaries\x64\Spout.dll">
+      <Filter>Plugins\OWLLivestreamingToolkit\Source\ThirdParty\Spout\Spout2\BUILD\Binaries\x64</Filter>
+    </None>
+    <None Include="..\..\Plugins\OWLLivestreamingToolkit\Source\ThirdParty\Spout\Spout2\BUILD\Binaries\x64\Spout.lib">
+      <Filter>Plugins\OWLLivestreamingToolkit\Source\ThirdParty\Spout\Spout2\BUILD\Binaries\x64</Filter>
+    </None>
+    <None Include="..\..\Plugins\OWLLivestreamingToolkit\Source\ThirdParty\Spout\Spout2\BUILD\Binaries\x64\SpoutDX.dll">
+      <Filter>Plugins\OWLLivestreamingToolkit\Source\ThirdParty\Spout\Spout2\BUILD\Binaries\x64</Filter>
+    </None>
+    <None Include="..\..\Plugins\OWLLivestreamingToolkit\Source\ThirdParty\Spout\Spout2\BUILD\Binaries\x64\SpoutDX.lib">
+      <Filter>Plugins\OWLLivestreamingToolkit\Source\ThirdParty\Spout\Spout2\BUILD\Binaries\x64</Filter>
+    </None>
+    <None Include="..\..\Plugins\OWLLivestreamingToolkit\Source\ThirdParty\Spout\Spout2\BUILD\Binaries\x64\SpoutDX12.dll">
+      <Filter>Plugins\OWLLivestreamingToolkit\Source\ThirdParty\Spout\Spout2\BUILD\Binaries\x64</Filter>
+    </None>
+    <None Include="..\..\Plugins\OWLLivestreamingToolkit\Source\ThirdParty\Spout\Spout2\BUILD\Binaries\x64\SpoutDX12.lib">
+      <Filter>Plugins\OWLLivestreamingToolkit\Source\ThirdParty\Spout\Spout2\BUILD\Binaries\x64</Filter>
+    </None>
+    <None Include="..\..\Plugins\OWLLivestreamingToolkit\Source\ThirdParty\Spout\Spout2\BUILD\Binaries\x64\SpoutLibrary.dll">
+      <Filter>Plugins\OWLLivestreamingToolkit\Source\ThirdParty\Spout\Spout2\BUILD\Binaries\x64</Filter>
+    </None>
+    <None Include="..\..\Plugins\OWLLivestreamingToolkit\Source\ThirdParty\Spout\Spout2\BUILD\Binaries\x64\SpoutLibrary.lib">
+      <Filter>Plugins\OWLLivestreamingToolkit\Source\ThirdParty\Spout\Spout2\BUILD\Binaries\x64</Filter>
+    </None>
+    <None Include="..\..\Plugins\OWLLivestreamingToolkit\Source\ThirdParty\Spout\Spout2\BUILD\Binaries\x64\Spout_static.lib">
+      <Filter>Plugins\OWLLivestreamingToolkit\Source\ThirdParty\Spout\Spout2\BUILD\Binaries\x64</Filter>
+    </None>
+    <Filter Include="Plugins\OWLLivestreamingToolkit\Source\ThirdParty\Spout\Spout2\SPOUTSDK">
+      <UniqueIdentifier>{84CF505F-A234-4253-8380-F01D927DC25D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\OWLLivestreamingToolkit\Source\ThirdParty\Spout\Spout2\SPOUTSDK\SpoutDirectX">
+      <UniqueIdentifier>{1E6E7A5D-1904-443D-AF10-635FC0F0931D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\OWLLivestreamingToolkit\Source\ThirdParty\Spout\Spout2\SPOUTSDK\SpoutDirectX\SpoutDX">
+      <UniqueIdentifier>{C53C7F90-B750-45B4-A045-C9A49824EDE1}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\OWLLivestreamingToolkit\Source\ThirdParty\Spout\Spout2\SPOUTSDK\SpoutDirectX\SpoutDX\SpoutDX.h">
+      <Filter>Plugins\OWLLivestreamingToolkit\Source\ThirdParty\Spout\Spout2\SPOUTSDK\SpoutDirectX\SpoutDX</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\OWLLivestreamingToolkit\Source\ThirdParty\Spout\Spout2\SPOUTSDK\SpoutDirectX\SpoutDX\SpoutDX12">
+      <UniqueIdentifier>{2567742F-991E-4CCD-9565-574247938B31}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\OWLLivestreamingToolkit\Source\ThirdParty\Spout\Spout2\SPOUTSDK\SpoutDirectX\SpoutDX\SpoutDX12\SpoutDX12.h">
+      <Filter>Plugins\OWLLivestreamingToolkit\Source\ThirdParty\Spout\Spout2\SPOUTSDK\SpoutDirectX\SpoutDX\SpoutDX12</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\OWLLivestreamingToolkit\Source\USpout">
+      <UniqueIdentifier>{E2B917D4-20E6-4724-95B7-F29181C9B969}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\OWLLivestreamingToolkit\Source\USpout\USpout.Build.cs">
+      <Filter>Plugins\OWLLivestreamingToolkit\Source\USpout</Filter>
+    </None>
+    <Filter Include="Plugins\OWLLivestreamingToolkit\Source\USpout\Private">
+      <UniqueIdentifier>{0CB553C4-871E-41BB-97D5-00F2809A878B}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\OWLLivestreamingToolkit\Source\USpout\Private\OWLSpoutReceiver.cpp">
+      <Filter>Plugins\OWLLivestreamingToolkit\Source\USpout\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\OWLLivestreamingToolkit\Source\USpout\Private\OWLSpoutSender.cpp">
+      <Filter>Plugins\OWLLivestreamingToolkit\Source\USpout\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\OWLLivestreamingToolkit\Source\USpout\Private\OWLSpoutTools.cpp">
+      <Filter>Plugins\OWLLivestreamingToolkit\Source\USpout\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\OWLLivestreamingToolkit\Source\USpout\Private\SpoutModule.cpp">
+      <Filter>Plugins\OWLLivestreamingToolkit\Source\USpout\Private</Filter>
+    </ClCompile>
+    <Filter Include="Plugins\OWLLivestreamingToolkit\Source\USpout\Public">
+      <UniqueIdentifier>{1AABE2FB-6EF0-47B5-BE95-7859B83C6AA4}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\OWLLivestreamingToolkit\Source\USpout\Public\OWLSpoutReceiver.h">
+      <Filter>Plugins\OWLLivestreamingToolkit\Source\USpout\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\OWLLivestreamingToolkit\Source\USpout\Public\OWLSpoutSender.h">
+      <Filter>Plugins\OWLLivestreamingToolkit\Source\USpout\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\OWLLivestreamingToolkit\Source\USpout\Public\OWLSpoutTools.h">
+      <Filter>Plugins\OWLLivestreamingToolkit\Source\USpout\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\OWLLivestreamingToolkit\Source\USpout\Public\SpoutModule.h">
+      <Filter>Plugins\OWLLivestreamingToolkit\Source\USpout\Public</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\UEOSC\Source">
+      <UniqueIdentifier>{8ECD1675-E892-440A-8E17-DFDDBE977CCA}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\UEOSC\Source\UEOSC">
+      <UniqueIdentifier>{CE1F089A-6B41-4317-81F8-04E72E5CC119}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\UEOSC\Source\UEOSC\UEOSC.Build.cs">
+      <Filter>Plugins\UEOSC\Source\UEOSC</Filter>
+    </None>
+    <ClCompile Include="..\..\Plugins\UEOSC\Source\UEOSC\UEOSC.cpp">
+      <Filter>Plugins\UEOSC\Source\UEOSC</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\UEOSC\Source\UEOSC\UEOSC.h">
+      <Filter>Plugins\UEOSC\Source\UEOSC</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\UEOSC\Source\UEOSC\Include">
+      <UniqueIdentifier>{01357B67-7A8E-40D7-8949-EC560A04E6E5}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\UEOSC\Source\UEOSC\Include\UEOSCElement.h">
+      <Filter>Plugins\UEOSC\Source\UEOSC\Include</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\UEOSC\Source\UEOSC\Include\UEOSCReceiver.h">
+      <Filter>Plugins\UEOSC\Source\UEOSC\Include</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\UEOSC\Source\UEOSC\Source">
+      <UniqueIdentifier>{D14BC185-FA7F-484F-8ABE-13CAA2DC674D}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\UEOSC\Source\UEOSC\Source\UEOSCReceiver.cpp">
+      <Filter>Plugins\UEOSC\Source\UEOSC\Source</Filter>
+    </ClCompile>
+    <Filter Include="Plugins\UnrealAnimatedTexturePlugin-master\Source">
+      <UniqueIdentifier>{830C0274-F746-4A60-B90A-2D781929C069}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\UnrealAnimatedTexturePlugin-master\Source\AnimatedTexture">
+      <UniqueIdentifier>{84507020-0B96-4AB0-B284-3081E2C03030}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\UnrealAnimatedTexturePlugin-master\Source\AnimatedTexture\AnimatedTexture.Build.cs">
+      <Filter>Plugins\UnrealAnimatedTexturePlugin-master\Source\AnimatedTexture</Filter>
+    </None>
+    <Filter Include="Plugins\UnrealAnimatedTexturePlugin-master\Source\AnimatedTexture\Private">
+      <UniqueIdentifier>{4F69901D-CF9C-4B23-8896-5B46DCDDA4E2}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\UnrealAnimatedTexturePlugin-master\Source\AnimatedTexture\Private\AnimatedGIFDecoder.cpp">
+      <Filter>Plugins\UnrealAnimatedTexturePlugin-master\Source\AnimatedTexture\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\UnrealAnimatedTexturePlugin-master\Source\AnimatedTexture\Private\AnimatedTexture2D.cpp">
+      <Filter>Plugins\UnrealAnimatedTexturePlugin-master\Source\AnimatedTexture\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\UnrealAnimatedTexturePlugin-master\Source\AnimatedTexture\Private\AnimatedTextureModule.cpp">
+      <Filter>Plugins\UnrealAnimatedTexturePlugin-master\Source\AnimatedTexture\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\UnrealAnimatedTexturePlugin-master\Source\AnimatedTexture\Private\AnimatedTextureResource.cpp">
+      <Filter>Plugins\UnrealAnimatedTexturePlugin-master\Source\AnimatedTexture\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\UnrealAnimatedTexturePlugin-master\Source\AnimatedTexture\Private\AnimatedTextureResource.h">
+      <Filter>Plugins\UnrealAnimatedTexturePlugin-master\Source\AnimatedTexture\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\UnrealAnimatedTexturePlugin-master\Source\AnimatedTexture\Private\AnimatedTextureSource.cpp">
+      <Filter>Plugins\UnrealAnimatedTexturePlugin-master\Source\AnimatedTexture\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\UnrealAnimatedTexturePlugin-master\Source\AnimatedTexture\Private\MaterialExpressionTextureSampleParameterAnim.cpp">
+      <Filter>Plugins\UnrealAnimatedTexturePlugin-master\Source\AnimatedTexture\Private</Filter>
+    </ClCompile>
+    <Filter Include="Plugins\UnrealAnimatedTexturePlugin-master\Source\AnimatedTexture\Public">
+      <UniqueIdentifier>{B531B6F2-B03B-475E-B115-7F52366F57FE}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\UnrealAnimatedTexturePlugin-master\Source\AnimatedTexture\Public\AnimatedGIFDecoder.h">
+      <Filter>Plugins\UnrealAnimatedTexturePlugin-master\Source\AnimatedTexture\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\UnrealAnimatedTexturePlugin-master\Source\AnimatedTexture\Public\AnimatedTexture2D.h">
+      <Filter>Plugins\UnrealAnimatedTexturePlugin-master\Source\AnimatedTexture\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\UnrealAnimatedTexturePlugin-master\Source\AnimatedTexture\Public\AnimatedTextureModule.h">
+      <Filter>Plugins\UnrealAnimatedTexturePlugin-master\Source\AnimatedTexture\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\UnrealAnimatedTexturePlugin-master\Source\AnimatedTexture\Public\AnimatedTextureSource.h">
+      <Filter>Plugins\UnrealAnimatedTexturePlugin-master\Source\AnimatedTexture\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\UnrealAnimatedTexturePlugin-master\Source\AnimatedTexture\Public\MaterialExpressionTextureSampleParameterAnim.h">
+      <Filter>Plugins\UnrealAnimatedTexturePlugin-master\Source\AnimatedTexture\Public</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\UnrealAnimatedTexturePlugin-master\Source\AnimatedTextureEditor">
+      <UniqueIdentifier>{86BED13F-9992-4F6F-8FED-01D8C41D88C9}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\UnrealAnimatedTexturePlugin-master\Source\AnimatedTextureEditor\AnimatedTextureEditor.Build.cs">
+      <Filter>Plugins\UnrealAnimatedTexturePlugin-master\Source\AnimatedTextureEditor</Filter>
+    </None>
+    <Filter Include="Plugins\UnrealAnimatedTexturePlugin-master\Source\AnimatedTextureEditor\Private">
+      <UniqueIdentifier>{EDB2019D-D91D-458D-85F2-C530B4520B2D}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\UnrealAnimatedTexturePlugin-master\Source\AnimatedTextureEditor\Private\AnimatedGIFLoader.cpp">
+      <Filter>Plugins\UnrealAnimatedTexturePlugin-master\Source\AnimatedTextureEditor\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\UnrealAnimatedTexturePlugin-master\Source\AnimatedTextureEditor\Private\AnimatedTextureEditorModule.cpp">
+      <Filter>Plugins\UnrealAnimatedTexturePlugin-master\Source\AnimatedTextureEditor\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\UnrealAnimatedTexturePlugin-master\Source\AnimatedTextureEditor\Private\AnimatedTextureFactory.cpp">
+      <Filter>Plugins\UnrealAnimatedTexturePlugin-master\Source\AnimatedTextureEditor\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\UnrealAnimatedTexturePlugin-master\Source\AnimatedTextureEditor\Private\AnimatedTextureThumbnailRenderer.cpp">
+      <Filter>Plugins\UnrealAnimatedTexturePlugin-master\Source\AnimatedTextureEditor\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\UnrealAnimatedTexturePlugin-master\Source\AnimatedTextureEditor\Private\ReimportAnimatedTextureFactory.cpp">
+      <Filter>Plugins\UnrealAnimatedTexturePlugin-master\Source\AnimatedTextureEditor\Private</Filter>
+    </ClCompile>
+    <Filter Include="Plugins\UnrealAnimatedTexturePlugin-master\Source\AnimatedTextureEditor\Private\gif_load">
+      <UniqueIdentifier>{28906AD5-BBA0-409E-A534-54EF817D60AF}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\UnrealAnimatedTexturePlugin-master\Source\AnimatedTextureEditor\Private\gif_load\gif_load.h">
+      <Filter>Plugins\UnrealAnimatedTexturePlugin-master\Source\AnimatedTextureEditor\Private\gif_load</Filter>
+    </ClInclude>
+    <None Include="..\..\Plugins\UnrealAnimatedTexturePlugin-master\Source\AnimatedTextureEditor\Private\gif_load\README.md">
+      <Filter>Plugins\UnrealAnimatedTexturePlugin-master\Source\AnimatedTextureEditor\Private\gif_load</Filter>
+    </None>
+    <Filter Include="Plugins\UnrealAnimatedTexturePlugin-master\Source\AnimatedTextureEditor\Public">
+      <UniqueIdentifier>{B8D0C96A-B315-4F38-9599-502A70B945D7}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\UnrealAnimatedTexturePlugin-master\Source\AnimatedTextureEditor\Public\AnimatedTextureEditorModule.h">
+      <Filter>Plugins\UnrealAnimatedTexturePlugin-master\Source\AnimatedTextureEditor\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\UnrealAnimatedTexturePlugin-master\Source\AnimatedTextureEditor\Public\AnimatedTextureFactory.h">
+      <Filter>Plugins\UnrealAnimatedTexturePlugin-master\Source\AnimatedTextureEditor\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\UnrealAnimatedTexturePlugin-master\Source\AnimatedTextureEditor\Public\AnimatedTextureThumbnailRenderer.h">
+      <Filter>Plugins\UnrealAnimatedTexturePlugin-master\Source\AnimatedTextureEditor\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\UnrealAnimatedTexturePlugin-master\Source\AnimatedTextureEditor\Public\ReimportAnimatedTextureFactory.h">
+      <Filter>Plugins\UnrealAnimatedTexturePlugin-master\Source\AnimatedTextureEditor\Public</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\VMC4UE\Source">
+      <UniqueIdentifier>{A07C0EEE-7658-4F95-9232-94F2E67C3965}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\VMC4UE\Source\VMC4UE">
+      <UniqueIdentifier>{F56A8CE1-0242-4448-9360-DF085681EAB6}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\VMC4UE\Source\VMC4UE\VMC4UE.Build.cs">
+      <Filter>Plugins\VMC4UE\Source\VMC4UE</Filter>
+    </None>
+    <ClCompile Include="..\..\Plugins\VMC4UE\Source\VMC4UE\VMC4UE.cpp">
+      <Filter>Plugins\VMC4UE\Source\VMC4UE</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\VMC4UE\Source\VMC4UE\VMC4UE.h">
+      <Filter>Plugins\VMC4UE\Source\VMC4UE</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\VMC4UE\Source\VMC4UE\Include">
+      <UniqueIdentifier>{24329F8E-64FB-40B0-B0E9-3B680D4E013F}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\VMC4UE\Source\VMC4UE\Include\AnimNode_ModifyVMC4UEBones.h">
+      <Filter>Plugins\VMC4UE\Source\VMC4UE\Include</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\VMC4UE\Source\VMC4UE\Include\AnimNode_ModifyVMC4UEMorph.h">
+      <Filter>Plugins\VMC4UE\Source\VMC4UE\Include</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\VMC4UE\Source\VMC4UE\Include\VMC4UEBlueprintFunctionLibrary.h">
+      <Filter>Plugins\VMC4UE\Source\VMC4UE\Include</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\VMC4UE\Source\VMC4UE\Include\VMC4UEBoneMapping.h">
+      <Filter>Plugins\VMC4UE\Source\VMC4UE\Include</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\VMC4UE\Source\VMC4UE\Include\VMC4UEOSCManager.h">
+      <Filter>Plugins\VMC4UE\Source\VMC4UE\Include</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\VMC4UE\Source\VMC4UE\Include\VMC4UEStreamingData.h">
+      <Filter>Plugins\VMC4UE\Source\VMC4UE\Include</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\VMC4UE\Source\VMC4UE\Source">
+      <UniqueIdentifier>{586CBEB4-781B-4B7B-AB47-EE5F6232EE64}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\VMC4UE\Source\VMC4UE\Source\AnimNode_ModifyVMC4UEBones.cpp">
+      <Filter>Plugins\VMC4UE\Source\VMC4UE\Source</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\VMC4UE\Source\VMC4UE\Source\AnimNode_ModifyVMC4UEMorph.cpp">
+      <Filter>Plugins\VMC4UE\Source\VMC4UE\Source</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\VMC4UE\Source\VMC4UE\Source\VMC4UEBlueprintFunctionLibrary.cpp">
+      <Filter>Plugins\VMC4UE\Source\VMC4UE\Source</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\VMC4UE\Source\VMC4UE\Source\VMC4UEOscManager.cpp">
+      <Filter>Plugins\VMC4UE\Source\VMC4UE\Source</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\VMC4UE\Source\VMC4UE\Source\VMC4UEStreamingData.cpp">
+      <Filter>Plugins\VMC4UE\Source\VMC4UE\Source</Filter>
+    </ClCompile>
+    <Filter Include="Plugins\VMC4UE\Source\VMC4UEEd">
+      <UniqueIdentifier>{FD01B9BC-3D8F-4633-BAAE-4F1835FB4060}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\VMC4UE\Source\VMC4UEEd\VMC4UEEd.Build.cs">
+      <Filter>Plugins\VMC4UE\Source\VMC4UEEd</Filter>
+    </None>
+    <ClCompile Include="..\..\Plugins\VMC4UE\Source\VMC4UEEd\VMC4UEEd.cpp">
+      <Filter>Plugins\VMC4UE\Source\VMC4UEEd</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\VMC4UE\Source\VMC4UEEd\VMC4UEEd.h">
+      <Filter>Plugins\VMC4UE\Source\VMC4UEEd</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\VMC4UE\Source\VMC4UEEd\Include">
+      <UniqueIdentifier>{95C00B69-28C0-4B79-8D90-593316E64D8B}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\VMC4UE\Source\VMC4UEEd\Include\AnimGraphNode_ModifyVMC4UEBones.h">
+      <Filter>Plugins\VMC4UE\Source\VMC4UEEd\Include</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\VMC4UE\Source\VMC4UEEd\Include\AnimGraphNode_ModifyVMC4UEMorph.h">
+      <Filter>Plugins\VMC4UE\Source\VMC4UEEd\Include</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\VMC4UE\Source\VMC4UEEd\Include\VMC4UEBoneMappingAssetFactory.h">
+      <Filter>Plugins\VMC4UE\Source\VMC4UEEd\Include</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\VMC4UE\Source\VMC4UEEd\Source">
+      <UniqueIdentifier>{B9ED9A11-BEC0-4B5B-99DA-50A9B66FA39B}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\VMC4UE\Source\VMC4UEEd\Source\AnimGraphNode_ModifyVMC4UEBones.cpp">
+      <Filter>Plugins\VMC4UE\Source\VMC4UEEd\Source</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\VMC4UE\Source\VMC4UEEd\Source\AnimGraphNode_ModifyVMC4UEMorph.cpp">
+      <Filter>Plugins\VMC4UE\Source\VMC4UEEd\Source</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\VMC4UE\Source\VMC4UEEd\Source\VMC4UEBoneMappingAssetFactory.cpp">
+      <Filter>Plugins\VMC4UE\Source\VMC4UEEd\Source</Filter>
+    </ClCompile>
+    <Filter Include="Plugins\VRM4U\Source">
+      <UniqueIdentifier>{F7689F89-49C2-4872-BC96-3FE45CE16550}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\VRM4U\Source\VRM4U">
+      <UniqueIdentifier>{31B1970A-EEC4-4896-A485-188166BD4B22}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\VRM4U\Source\VRM4U\VRM4U.Build.cs">
+      <Filter>Plugins\VRM4U\Source\VRM4U</Filter>
+    </None>
+    <Filter Include="Plugins\VRM4U\Source\VRM4U\Private">
+      <UniqueIdentifier>{EF056A65-6763-4845-9CF5-0EBD1ABE2E5D}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\VRM4U\Source\VRM4U\Private\AnimNode_VrmCopyHandBone.cpp">
+      <Filter>Plugins\VRM4U\Source\VRM4U\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\VRM4U\Source\VRM4U\Private\AnimNode_VrmModifyBoneDynamic.cpp">
+      <Filter>Plugins\VRM4U\Source\VRM4U\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\VRM4U\Source\VRM4U\Private\AnimNode_VrmModifyHumanoidBone.cpp">
+      <Filter>Plugins\VRM4U\Source\VRM4U\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\VRM4U\Source\VRM4U\Private\AnimNode_VrmQuestHandBone.cpp">
+      <Filter>Plugins\VRM4U\Source\VRM4U\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\VRM4U\Source\VRM4U\Private\AnimNode_VrmSpringBone.cpp">
+      <Filter>Plugins\VRM4U\Source\VRM4U\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\VRM4U\Source\VRM4U\Private\VRM4U.cpp">
+      <Filter>Plugins\VRM4U\Source\VRM4U\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\VRM4U\Source\VRM4U\Private\VrmAnimInstance.cpp">
+      <Filter>Plugins\VRM4U\Source\VRM4U\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\VRM4U\Source\VRM4U\Private\VrmAnimInstanceCopy.cpp">
+      <Filter>Plugins\VRM4U\Source\VRM4U\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\VRM4U\Source\VRM4U\Private\VrmAssetListObject.cpp">
+      <Filter>Plugins\VRM4U\Source\VRM4U\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\VRM4U\Source\VRM4U\Private\VrmBPFunctionLibrary.cpp">
+      <Filter>Plugins\VRM4U\Source\VRM4U\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\VRM4U\Source\VRM4U\Private\VrmCameraCheckComponent.cpp">
+      <Filter>Plugins\VRM4U\Source\VRM4U\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\VRM4U\Source\VRM4U\Private\VrmCustomStruct.cpp">
+      <Filter>Plugins\VRM4U\Source\VRM4U\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\VRM4U\Source\VRM4U\Private\VrmDropFiles.cpp">
+      <Filter>Plugins\VRM4U\Source\VRM4U\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\VRM4U\Source\VRM4U\Private\VrmEditorEventComponent.cpp">
+      <Filter>Plugins\VRM4U\Source\VRM4U\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\VRM4U\Source\VRM4U\Private\VrmHMDTrackingComponent.cpp">
+      <Filter>Plugins\VRM4U\Source\VRM4U\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\VRM4U\Source\VRM4U\Private\VrmHMDTrackingComponent.h">
+      <Filter>Plugins\VRM4U\Source\VRM4U\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\VRM4U\Source\VRM4U\Private\VrmImportMaterialSet.cpp">
+      <Filter>Plugins\VRM4U\Source\VRM4U\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\VRM4U\Source\VRM4U\Private\VrmLicenseObject.cpp">
+      <Filter>Plugins\VRM4U\Source\VRM4U\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\VRM4U\Source\VRM4U\Private\VrmMetaObject.cpp">
+      <Filter>Plugins\VRM4U\Source\VRM4U\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\VRM4U\Source\VRM4U\Private\VrmModelActor.cpp">
+      <Filter>Plugins\VRM4U\Source\VRM4U\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\VRM4U\Source\VRM4U\Private\VrmPoseableMeshComponent.cpp">
+      <Filter>Plugins\VRM4U\Source\VRM4U\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\VRM4U\Source\VRM4U\Private\VrmRuntimeSettings.cpp">
+      <Filter>Plugins\VRM4U\Source\VRM4U\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\VRM4U\Source\VRM4U\Private\VrmUtil.cpp">
+      <Filter>Plugins\VRM4U\Source\VRM4U\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\VRM4U\Source\VRM4U\Private\VrmUtilImage.cpp">
+      <Filter>Plugins\VRM4U\Source\VRM4U\Private</Filter>
+    </ClCompile>
+    <Filter Include="Plugins\VRM4U\Source\VRM4U\Public">
+      <UniqueIdentifier>{89E148DB-D66E-4CD3-AA89-23CA21B2C5BF}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\VRM4U\Source\VRM4U\Public\AnimNode_VrmCopyHandBone.h">
+      <Filter>Plugins\VRM4U\Source\VRM4U\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\VRM4U\Source\VRM4U\Public\AnimNode_VrmModifyBoneDynamic.h">
+      <Filter>Plugins\VRM4U\Source\VRM4U\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\VRM4U\Source\VRM4U\Public\AnimNode_VrmModifyHumanoidBone.h">
+      <Filter>Plugins\VRM4U\Source\VRM4U\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\VRM4U\Source\VRM4U\Public\AnimNode_VrmQuestHandBone.h">
+      <Filter>Plugins\VRM4U\Source\VRM4U\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\VRM4U\Source\VRM4U\Public\AnimNode_VrmSpringBone.h">
+      <Filter>Plugins\VRM4U\Source\VRM4U\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\VRM4U\Source\VRM4U\Public\VRM4U.h">
+      <Filter>Plugins\VRM4U\Source\VRM4U\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\VRM4U\Source\VRM4U\Public\VrmAnimInstance.h">
+      <Filter>Plugins\VRM4U\Source\VRM4U\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\VRM4U\Source\VRM4U\Public\VrmAnimInstanceCopy.h">
+      <Filter>Plugins\VRM4U\Source\VRM4U\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\VRM4U\Source\VRM4U\Public\VrmAssetListObject.h">
+      <Filter>Plugins\VRM4U\Source\VRM4U\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\VRM4U\Source\VRM4U\Public\VrmBPFunctionLibrary.h">
+      <Filter>Plugins\VRM4U\Source\VRM4U\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\VRM4U\Source\VRM4U\Public\VrmCameraCheckComponent.h">
+      <Filter>Plugins\VRM4U\Source\VRM4U\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\VRM4U\Source\VRM4U\Public\VrmCustomStruct.h">
+      <Filter>Plugins\VRM4U\Source\VRM4U\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\VRM4U\Source\VRM4U\Public\VrmDropFiles.h">
+      <Filter>Plugins\VRM4U\Source\VRM4U\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\VRM4U\Source\VRM4U\Public\VrmEditorEventComponent.h">
+      <Filter>Plugins\VRM4U\Source\VRM4U\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\VRM4U\Source\VRM4U\Public\VrmImportMaterialSet.h">
+      <Filter>Plugins\VRM4U\Source\VRM4U\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\VRM4U\Source\VRM4U\Public\VrmLicenseObject.h">
+      <Filter>Plugins\VRM4U\Source\VRM4U\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\VRM4U\Source\VRM4U\Public\VrmMetaObject.h">
+      <Filter>Plugins\VRM4U\Source\VRM4U\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\VRM4U\Source\VRM4U\Public\VrmModelActor.h">
+      <Filter>Plugins\VRM4U\Source\VRM4U\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\VRM4U\Source\VRM4U\Public\VrmPoseableMeshComponent.h">
+      <Filter>Plugins\VRM4U\Source\VRM4U\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\VRM4U\Source\VRM4U\Public\VrmRuntimeSettings.h">
+      <Filter>Plugins\VRM4U\Source\VRM4U\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\VRM4U\Source\VRM4U\Public\VrmUtil.h">
+      <Filter>Plugins\VRM4U\Source\VRM4U\Public</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\VRM4U\Source\VRM4UEditor">
+      <UniqueIdentifier>{2C33014D-0353-40E8-A30F-CF4CAB046934}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\VRM4U\Source\VRM4UEditor\VRM4UEditor.Build.cs">
+      <Filter>Plugins\VRM4U\Source\VRM4UEditor</Filter>
+    </None>
+    <Filter Include="Plugins\VRM4U\Source\VRM4UEditor\Private">
+      <UniqueIdentifier>{DD453A0D-6BEC-4785-9F69-2B4993716003}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\VRM4U\Source\VRM4UEditor\Private\VRM4UEditor.cpp">
+      <Filter>Plugins\VRM4U\Source\VRM4UEditor\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\VRM4U\Source\VRM4UEditor\Private\VRM4UEditor.h">
+      <Filter>Plugins\VRM4U\Source\VRM4UEditor\Private</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\VRM4U\Source\VRM4UEditor\Private\VRM4UEditorLog.h">
+      <Filter>Plugins\VRM4U\Source\VRM4UEditor\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\VRM4U\Source\VRM4UEditor\Private\VrmEditorBPFunctionLibrary.cpp">
+      <Filter>Plugins\VRM4U\Source\VRM4UEditor\Private</Filter>
+    </ClCompile>
+    <Filter Include="Plugins\VRM4U\Source\VRM4UEditor\Public">
+      <UniqueIdentifier>{2221BAB4-5EDD-4A7F-9153-BEC784BD1BB9}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\VRM4U\Source\VRM4UEditor\Public\VrmEditorBPFunctionLibrary.h">
+      <Filter>Plugins\VRM4U\Source\VRM4UEditor\Public</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\VRM4U\Source\VRM4UImporter">
+      <UniqueIdentifier>{00CAD1AC-5976-42DC-9FF2-0E2A64377AF6}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\VRM4U\Source\VRM4UImporter\VRM4UImporter.Build.cs">
+      <Filter>Plugins\VRM4U\Source\VRM4UImporter</Filter>
+    </None>
+    <Filter Include="Plugins\VRM4U\Source\VRM4UImporter\Private">
+      <UniqueIdentifier>{3B827087-48B5-4FAB-88A7-B370FAE38341}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\VRM4U\Source\VRM4UImporter\Private\AnimGraphNode_VrmCopyHandBone.cpp">
+      <Filter>Plugins\VRM4U\Source\VRM4UImporter\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\VRM4U\Source\VRM4UImporter\Private\AnimGraphNode_VrmCopyHandBone.h">
+      <Filter>Plugins\VRM4U\Source\VRM4UImporter\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\VRM4U\Source\VRM4UImporter\Private\AnimGraphNode_VrmModifyBoneDynamic.cpp">
+      <Filter>Plugins\VRM4U\Source\VRM4UImporter\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\VRM4U\Source\VRM4UImporter\Private\AnimGraphNode_VrmModifyBoneDynamic.h">
+      <Filter>Plugins\VRM4U\Source\VRM4UImporter\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\VRM4U\Source\VRM4UImporter\Private\AnimGraphNode_VrmModifyHumanoidBone.cpp">
+      <Filter>Plugins\VRM4U\Source\VRM4UImporter\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\VRM4U\Source\VRM4UImporter\Private\AnimGraphNode_VrmModifyHumanoidBone.h">
+      <Filter>Plugins\VRM4U\Source\VRM4UImporter\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\VRM4U\Source\VRM4UImporter\Private\AnimGraphNode_VrmQuestHandBone.cpp">
+      <Filter>Plugins\VRM4U\Source\VRM4UImporter\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\VRM4U\Source\VRM4UImporter\Private\AnimGraphNode_VrmQuestHandBone.h">
+      <Filter>Plugins\VRM4U\Source\VRM4UImporter\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\VRM4U\Source\VRM4UImporter\Private\AnimGraphNode_VrmSpringBone.cpp">
+      <Filter>Plugins\VRM4U\Source\VRM4UImporter\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\VRM4U\Source\VRM4UImporter\Private\AnimGraphNode_VrmSpringBone.h">
+      <Filter>Plugins\VRM4U\Source\VRM4UImporter\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\VRM4U\Source\VRM4UImporter\Private\VRM4UDetailCustomize.cpp">
+      <Filter>Plugins\VRM4U\Source\VRM4UImporter\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\VRM4U\Source\VRM4UImporter\Private\VRM4UDetailCustomize.h">
+      <Filter>Plugins\VRM4U\Source\VRM4UImporter\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\VRM4U\Source\VRM4UImporter\Private\VRM4UImporterFactory.cpp">
+      <Filter>Plugins\VRM4U\Source\VRM4UImporter\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\VRM4U\Source\VRM4UImporter\Private\VRM4UImporterFactory.h">
+      <Filter>Plugins\VRM4U\Source\VRM4UImporter\Private</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\VRM4U\Source\VRM4UImporter\Private\VRM4UImporterLog.h">
+      <Filter>Plugins\VRM4U\Source\VRM4UImporter\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\VRM4U\Source\VRM4UImporter\Private\VRM4UImporterModule.cpp">
+      <Filter>Plugins\VRM4U\Source\VRM4UImporter\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\VRM4U\Source\VRM4UImporter\Private\VrmAssetListThumbnailRenderer.cpp">
+      <Filter>Plugins\VRM4U\Source\VRM4UImporter\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\VRM4U\Source\VRM4UImporter\Private\VrmAssetListThumbnailRenderer.h">
+      <Filter>Plugins\VRM4U\Source\VRM4UImporter\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\VRM4U\Source\VRM4UImporter\Private\VrmImportUI.cpp">
+      <Filter>Plugins\VRM4U\Source\VRM4UImporter\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\VRM4U\Source\VRM4UImporter\Private\VrmImportUI.h">
+      <Filter>Plugins\VRM4U\Source\VRM4UImporter\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\VRM4U\Source\VRM4UImporter\Private\VrmOptionWindow.cpp">
+      <Filter>Plugins\VRM4U\Source\VRM4UImporter\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\VRM4U\Source\VRM4UImporter\Private\VrmOptionWindow.h">
+      <Filter>Plugins\VRM4U\Source\VRM4UImporter\Private</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\VRM4U\Source\VRM4ULoader">
+      <UniqueIdentifier>{38C5AA4D-54A7-4530-8626-46CF83B81766}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\VRM4U\Source\VRM4ULoader\VRM4ULoader.Build.cs">
+      <Filter>Plugins\VRM4U\Source\VRM4ULoader</Filter>
+    </None>
+    <None Include="..\..\Plugins\VRM4U\Source\VRM4ULoader\VRM4ULoader_APL.xml">
+      <Filter>Plugins\VRM4U\Source\VRM4ULoader</Filter>
+    </None>
+    <Filter Include="Plugins\VRM4U\Source\VRM4ULoader\Private">
+      <UniqueIdentifier>{5CDEA5CA-474F-40F3-9657-5B79FCF406D0}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\VRM4U\Source\VRM4ULoader\Private\LoaderBPFunctionLibrary.cpp">
+      <Filter>Plugins\VRM4U\Source\VRM4ULoader\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\VRM4U\Source\VRM4ULoader\Private\VRM4ULoaderLog.h">
+      <Filter>Plugins\VRM4U\Source\VRM4ULoader\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\VRM4U\Source\VRM4ULoader\Private\VRM4ULoaderModule.cpp">
+      <Filter>Plugins\VRM4U\Source\VRM4ULoader\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\VRM4U\Source\VRM4ULoader\Private\VrmAsyncLoadAction.cpp">
+      <Filter>Plugins\VRM4U\Source\VRM4ULoader\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\VRM4U\Source\VRM4ULoader\Private\VrmAsyncLoadAction.h">
+      <Filter>Plugins\VRM4U\Source\VRM4ULoader\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\VRM4U\Source\VRM4ULoader\Private\VrmConvert.cpp">
+      <Filter>Plugins\VRM4U\Source\VRM4ULoader\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\VRM4U\Source\VRM4ULoader\Private\VrmConvertHumanoid.cpp">
+      <Filter>Plugins\VRM4U\Source\VRM4ULoader\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\VRM4U\Source\VRM4ULoader\Private\VrmConvertMetadata.cpp">
+      <Filter>Plugins\VRM4U\Source\VRM4ULoader\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\VRM4U\Source\VRM4ULoader\Private\VrmConvertModel.cpp">
+      <Filter>Plugins\VRM4U\Source\VRM4ULoader\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\VRM4U\Source\VRM4ULoader\Private\VrmConvertMorphTarget.cpp">
+      <Filter>Plugins\VRM4U\Source\VRM4ULoader\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\VRM4U\Source\VRM4ULoader\Private\VrmConvertPose.cpp">
+      <Filter>Plugins\VRM4U\Source\VRM4ULoader\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\VRM4U\Source\VRM4ULoader\Private\VrmConvertRig.cpp">
+      <Filter>Plugins\VRM4U\Source\VRM4ULoader\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\VRM4U\Source\VRM4ULoader\Private\VrmConvertTexture.cpp">
+      <Filter>Plugins\VRM4U\Source\VRM4ULoader\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\VRM4U\Source\VRM4ULoader\Private\VrmJson.cpp">
+      <Filter>Plugins\VRM4U\Source\VRM4ULoader\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\VRM4U\Source\VRM4ULoader\Private\VrmLoaderComponent.cpp">
+      <Filter>Plugins\VRM4U\Source\VRM4ULoader\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\VRM4U\Source\VRM4ULoader\Private\VrmSkeletalMesh.cpp">
+      <Filter>Plugins\VRM4U\Source\VRM4ULoader\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\VRM4U\Source\VRM4ULoader\Private\VrmSkeletalMeshComponent.cpp">
+      <Filter>Plugins\VRM4U\Source\VRM4ULoader\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\VRM4U\Source\VRM4ULoader\Private\VrmSkeleton.cpp">
+      <Filter>Plugins\VRM4U\Source\VRM4ULoader\Private</Filter>
+    </ClCompile>
+    <Filter Include="Plugins\VRM4U\Source\VRM4ULoader\Public">
+      <UniqueIdentifier>{48910C9B-1177-42F9-87BD-15760D293CEC}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\VRM4U\Source\VRM4ULoader\Public\LoaderBPFunctionLibrary.h">
+      <Filter>Plugins\VRM4U\Source\VRM4ULoader\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\VRM4U\Source\VRM4ULoader\Public\VrmConvert.h">
+      <Filter>Plugins\VRM4U\Source\VRM4ULoader\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\VRM4U\Source\VRM4ULoader\Public\VrmConvertHumanoid.h">
+      <Filter>Plugins\VRM4U\Source\VRM4ULoader\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\VRM4U\Source\VRM4ULoader\Public\VrmConvertMetadata.h">
+      <Filter>Plugins\VRM4U\Source\VRM4ULoader\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\VRM4U\Source\VRM4ULoader\Public\VrmConvertModel.h">
+      <Filter>Plugins\VRM4U\Source\VRM4ULoader\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\VRM4U\Source\VRM4ULoader\Public\VrmConvertMorphTarget.h">
+      <Filter>Plugins\VRM4U\Source\VRM4ULoader\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\VRM4U\Source\VRM4ULoader\Public\VrmConvertRig.h">
+      <Filter>Plugins\VRM4U\Source\VRM4ULoader\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\VRM4U\Source\VRM4ULoader\Public\VrmConvertTexture.h">
+      <Filter>Plugins\VRM4U\Source\VRM4ULoader\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\VRM4U\Source\VRM4ULoader\Public\VrmJson.h">
+      <Filter>Plugins\VRM4U\Source\VRM4ULoader\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\VRM4U\Source\VRM4ULoader\Public\VrmLoaderComponent.h">
+      <Filter>Plugins\VRM4U\Source\VRM4ULoader\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\VRM4U\Source\VRM4ULoader\Public\VrmSkeletalMesh.h">
+      <Filter>Plugins\VRM4U\Source\VRM4ULoader\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\VRM4U\Source\VRM4ULoader\Public\VrmSkeletalMeshComponent.h">
+      <Filter>Plugins\VRM4U\Source\VRM4ULoader\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\VRM4U\Source\VRM4ULoader\Public\VrmSkeleton.h">
+      <Filter>Plugins\VRM4U\Source\VRM4ULoader\Public</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\VRM4U\Source\VRM4UMisc">
+      <UniqueIdentifier>{A8A08220-1511-431E-92C2-2C37F3C4A8DC}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\VRM4U\Source\VRM4UMisc\VRM4UMisc.Build.cs">
+      <Filter>Plugins\VRM4U\Source\VRM4UMisc</Filter>
+    </None>
+    <Filter Include="Plugins\VRM4U\Source\VRM4UMisc\Private">
+      <UniqueIdentifier>{3CB255B4-03CB-4C37-9DAB-B0728A2DFB50}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\VRM4U\Source\VRM4UMisc\Private\VRM4UMisc.cpp">
+      <Filter>Plugins\VRM4U\Source\VRM4UMisc\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\VRM4U\Source\VRM4UMisc\Private\VRM4UMisc.h">
+      <Filter>Plugins\VRM4U\Source\VRM4UMisc\Private</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\VRM4U\Source\VRM4UMisc\Private\VRM4UMiscLog.h">
+      <Filter>Plugins\VRM4U\Source\VRM4UMisc\Private</Filter>
+    </ClInclude>
+    <Filter Include="Source\UE_VtuberStudio">
+      <UniqueIdentifier>{5A736650-4282-4594-8D05-42599619D919}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\UE_VtuberStudio\UE_VtuberStudio.Build.cs">
+      <Filter>Source\UE_VtuberStudio</Filter>
+    </None>
+    <Filter Include="Source\UE_VtuberStudio\Private">
+      <UniqueIdentifier>{3CBB0B8C-52C4-45F2-9FF2-B9EB7766C713}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\UE_VtuberStudio\Private\TY_BaseUserWidget.cpp">
+      <Filter>Source\UE_VtuberStudio\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\UE_VtuberStudio\Private\TY_CameraMan_Pawn.cpp">
+      <Filter>Source\UE_VtuberStudio\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\UE_VtuberStudio\Private\TY_Character.cpp">
+      <Filter>Source\UE_VtuberStudio\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\UE_VtuberStudio\Private\TY_ClientFSMComponent.cpp">
+      <Filter>Source\UE_VtuberStudio\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\UE_VtuberStudio\Private\TY_Client_Character.cpp">
+      <Filter>Source\UE_VtuberStudio\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\UE_VtuberStudio\Private\TY_Dancer.cpp">
+      <Filter>Source\UE_VtuberStudio\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\UE_VtuberStudio\Private\TY_DancerFSM.cpp">
+      <Filter>Source\UE_VtuberStudio\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\UE_VtuberStudio\Private\TY_ObjectBase.cpp">
+      <Filter>Source\UE_VtuberStudio\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\UE_VtuberStudio\Private\TY_PC_CameraWheelActorComponent.cpp">
+      <Filter>Source\UE_VtuberStudio\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\UE_VtuberStudio\Private\TY_PC_MoveActorComponent.cpp">
+      <Filter>Source\UE_VtuberStudio\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\UE_VtuberStudio\Private\TY_PC_PlayerPawn.cpp">
+      <Filter>Source\UE_VtuberStudio\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\UE_VtuberStudio\Private\TY_RhythmRewardNode.cpp">
+      <Filter>Source\UE_VtuberStudio\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\UE_VtuberStudio\Private\TY_RhythmRewardNodeB.cpp">
+      <Filter>Source\UE_VtuberStudio\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\UE_VtuberStudio\Private\TY_SoundMeterCube.cpp">
+      <Filter>Source\UE_VtuberStudio\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\UE_VtuberStudio\Private\TY_Streamer_Character.cpp">
+      <Filter>Source\UE_VtuberStudio\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\UE_VtuberStudio\Private\TY_TestSpawnActor.cpp">
+      <Filter>Source\UE_VtuberStudio\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\UE_VtuberStudio\Private\TY_Test_GameMode.cpp">
+      <Filter>Source\UE_VtuberStudio\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\UE_VtuberStudio\Private\TY_Test_HUD.cpp">
+      <Filter>Source\UE_VtuberStudio\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\UE_VtuberStudio\Private\TY_Test_PlayerController.cpp">
+      <Filter>Source\UE_VtuberStudio\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\UE_VtuberStudio\Private\TY_VR_GrabActorComponent.cpp">
+      <Filter>Source\UE_VtuberStudio\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\UE_VtuberStudio\Private\TY_VR_HandActorComponent.cpp">
+      <Filter>Source\UE_VtuberStudio\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\UE_VtuberStudio\Private\TY_VR_HandAnimInstance.cpp">
+      <Filter>Source\UE_VtuberStudio\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\UE_VtuberStudio\Private\TY_VR_MoveActorComponent.cpp">
+      <Filter>Source\UE_VtuberStudio\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\UE_VtuberStudio\Private\TY_VR_PickUpActor.cpp">
+      <Filter>Source\UE_VtuberStudio\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\UE_VtuberStudio\Private\TY_VR_PlayerPawn.cpp">
+      <Filter>Source\UE_VtuberStudio\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\UE_VtuberStudio\Private\TY_WebBrowserWidget.cpp">
+      <Filter>Source\UE_VtuberStudio\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\UE_VtuberStudio\Private\UE_VtuberStudio.cpp">
+      <Filter>Source\UE_VtuberStudio\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\UE_VtuberStudio\Private\UE_VtuberStudioCharacter.cpp">
+      <Filter>Source\UE_VtuberStudio\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\UE_VtuberStudio\Private\UE_VtuberStudioGameMode.cpp">
+      <Filter>Source\UE_VtuberStudio\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\UE_VtuberStudio\Public">
+      <UniqueIdentifier>{A1BCD3A2-CE44-4E56-8F7E-D70415EED3C3}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\UE_VtuberStudio\Public\TY_BaseUserWidget.h">
+      <Filter>Source\UE_VtuberStudio\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\UE_VtuberStudio\Public\TY_CameraMan_Pawn.h">
+      <Filter>Source\UE_VtuberStudio\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\UE_VtuberStudio\Public\TY_Character.h">
+      <Filter>Source\UE_VtuberStudio\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\UE_VtuberStudio\Public\TY_ClientFSMComponent.h">
+      <Filter>Source\UE_VtuberStudio\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\UE_VtuberStudio\Public\TY_Client_Character.h">
+      <Filter>Source\UE_VtuberStudio\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\UE_VtuberStudio\Public\TY_Dancer.h">
+      <Filter>Source\UE_VtuberStudio\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\UE_VtuberStudio\Public\TY_DancerFSM.h">
+      <Filter>Source\UE_VtuberStudio\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\UE_VtuberStudio\Public\TY_ObjectBase.h">
+      <Filter>Source\UE_VtuberStudio\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\UE_VtuberStudio\Public\TY_PC_CameraWheelActorComponent.h">
+      <Filter>Source\UE_VtuberStudio\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\UE_VtuberStudio\Public\TY_PC_MoveActorComponent.h">
+      <Filter>Source\UE_VtuberStudio\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\UE_VtuberStudio\Public\TY_PC_PlayerPawn.h">
+      <Filter>Source\UE_VtuberStudio\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\UE_VtuberStudio\Public\TY_RhythmRewardNode.h">
+      <Filter>Source\UE_VtuberStudio\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\UE_VtuberStudio\Public\TY_RhythmRewardNodeB.h">
+      <Filter>Source\UE_VtuberStudio\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\UE_VtuberStudio\Public\TY_SoundMeterCube.h">
+      <Filter>Source\UE_VtuberStudio\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\UE_VtuberStudio\Public\TY_Streamer_Character.h">
+      <Filter>Source\UE_VtuberStudio\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\UE_VtuberStudio\Public\TY_TestSpawnActor.h">
+      <Filter>Source\UE_VtuberStudio\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\UE_VtuberStudio\Public\TY_Test_GameMode.h">
+      <Filter>Source\UE_VtuberStudio\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\UE_VtuberStudio\Public\TY_Test_HUD.h">
+      <Filter>Source\UE_VtuberStudio\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\UE_VtuberStudio\Public\TY_Test_PlayerController.h">
+      <Filter>Source\UE_VtuberStudio\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\UE_VtuberStudio\Public\TY_VR_GrabActorComponent.h">
+      <Filter>Source\UE_VtuberStudio\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\UE_VtuberStudio\Public\TY_VR_HandActorComponent.h">
+      <Filter>Source\UE_VtuberStudio\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\UE_VtuberStudio\Public\TY_VR_HandAnimInstance.h">
+      <Filter>Source\UE_VtuberStudio\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\UE_VtuberStudio\Public\TY_VR_MoveActorComponent.h">
+      <Filter>Source\UE_VtuberStudio\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\UE_VtuberStudio\Public\TY_VR_PickUpActor.h">
+      <Filter>Source\UE_VtuberStudio\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\UE_VtuberStudio\Public\TY_VR_PlayerPawn.h">
+      <Filter>Source\UE_VtuberStudio\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\UE_VtuberStudio\Public\TY_WebBrowserWidget.h">
+      <Filter>Source\UE_VtuberStudio\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\UE_VtuberStudio\Public\UE_VtuberStudio.h">
+      <Filter>Source\UE_VtuberStudio\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\UE_VtuberStudio\Public\UE_VtuberStudioCharacter.h">
+      <Filter>Source\UE_VtuberStudio\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\UE_VtuberStudio\Public\UE_VtuberStudioGameMode.h">
+      <Filter>Source\UE_VtuberStudio\Public</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

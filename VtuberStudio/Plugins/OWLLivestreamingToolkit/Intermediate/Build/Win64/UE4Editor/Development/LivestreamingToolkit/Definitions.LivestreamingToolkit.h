@@ -53,7 +53,7 @@
 #define UE_TARGET_NAME UE_VtuberStudioEditor
 #define OWL_AUTH_URL "https://plugin-api.offworld.live"
 #define PUBLIC_KEY 
-#define RELEASE_DATE 2021-11-28T19:22:08.274Z
+#define RELEASE_DATE 2021-12-07T13:57:26.881Z
 #define OFFWORLDLIVE_DEBUG 0
 #define UE_MODULE_NAME "LivestreamingToolkit"
 #define UE_PLUGIN_NAME "OWLLivestreamingToolkit"
@@ -303,7 +303,7 @@
 #define LEVELSEQUENCE_API DLLIMPORT
 #define OWL_AUTH_URL "https://plugin-api.offworld.live"
 #define PUBLIC_KEY 
-#define RELEASE_DATE 2021-11-28T19:22:08.274Z
+#define RELEASE_DATE 2021-12-07T13:57:26.881Z
 #define OFFWORLDLIVE_DEBUG 0
 #define LIVESTREAMINGTOOLKIT_API DLLEXPORT
 #define JSONUTILITIES_API DLLIMPORT
