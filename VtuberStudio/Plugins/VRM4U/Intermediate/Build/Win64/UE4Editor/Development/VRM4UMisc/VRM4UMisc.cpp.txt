@@ -1,3 +1,3 @@
-C:\Users\TFG5076XG\Documents\GitHub\UE_VtuberStudio\Plugins\VRM4U\Intermediate\Build\Win64\UE4Editor\Development\VRM4UMisc\Definitions.VRM4UMisc.h
-C:\Users\TFG5076XG\Documents\GitHub\UE_VtuberStudio\Plugins\VRM4U\Source\VRM4UMisc\Private\VRM4UMisc.h
-C:\Users\TFG5076XG\Documents\GitHub\UE_VtuberStudio\Plugins\VRM4U\Source\VRM4UMisc\Private\VRM4UMiscLog.h
+C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\VRM4U\Intermediate\Build\Win64\UE4Editor\Development\VRM4UMisc\Definitions.VRM4UMisc.h
+C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\VRM4U\Source\VRM4UMisc\Private\VRM4UMisc.h
+C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\VRM4U\Source\VRM4UMisc\Private\VRM4UMiscLog.h

@@ -13,7 +13,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define VRM4U_AnimNode_VrmCopyHandBone_generated_h
 
-#define UE_VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_AnimNode_VrmCopyHandBone_h_23_GENERATED_BODY \
+#define VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_AnimNode_VrmCopyHandBone_h_23_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FAnimNode_VrmCopyHandBone_Statics; \
 	static class UScriptStruct* StaticStruct(); \
 	typedef FAnimNode_SkeletalControlBase Super;
@@ -22,7 +22,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 template<> VRM4U_API UScriptStruct* StaticStruct<struct FAnimNode_VrmCopyHandBone>();
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID UE_VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_AnimNode_VrmCopyHandBone_h
+#define CURRENT_FILE_ID VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_AnimNode_VrmCopyHandBone_h
 
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

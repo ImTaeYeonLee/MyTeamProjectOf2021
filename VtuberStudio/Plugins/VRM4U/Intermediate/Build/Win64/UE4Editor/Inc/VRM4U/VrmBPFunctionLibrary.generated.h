@@ -35,8 +35,8 @@ class UTexture;
 #endif
 #define VRM4U_VrmBPFunctionLibrary_generated_h
 
-#define UE_VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmBPFunctionLibrary_h_48_SPARSE_DATA
-#define UE_VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmBPFunctionLibrary_h_48_RPC_WRAPPERS \
+#define VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmBPFunctionLibrary_h_48_SPARSE_DATA
+#define VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmBPFunctionLibrary_h_48_RPC_WRAPPERS \
  \
 	DECLARE_FUNCTION(execVRMGetUEVersion); \
 	DECLARE_FUNCTION(execVRMGetAllActorsHasSceneComponent); \
@@ -88,7 +88,7 @@ class UTexture;
 	DECLARE_FUNCTION(execVRMTransMatrix);
 
 
-#define UE_VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmBPFunctionLibrary_h_48_RPC_WRAPPERS_NO_PURE_DECLS \
+#define VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmBPFunctionLibrary_h_48_RPC_WRAPPERS_NO_PURE_DECLS \
  \
 	DECLARE_FUNCTION(execVRMGetUEVersion); \
 	DECLARE_FUNCTION(execVRMGetAllActorsHasSceneComponent); \
@@ -140,7 +140,7 @@ class UTexture;
 	DECLARE_FUNCTION(execVRMTransMatrix);
 
 
-#define UE_VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmBPFunctionLibrary_h_48_INCLASS_NO_PURE_DECLS \
+#define VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmBPFunctionLibrary_h_48_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUVrmBPFunctionLibrary(); \
 	friend struct Z_Construct_UClass_UVrmBPFunctionLibrary_Statics; \
@@ -149,7 +149,7 @@ public: \
 	DECLARE_SERIALIZER(UVrmBPFunctionLibrary)
 
 
-#define UE_VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmBPFunctionLibrary_h_48_INCLASS \
+#define VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmBPFunctionLibrary_h_48_INCLASS \
 private: \
 	static void StaticRegisterNativesUVrmBPFunctionLibrary(); \
 	friend struct Z_Construct_UClass_UVrmBPFunctionLibrary_Statics; \
@@ -158,7 +158,7 @@ public: \
 	DECLARE_SERIALIZER(UVrmBPFunctionLibrary)
 
 
-#define UE_VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmBPFunctionLibrary_h_48_STANDARD_CONSTRUCTORS \
+#define VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmBPFunctionLibrary_h_48_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UVrmBPFunctionLibrary(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UVrmBPFunctionLibrary) \
@@ -171,7 +171,7 @@ private: \
 public:
 
 
-#define UE_VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmBPFunctionLibrary_h_48_ENHANCED_CONSTRUCTORS \
+#define VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmBPFunctionLibrary_h_48_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UVrmBPFunctionLibrary(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
 private: \
@@ -184,28 +184,28 @@ public: \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UVrmBPFunctionLibrary)
 
 
-#define UE_VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmBPFunctionLibrary_h_48_PRIVATE_PROPERTY_OFFSET
-#define UE_VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmBPFunctionLibrary_h_45_PROLOG
-#define UE_VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmBPFunctionLibrary_h_48_GENERATED_BODY_LEGACY \
+#define VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmBPFunctionLibrary_h_48_PRIVATE_PROPERTY_OFFSET
+#define VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmBPFunctionLibrary_h_45_PROLOG
+#define VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmBPFunctionLibrary_h_48_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	UE_VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmBPFunctionLibrary_h_48_PRIVATE_PROPERTY_OFFSET \
-	UE_VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmBPFunctionLibrary_h_48_SPARSE_DATA \
-	UE_VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmBPFunctionLibrary_h_48_RPC_WRAPPERS \
-	UE_VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmBPFunctionLibrary_h_48_INCLASS \
-	UE_VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmBPFunctionLibrary_h_48_STANDARD_CONSTRUCTORS \
+	VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmBPFunctionLibrary_h_48_PRIVATE_PROPERTY_OFFSET \
+	VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmBPFunctionLibrary_h_48_SPARSE_DATA \
+	VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmBPFunctionLibrary_h_48_RPC_WRAPPERS \
+	VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmBPFunctionLibrary_h_48_INCLASS \
+	VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmBPFunctionLibrary_h_48_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define UE_VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmBPFunctionLibrary_h_48_GENERATED_BODY \
+#define VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmBPFunctionLibrary_h_48_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	UE_VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmBPFunctionLibrary_h_48_PRIVATE_PROPERTY_OFFSET \
-	UE_VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmBPFunctionLibrary_h_48_SPARSE_DATA \
-	UE_VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmBPFunctionLibrary_h_48_RPC_WRAPPERS_NO_PURE_DECLS \
-	UE_VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmBPFunctionLibrary_h_48_INCLASS_NO_PURE_DECLS \
-	UE_VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmBPFunctionLibrary_h_48_ENHANCED_CONSTRUCTORS \
+	VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmBPFunctionLibrary_h_48_PRIVATE_PROPERTY_OFFSET \
+	VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmBPFunctionLibrary_h_48_SPARSE_DATA \
+	VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmBPFunctionLibrary_h_48_RPC_WRAPPERS_NO_PURE_DECLS \
+	VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmBPFunctionLibrary_h_48_INCLASS_NO_PURE_DECLS \
+	VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmBPFunctionLibrary_h_48_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -213,7 +213,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 template<> VRM4U_API UClass* StaticClass<class UVrmBPFunctionLibrary>();
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID UE_VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmBPFunctionLibrary_h
+#define CURRENT_FILE_ID VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmBPFunctionLibrary_h
 
 
 #define FOREACH_ENUM_EVRMWIDGETMODE(op) \

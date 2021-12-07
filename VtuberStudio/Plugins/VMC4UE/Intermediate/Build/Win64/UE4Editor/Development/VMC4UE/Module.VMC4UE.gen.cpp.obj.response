@@ -32,8 +32,8 @@
 /wd4244
 /wd4838
 /I .
-/I C:\Users\TFG5076XG\Documents\GitHub\UE_VtuberStudio\Plugins\VMC4UE\Intermediate\Build\Win64\UE4Editor\Inc\VMC4UE
-/I C:\Users\TFG5076XG\Documents\GitHub\UE_VtuberStudio\Plugins\VMC4UE\Source
+/I C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\VMC4UE\Intermediate\Build\Win64\UE4Editor\Inc\VMC4UE
+/I C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\VMC4UE\Source
 /I Runtime
 /I Runtime\TraceLog\Public
 /I Runtime\Core\Public
@@ -239,8 +239,8 @@
 /I Runtime\MRMesh\Public
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\AnimGraphRuntime
 /I Runtime\AnimGraphRuntime\Public
-/I C:\Users\TFG5076XG\Documents\GitHub\UE_VtuberStudio\Plugins\UEOSC\Intermediate\Build\Win64\UE4Editor\Inc\UEOSC
-/I C:\Users\TFG5076XG\Documents\GitHub\UE_VtuberStudio\Plugins\UEOSC\Source
+/I C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\UEOSC\Intermediate\Build\Win64\UE4Editor\Inc\UEOSC
+/I C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\UEOSC\Source
 /I Runtime\Networking\Public
 /I ThirdParty\PhysX3\PxShared\include
 /I ThirdParty\PhysX3\PxShared\include\cudamanager
@@ -271,12 +271,12 @@
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"
-/FI"C:\Users\TFG5076XG\Documents\GitHub\UE_VtuberStudio\Intermediate\Build\Win64\UE_VtuberStudioEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Yu"C:\Users\TFG5076XG\Documents\GitHub\UE_VtuberStudio\Intermediate\Build\Win64\UE_VtuberStudioEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Fp"C:\Users\TFG5076XG\Documents\GitHub\UE_VtuberStudio\Intermediate\Build\Win64\UE_VtuberStudioEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
-"C:\Users\TFG5076XG\Documents\GitHub\UE_VtuberStudio\Plugins\VMC4UE\Intermediate\Build\Win64\UE4Editor\Development\VMC4UE\Module.VMC4UE.gen.cpp"
-/FI"C:\Users\TFG5076XG\Documents\GitHub\UE_VtuberStudio\Plugins\VMC4UE\Intermediate\Build\Win64\UE4Editor\Development\VMC4UE\Definitions.VMC4UE.h"
-/Fo"C:\Users\TFG5076XG\Documents\GitHub\UE_VtuberStudio\Plugins\VMC4UE\Intermediate\Build\Win64\UE4Editor\Development\VMC4UE\Module.VMC4UE.gen.cpp.obj"
+/FI"C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Intermediate\Build\Win64\UE_VtuberStudioEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Yu"C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Intermediate\Build\Win64\UE_VtuberStudioEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Fp"C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Intermediate\Build\Win64\UE_VtuberStudioEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
+"C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\VMC4UE\Intermediate\Build\Win64\UE4Editor\Development\VMC4UE\Module.VMC4UE.gen.cpp"
+/FI"C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\VMC4UE\Intermediate\Build\Win64\UE4Editor\Development\VMC4UE\Definitions.VMC4UE.h"
+/Fo"C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\VMC4UE\Intermediate\Build\Win64\UE4Editor\Development\VMC4UE\Module.VMC4UE.gen.cpp.obj"
 /TP
 /GR-
 /W4

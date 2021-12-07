@@ -1,15 +1,15 @@
-C:\Users\TFG5076XG\Documents\GitHub\UE_VtuberStudio\Plugins\GoogleSTT\Intermediate\Build\Win64\UE4Editor\Development\GoogleSTT\Definitions.GoogleSTT.h
-C:/Users/TFG5076XG/Documents/GitHub/UE_VtuberStudio/Plugins/GoogleSTT/Intermediate/Build/Win64/UE4Editor/Inc/GoogleSTT/GoogleSpeechRecognition.gen.cpp
+C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\GoogleSTT\Intermediate\Build\Win64\UE4Editor\Development\GoogleSTT\Definitions.GoogleSTT.h
+C:/Users/TFG5076XG/Documents/GitHub/MyTeamProjectOf2021/VtuberStudio/Plugins/GoogleSTT/Intermediate/Build/Win64/UE4Editor/Inc/GoogleSTT/GoogleSpeechRecognition.gen.cpp
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
-C:\Users\TFG5076XG\Documents\GitHub\UE_VtuberStudio\Plugins\GoogleSTT\Source\GoogleSTT/Public/GoogleSpeechRecognition.h
+C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\GoogleSTT\Source\GoogleSTT/Public/GoogleSpeechRecognition.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Kismet/BlueprintAsyncActionBase.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\BlueprintAsyncActionBase.generated.h
-C:\Users\TFG5076XG\Documents\GitHub\UE_VtuberStudio\Plugins\GoogleSTT\Intermediate\Build\Win64\UE4Editor\Inc\GoogleSTT\GoogleSpeechRecognition.generated.h
-C:/Users/TFG5076XG/Documents/GitHub/UE_VtuberStudio/Plugins/GoogleSTT/Intermediate/Build/Win64/UE4Editor/Inc/GoogleSTT/GoogleSTT.init.gen.cpp
-C:/Users/TFG5076XG/Documents/GitHub/UE_VtuberStudio/Plugins/GoogleSTT/Intermediate/Build/Win64/UE4Editor/Inc/GoogleSTT/RecordingComponent.gen.cpp
-C:\Users\TFG5076XG\Documents\GitHub\UE_VtuberStudio\Plugins\GoogleSTT\Source\GoogleSTT/Public/RecordingComponent.h
-C:\Users\TFG5076XG\Documents\GitHub\UE_VtuberStudio\Plugins\GoogleSTT\Source\GoogleSTT\Public\RecordingManager.h
+C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\GoogleSTT\Intermediate\Build\Win64\UE4Editor\Inc\GoogleSTT\GoogleSpeechRecognition.generated.h
+C:/Users/TFG5076XG/Documents/GitHub/MyTeamProjectOf2021/VtuberStudio/Plugins/GoogleSTT/Intermediate/Build/Win64/UE4Editor/Inc/GoogleSTT/GoogleSTT.init.gen.cpp
+C:/Users/TFG5076XG/Documents/GitHub/MyTeamProjectOf2021/VtuberStudio/Plugins/GoogleSTT/Intermediate/Build/Win64/UE4Editor/Inc/GoogleSTT/RecordingComponent.gen.cpp
+C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\GoogleSTT\Source\GoogleSTT/Public/RecordingComponent.h
+C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\GoogleSTT\Source\GoogleSTT\Public\RecordingManager.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Windows/WindowsHWrapper.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Windows/PreWindowsApi.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Windows/MinWindows.h
@@ -155,4 +155,4 @@ C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\corecrt_startup
 C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\math.h
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\vcruntime_startup.h
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\sstream
-C:\Users\TFG5076XG\Documents\GitHub\UE_VtuberStudio\Plugins\GoogleSTT\Intermediate\Build\Win64\UE4Editor\Inc\GoogleSTT\RecordingComponent.generated.h
+C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\GoogleSTT\Intermediate\Build\Win64\UE4Editor\Inc\GoogleSTT\RecordingComponent.generated.h

@@ -1,7 +1,7 @@
-C:\Users\TFG5076XG\Documents\GitHub\UE_VtuberStudio\Plugins\AdvancedSteamSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSteamSessions\Definitions.AdvancedSteamSessions.h
-C:/Users/TFG5076XG/Documents/GitHub/UE_VtuberStudio/Plugins/AdvancedSteamSessions/Source/AdvancedSteamSessions/Private/AdvancedSteamFriendsLibrary.cpp
-C:\Users\TFG5076XG\Documents\GitHub\UE_VtuberStudio\Plugins\AdvancedSteamSessions\Source\AdvancedSteamSessions\Classes\AdvancedSteamFriendsLibrary.h
-C:\Users\TFG5076XG\Documents\GitHub\UE_VtuberStudio\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\BlueprintDataDefinitions.h
+C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\AdvancedSteamSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSteamSessions\Definitions.AdvancedSteamSessions.h
+C:/Users/TFG5076XG/Documents/GitHub/MyTeamProjectOf2021/VtuberStudio/Plugins/AdvancedSteamSessions/Source/AdvancedSteamSessions/Private/AdvancedSteamFriendsLibrary.cpp
+C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\AdvancedSteamSessions\Source\AdvancedSteamSessions\Classes\AdvancedSteamFriendsLibrary.h
+C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\BlueprintDataDefinitions.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/PlayerState.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\PlayerState.generated.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Online\OnlineSubsystem\Source\Public\Interfaces/OnlineSessionInterface.h
@@ -154,7 +154,7 @@ C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Online\OnlineSubsystemUtils\S
 C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Online\OnlineSubsystemUtils\Intermediate\Build\Win64\UE4Editor\Inc\OnlineSubsystemUtils\ShowLoginUICallbackProxy.generated.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Online\OnlineSubsystemUtils\Source\OnlineSubsystemUtils/Classes/TurnBasedBlueprintLibrary.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Online\OnlineSubsystemUtils\Intermediate\Build\Win64\UE4Editor\Inc\OnlineSubsystemUtils\TurnBasedBlueprintLibrary.generated.h
-C:\Users\TFG5076XG\Documents\GitHub\UE_VtuberStudio\Plugins\AdvancedSessions\Intermediate\Build\Win64\UE4Editor\Inc\AdvancedSessions\BlueprintDataDefinitions.generated.h
+C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\AdvancedSessions\Intermediate\Build\Win64\UE4Editor\Inc\AdvancedSessions\BlueprintDataDefinitions.generated.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\Steamworks\Steamv151\sdk\public\steam/steam_api.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\Steamworks\Steamv151\sdk\public\steam\steam_api_common.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\Steamworks\Steamv151\sdk\public\steam\steamtypes.h
@@ -189,18 +189,18 @@ C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\Steamworks\Steamv15
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\Steamworks\Steamv151\sdk\public\steam\steamnetworkingtypes.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\Steamworks\Steamv151\sdk\public\steam\isteamnetworkingsockets.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\Steamworks\Steamv151\sdk\public\steam\isteamnetworkingutils.h
-C:\Users\TFG5076XG\Documents\GitHub\UE_VtuberStudio\Plugins\AdvancedSteamSessions\Intermediate\Build\Win64\UE4Editor\Inc\AdvancedSteamSessions\AdvancedSteamFriendsLibrary.generated.h
-C:\Users\TFG5076XG\Documents\GitHub\UE_VtuberStudio\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\OnlineSubSystemHeader.h
-C:/Users/TFG5076XG/Documents/GitHub/UE_VtuberStudio/Plugins/AdvancedSteamSessions/Source/AdvancedSteamSessions/Private/AdvancedSteamSessions.cpp
-C:\Users\TFG5076XG\Documents\GitHub\UE_VtuberStudio\Plugins\AdvancedSteamSessions\Source\AdvancedSteamSessions\Classes\AdvancedSteamSessions.h
-C:/Users/TFG5076XG/Documents/GitHub/UE_VtuberStudio/Plugins/AdvancedSteamSessions/Source/AdvancedSteamSessions/Private/AdvancedSteamWorkshopLibrary.cpp
-C:\Users\TFG5076XG\Documents\GitHub\UE_VtuberStudio\Plugins\AdvancedSteamSessions\Source\AdvancedSteamSessions\Classes\AdvancedSteamWorkshopLibrary.h
-C:\Users\TFG5076XG\Documents\GitHub\UE_VtuberStudio\Plugins\AdvancedSteamSessions\Intermediate\Build\Win64\UE4Editor\Inc\AdvancedSteamSessions\AdvancedSteamWorkshopLibrary.generated.h
-C:/Users/TFG5076XG/Documents/GitHub/UE_VtuberStudio/Plugins/AdvancedSteamSessions/Source/AdvancedSteamSessions/Private/SteamRequestGroupOfficersCallbackProxy.cpp
-C:\Users\TFG5076XG\Documents\GitHub\UE_VtuberStudio\Plugins\AdvancedSteamSessions\Source\AdvancedSteamSessions\Classes\SteamRequestGroupOfficersCallbackProxy.h
+C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\AdvancedSteamSessions\Intermediate\Build\Win64\UE4Editor\Inc\AdvancedSteamSessions\AdvancedSteamFriendsLibrary.generated.h
+C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\OnlineSubSystemHeader.h
+C:/Users/TFG5076XG/Documents/GitHub/MyTeamProjectOf2021/VtuberStudio/Plugins/AdvancedSteamSessions/Source/AdvancedSteamSessions/Private/AdvancedSteamSessions.cpp
+C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\AdvancedSteamSessions\Source\AdvancedSteamSessions\Classes\AdvancedSteamSessions.h
+C:/Users/TFG5076XG/Documents/GitHub/MyTeamProjectOf2021/VtuberStudio/Plugins/AdvancedSteamSessions/Source/AdvancedSteamSessions/Private/AdvancedSteamWorkshopLibrary.cpp
+C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\AdvancedSteamSessions\Source\AdvancedSteamSessions\Classes\AdvancedSteamWorkshopLibrary.h
+C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\AdvancedSteamSessions\Intermediate\Build\Win64\UE4Editor\Inc\AdvancedSteamSessions\AdvancedSteamWorkshopLibrary.generated.h
+C:/Users/TFG5076XG/Documents/GitHub/MyTeamProjectOf2021/VtuberStudio/Plugins/AdvancedSteamSessions/Source/AdvancedSteamSessions/Private/SteamRequestGroupOfficersCallbackProxy.cpp
+C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\AdvancedSteamSessions\Source\AdvancedSteamSessions\Classes\SteamRequestGroupOfficersCallbackProxy.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Online\OnlineSubsystemSteam\Source\Public\OnlineSubsystemSteam.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Online\OnlineSubsystemSteam\Source\Public\OnlineSubsystemSteamPackage.h
-C:\Users\TFG5076XG\Documents\GitHub\UE_VtuberStudio\Plugins\AdvancedSteamSessions\Intermediate\Build\Win64\UE4Editor\Inc\AdvancedSteamSessions\SteamRequestGroupOfficersCallbackProxy.generated.h
-C:/Users/TFG5076XG/Documents/GitHub/UE_VtuberStudio/Plugins/AdvancedSteamSessions/Source/AdvancedSteamSessions/Private/SteamWSRequestUGCDetailsCallbackProxy.cpp
-C:\Users\TFG5076XG\Documents\GitHub\UE_VtuberStudio\Plugins\AdvancedSteamSessions\Source\AdvancedSteamSessions\Classes\SteamWSRequestUGCDetailsCallbackProxy.h
-C:\Users\TFG5076XG\Documents\GitHub\UE_VtuberStudio\Plugins\AdvancedSteamSessions\Intermediate\Build\Win64\UE4Editor\Inc\AdvancedSteamSessions\SteamWSRequestUGCDetailsCallbackProxy.generated.h
+C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\AdvancedSteamSessions\Intermediate\Build\Win64\UE4Editor\Inc\AdvancedSteamSessions\SteamRequestGroupOfficersCallbackProxy.generated.h
+C:/Users/TFG5076XG/Documents/GitHub/MyTeamProjectOf2021/VtuberStudio/Plugins/AdvancedSteamSessions/Source/AdvancedSteamSessions/Private/SteamWSRequestUGCDetailsCallbackProxy.cpp
+C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\AdvancedSteamSessions\Source\AdvancedSteamSessions\Classes\SteamWSRequestUGCDetailsCallbackProxy.h
+C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\AdvancedSteamSessions\Intermediate\Build\Win64\UE4Editor\Inc\AdvancedSteamSessions\SteamWSRequestUGCDetailsCallbackProxy.generated.h

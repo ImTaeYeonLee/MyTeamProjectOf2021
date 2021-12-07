@@ -14,7 +14,7 @@ struct FUEOSCElement;
 #endif
 #define UEOSC_UEOSCReceiver_generated_h
 
-#define UE_VtuberStudio_Plugins_UEOSC_Source_UEOSC_Include_UEOSCReceiver_h_14_DELEGATE \
+#define VtuberStudio_Plugins_UEOSC_Source_UEOSC_Include_UEOSCReceiver_h_14_DELEGATE \
 struct _Script_UEOSC_eventUEOSCReceiveEventDelegate_Parms \
 { \
 	FName Address; \
@@ -31,10 +31,10 @@ static inline void FUEOSCReceiveEventDelegate_DelegateWrapper(const FMulticastSc
 }
 
 
-#define UE_VtuberStudio_Plugins_UEOSC_Source_UEOSC_Include_UEOSCReceiver_h_22_SPARSE_DATA
-#define UE_VtuberStudio_Plugins_UEOSC_Source_UEOSC_Include_UEOSCReceiver_h_22_RPC_WRAPPERS
-#define UE_VtuberStudio_Plugins_UEOSC_Source_UEOSC_Include_UEOSCReceiver_h_22_RPC_WRAPPERS_NO_PURE_DECLS
-#define UE_VtuberStudio_Plugins_UEOSC_Source_UEOSC_Include_UEOSCReceiver_h_22_INCLASS_NO_PURE_DECLS \
+#define VtuberStudio_Plugins_UEOSC_Source_UEOSC_Include_UEOSCReceiver_h_22_SPARSE_DATA
+#define VtuberStudio_Plugins_UEOSC_Source_UEOSC_Include_UEOSCReceiver_h_22_RPC_WRAPPERS
+#define VtuberStudio_Plugins_UEOSC_Source_UEOSC_Include_UEOSCReceiver_h_22_RPC_WRAPPERS_NO_PURE_DECLS
+#define VtuberStudio_Plugins_UEOSC_Source_UEOSC_Include_UEOSCReceiver_h_22_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUUEOSCReceiver(); \
 	friend struct Z_Construct_UClass_UUEOSCReceiver_Statics; \
@@ -43,7 +43,7 @@ public: \
 	DECLARE_SERIALIZER(UUEOSCReceiver)
 
 
-#define UE_VtuberStudio_Plugins_UEOSC_Source_UEOSC_Include_UEOSCReceiver_h_22_INCLASS \
+#define VtuberStudio_Plugins_UEOSC_Source_UEOSC_Include_UEOSCReceiver_h_22_INCLASS \
 private: \
 	static void StaticRegisterNativesUUEOSCReceiver(); \
 	friend struct Z_Construct_UClass_UUEOSCReceiver_Statics; \
@@ -52,7 +52,7 @@ public: \
 	DECLARE_SERIALIZER(UUEOSCReceiver)
 
 
-#define UE_VtuberStudio_Plugins_UEOSC_Source_UEOSC_Include_UEOSCReceiver_h_22_STANDARD_CONSTRUCTORS \
+#define VtuberStudio_Plugins_UEOSC_Source_UEOSC_Include_UEOSCReceiver_h_22_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UUEOSCReceiver(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UUEOSCReceiver) \
@@ -65,7 +65,7 @@ private: \
 public:
 
 
-#define UE_VtuberStudio_Plugins_UEOSC_Source_UEOSC_Include_UEOSCReceiver_h_22_ENHANCED_CONSTRUCTORS \
+#define VtuberStudio_Plugins_UEOSC_Source_UEOSC_Include_UEOSCReceiver_h_22_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UUEOSCReceiver(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
 private: \
@@ -78,32 +78,32 @@ public: \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UUEOSCReceiver)
 
 
-#define UE_VtuberStudio_Plugins_UEOSC_Source_UEOSC_Include_UEOSCReceiver_h_22_PRIVATE_PROPERTY_OFFSET \
+#define VtuberStudio_Plugins_UEOSC_Source_UEOSC_Include_UEOSCReceiver_h_22_PRIVATE_PROPERTY_OFFSET \
 	FORCEINLINE static uint32 __PPO__Port() { return STRUCT_OFFSET(UUEOSCReceiver, Port); } \
 	FORCEINLINE static uint32 __PPO__LastUpdateTime() { return STRUCT_OFFSET(UUEOSCReceiver, LastUpdateTime); }
 
 
-#define UE_VtuberStudio_Plugins_UEOSC_Source_UEOSC_Include_UEOSCReceiver_h_19_PROLOG
-#define UE_VtuberStudio_Plugins_UEOSC_Source_UEOSC_Include_UEOSCReceiver_h_22_GENERATED_BODY_LEGACY \
+#define VtuberStudio_Plugins_UEOSC_Source_UEOSC_Include_UEOSCReceiver_h_19_PROLOG
+#define VtuberStudio_Plugins_UEOSC_Source_UEOSC_Include_UEOSCReceiver_h_22_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	UE_VtuberStudio_Plugins_UEOSC_Source_UEOSC_Include_UEOSCReceiver_h_22_PRIVATE_PROPERTY_OFFSET \
-	UE_VtuberStudio_Plugins_UEOSC_Source_UEOSC_Include_UEOSCReceiver_h_22_SPARSE_DATA \
-	UE_VtuberStudio_Plugins_UEOSC_Source_UEOSC_Include_UEOSCReceiver_h_22_RPC_WRAPPERS \
-	UE_VtuberStudio_Plugins_UEOSC_Source_UEOSC_Include_UEOSCReceiver_h_22_INCLASS \
-	UE_VtuberStudio_Plugins_UEOSC_Source_UEOSC_Include_UEOSCReceiver_h_22_STANDARD_CONSTRUCTORS \
+	VtuberStudio_Plugins_UEOSC_Source_UEOSC_Include_UEOSCReceiver_h_22_PRIVATE_PROPERTY_OFFSET \
+	VtuberStudio_Plugins_UEOSC_Source_UEOSC_Include_UEOSCReceiver_h_22_SPARSE_DATA \
+	VtuberStudio_Plugins_UEOSC_Source_UEOSC_Include_UEOSCReceiver_h_22_RPC_WRAPPERS \
+	VtuberStudio_Plugins_UEOSC_Source_UEOSC_Include_UEOSCReceiver_h_22_INCLASS \
+	VtuberStudio_Plugins_UEOSC_Source_UEOSC_Include_UEOSCReceiver_h_22_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define UE_VtuberStudio_Plugins_UEOSC_Source_UEOSC_Include_UEOSCReceiver_h_22_GENERATED_BODY \
+#define VtuberStudio_Plugins_UEOSC_Source_UEOSC_Include_UEOSCReceiver_h_22_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	UE_VtuberStudio_Plugins_UEOSC_Source_UEOSC_Include_UEOSCReceiver_h_22_PRIVATE_PROPERTY_OFFSET \
-	UE_VtuberStudio_Plugins_UEOSC_Source_UEOSC_Include_UEOSCReceiver_h_22_SPARSE_DATA \
-	UE_VtuberStudio_Plugins_UEOSC_Source_UEOSC_Include_UEOSCReceiver_h_22_RPC_WRAPPERS_NO_PURE_DECLS \
-	UE_VtuberStudio_Plugins_UEOSC_Source_UEOSC_Include_UEOSCReceiver_h_22_INCLASS_NO_PURE_DECLS \
-	UE_VtuberStudio_Plugins_UEOSC_Source_UEOSC_Include_UEOSCReceiver_h_22_ENHANCED_CONSTRUCTORS \
+	VtuberStudio_Plugins_UEOSC_Source_UEOSC_Include_UEOSCReceiver_h_22_PRIVATE_PROPERTY_OFFSET \
+	VtuberStudio_Plugins_UEOSC_Source_UEOSC_Include_UEOSCReceiver_h_22_SPARSE_DATA \
+	VtuberStudio_Plugins_UEOSC_Source_UEOSC_Include_UEOSCReceiver_h_22_RPC_WRAPPERS_NO_PURE_DECLS \
+	VtuberStudio_Plugins_UEOSC_Source_UEOSC_Include_UEOSCReceiver_h_22_INCLASS_NO_PURE_DECLS \
+	VtuberStudio_Plugins_UEOSC_Source_UEOSC_Include_UEOSCReceiver_h_22_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -111,7 +111,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 template<> UEOSC_API UClass* StaticClass<class UUEOSCReceiver>();
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID UE_VtuberStudio_Plugins_UEOSC_Source_UEOSC_Include_UEOSCReceiver_h
+#define CURRENT_FILE_ID VtuberStudio_Plugins_UEOSC_Source_UEOSC_Include_UEOSCReceiver_h
 
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

@@ -13,7 +13,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define VRM4U_VrmEditorEventComponent_generated_h
 
-#define UE_VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmEditorEventComponent_h_33_DELEGATE \
+#define VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmEditorEventComponent_h_33_DELEGATE \
 struct VrmEditorEventComponent_eventVrmGlobalTimeChangeEventDelegate_Parms \
 { \
 	float CurrentTime; \
@@ -26,7 +26,7 @@ static inline void FVrmGlobalTimeChangeEventDelegate_DelegateWrapper(const FMult
 }
 
 
-#define UE_VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmEditorEventComponent_h_22_DELEGATE \
+#define VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmEditorEventComponent_h_22_DELEGATE \
 struct VrmEditorEventComponent_eventVrmSelectionObjectEventDelegate_Parms \
 { \
 	bool dummy; \
@@ -39,7 +39,7 @@ static inline void FVrmSelectionObjectEventDelegate_DelegateWrapper(const FMulti
 }
 
 
-#define UE_VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmEditorEventComponent_h_21_DELEGATE \
+#define VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmEditorEventComponent_h_21_DELEGATE \
 struct VrmEditorEventComponent_eventVrmSelectionChangedEventDelegate_Parms \
 { \
 	bool dummy; \
@@ -52,20 +52,20 @@ static inline void FVrmSelectionChangedEventDelegate_DelegateWrapper(const FMult
 }
 
 
-#define UE_VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmEditorEventComponent_h_17_SPARSE_DATA
-#define UE_VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmEditorEventComponent_h_17_RPC_WRAPPERS \
+#define VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmEditorEventComponent_h_17_SPARSE_DATA
+#define VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmEditorEventComponent_h_17_RPC_WRAPPERS \
  \
 	DECLARE_FUNCTION(execSetGlobalTimeCheck); \
 	DECLARE_FUNCTION(execSetSelectCheck);
 
 
-#define UE_VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmEditorEventComponent_h_17_RPC_WRAPPERS_NO_PURE_DECLS \
+#define VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmEditorEventComponent_h_17_RPC_WRAPPERS_NO_PURE_DECLS \
  \
 	DECLARE_FUNCTION(execSetGlobalTimeCheck); \
 	DECLARE_FUNCTION(execSetSelectCheck);
 
 
-#define UE_VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmEditorEventComponent_h_17_INCLASS_NO_PURE_DECLS \
+#define VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmEditorEventComponent_h_17_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUVrmEditorEventComponent(); \
 	friend struct Z_Construct_UClass_UVrmEditorEventComponent_Statics; \
@@ -74,7 +74,7 @@ public: \
 	DECLARE_SERIALIZER(UVrmEditorEventComponent)
 
 
-#define UE_VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmEditorEventComponent_h_17_INCLASS \
+#define VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmEditorEventComponent_h_17_INCLASS \
 private: \
 	static void StaticRegisterNativesUVrmEditorEventComponent(); \
 	friend struct Z_Construct_UClass_UVrmEditorEventComponent_Statics; \
@@ -83,7 +83,7 @@ public: \
 	DECLARE_SERIALIZER(UVrmEditorEventComponent)
 
 
-#define UE_VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmEditorEventComponent_h_17_STANDARD_CONSTRUCTORS \
+#define VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmEditorEventComponent_h_17_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UVrmEditorEventComponent(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UVrmEditorEventComponent) \
@@ -96,7 +96,7 @@ private: \
 public:
 
 
-#define UE_VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmEditorEventComponent_h_17_ENHANCED_CONSTRUCTORS \
+#define VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmEditorEventComponent_h_17_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UVrmEditorEventComponent(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
 private: \
@@ -109,28 +109,28 @@ public: \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UVrmEditorEventComponent)
 
 
-#define UE_VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmEditorEventComponent_h_17_PRIVATE_PROPERTY_OFFSET
-#define UE_VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmEditorEventComponent_h_14_PROLOG
-#define UE_VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmEditorEventComponent_h_17_GENERATED_BODY_LEGACY \
+#define VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmEditorEventComponent_h_17_PRIVATE_PROPERTY_OFFSET
+#define VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmEditorEventComponent_h_14_PROLOG
+#define VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmEditorEventComponent_h_17_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	UE_VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmEditorEventComponent_h_17_PRIVATE_PROPERTY_OFFSET \
-	UE_VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmEditorEventComponent_h_17_SPARSE_DATA \
-	UE_VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmEditorEventComponent_h_17_RPC_WRAPPERS \
-	UE_VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmEditorEventComponent_h_17_INCLASS \
-	UE_VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmEditorEventComponent_h_17_STANDARD_CONSTRUCTORS \
+	VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmEditorEventComponent_h_17_PRIVATE_PROPERTY_OFFSET \
+	VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmEditorEventComponent_h_17_SPARSE_DATA \
+	VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmEditorEventComponent_h_17_RPC_WRAPPERS \
+	VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmEditorEventComponent_h_17_INCLASS \
+	VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmEditorEventComponent_h_17_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define UE_VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmEditorEventComponent_h_17_GENERATED_BODY \
+#define VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmEditorEventComponent_h_17_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	UE_VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmEditorEventComponent_h_17_PRIVATE_PROPERTY_OFFSET \
-	UE_VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmEditorEventComponent_h_17_SPARSE_DATA \
-	UE_VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmEditorEventComponent_h_17_RPC_WRAPPERS_NO_PURE_DECLS \
-	UE_VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmEditorEventComponent_h_17_INCLASS_NO_PURE_DECLS \
-	UE_VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmEditorEventComponent_h_17_ENHANCED_CONSTRUCTORS \
+	VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmEditorEventComponent_h_17_PRIVATE_PROPERTY_OFFSET \
+	VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmEditorEventComponent_h_17_SPARSE_DATA \
+	VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmEditorEventComponent_h_17_RPC_WRAPPERS_NO_PURE_DECLS \
+	VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmEditorEventComponent_h_17_INCLASS_NO_PURE_DECLS \
+	VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmEditorEventComponent_h_17_ENHANCED_CONSTRUCTORS \
 static_assert(false, "Unknown access specifier for GENERATED_BODY() macro in class VrmEditorEventComponent."); \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -138,7 +138,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 template<> VRM4U_API UClass* StaticClass<class UVrmEditorEventComponent>();
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID UE_VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmEditorEventComponent_h
+#define CURRENT_FILE_ID VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmEditorEventComponent_h
 
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

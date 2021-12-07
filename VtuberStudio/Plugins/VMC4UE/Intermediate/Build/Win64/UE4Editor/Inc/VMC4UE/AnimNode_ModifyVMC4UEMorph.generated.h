@@ -13,7 +13,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define VMC4UE_AnimNode_ModifyVMC4UEMorph_generated_h
 
-#define UE_VtuberStudio_Plugins_VMC4UE_Source_VMC4UE_Include_AnimNode_ModifyVMC4UEMorph_h_36_GENERATED_BODY \
+#define VtuberStudio_Plugins_VMC4UE_Source_VMC4UE_Include_AnimNode_ModifyVMC4UEMorph_h_36_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FAnimNode_ModifyVMC4UEMorph_Statics; \
 	static class UScriptStruct* StaticStruct(); \
 	typedef FAnimNode_Base Super;
@@ -22,7 +22,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 template<> VMC4UE_API UScriptStruct* StaticStruct<struct FAnimNode_ModifyVMC4UEMorph>();
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID UE_VtuberStudio_Plugins_VMC4UE_Source_VMC4UE_Include_AnimNode_ModifyVMC4UEMorph_h
+#define CURRENT_FILE_ID VtuberStudio_Plugins_VMC4UE_Source_VMC4UE_Include_AnimNode_ModifyVMC4UEMorph_h
 
 
 #define FOREACH_ENUM_EMVC4UEMODIFYCURVEAPPLYMODE(op) \

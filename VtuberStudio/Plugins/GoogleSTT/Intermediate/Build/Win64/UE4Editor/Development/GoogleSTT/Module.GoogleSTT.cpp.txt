@@ -1,9 +1,9 @@
-C:\Users\TFG5076XG\Documents\GitHub\UE_VtuberStudio\Plugins\GoogleSTT\Intermediate\Build\Win64\UE4Editor\Development\GoogleSTT\Definitions.GoogleSTT.h
-C:/Users/TFG5076XG/Documents/GitHub/UE_VtuberStudio/Plugins/GoogleSTT/Source/GoogleSTT/Private/GoogleSpeechRecognition.cpp
-C:\Users\TFG5076XG\Documents\GitHub\UE_VtuberStudio\Plugins\GoogleSTT\Source\GoogleSTT\Public\GoogleSpeechRecognition.h
+C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\GoogleSTT\Intermediate\Build\Win64\UE4Editor\Development\GoogleSTT\Definitions.GoogleSTT.h
+C:/Users/TFG5076XG/Documents/GitHub/MyTeamProjectOf2021/VtuberStudio/Plugins/GoogleSTT/Source/GoogleSTT/Private/GoogleSpeechRecognition.cpp
+C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\GoogleSTT\Source\GoogleSTT\Public\GoogleSpeechRecognition.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Kismet/BlueprintAsyncActionBase.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\BlueprintAsyncActionBase.generated.h
-C:\Users\TFG5076XG\Documents\GitHub\UE_VtuberStudio\Plugins\GoogleSTT\Intermediate\Build\Win64\UE4Editor\Inc\GoogleSTT\GoogleSpeechRecognition.generated.h
+C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\GoogleSTT\Intermediate\Build\Win64\UE4Editor\Inc\GoogleSTT\GoogleSpeechRecognition.generated.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Public\Engine.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/MonolithicHeaderBoilerplate.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Core.h
@@ -678,10 +678,10 @@ C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.2
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\isa_availability.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Widgets/Input/SSlider.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Framework/Docking/LayoutService.h
-C:\Users\TFG5076XG\Documents\GitHub\UE_VtuberStudio\Plugins\GoogleSTT\Source\ThirdParty\include\cpprest/http_client.h
-C:\Users\TFG5076XG\Documents\GitHub\UE_VtuberStudio\Plugins\GoogleSTT\Source\ThirdParty\include\cpprest/asyncrt_utils.h
-C:\Users\TFG5076XG\Documents\GitHub\UE_VtuberStudio\Plugins\GoogleSTT\Source\ThirdParty\include\cpprest/details/basic_types.h
-C:\Users\TFG5076XG\Documents\GitHub\UE_VtuberStudio\Plugins\GoogleSTT\Source\ThirdParty\include\cpprest/details/cpprest_compat.h
+C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\GoogleSTT\Source\ThirdParty\include\cpprest/http_client.h
+C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\GoogleSTT\Source\ThirdParty\include\cpprest/asyncrt_utils.h
+C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\GoogleSTT\Source\ThirdParty\include\cpprest/details/basic_types.h
+C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\GoogleSTT\Source\ThirdParty\include\cpprest/details/cpprest_compat.h
 C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h
 C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\concurrencysal.h
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\fstream
@@ -714,9 +714,9 @@ C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\locale.h
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\iostream
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\sstream
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\string
-C:\Users\TFG5076XG\Documents\GitHub\UE_VtuberStudio\Plugins\GoogleSTT\Source\ThirdParty\include\cpprest/details/SafeInt3.hpp
+C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\GoogleSTT\Source\ThirdParty\include\cpprest/details/SafeInt3.hpp
 C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\assert.h
-C:\Users\TFG5076XG\Documents\GitHub\UE_VtuberStudio\Plugins\GoogleSTT\Source\ThirdParty\include\pplx/pplxtasks.h
+C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\GoogleSTT\Source\ThirdParty\include\pplx/pplxtasks.h
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\ppltasks.h
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\pplwin.h
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\pplinterface.h
@@ -740,43 +740,43 @@ C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.2
 C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\guiddef.h
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\random
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xbit_ops.h
-C:\Users\TFG5076XG\Documents\GitHub\UE_VtuberStudio\Plugins\GoogleSTT\Source\ThirdParty\include\cpprest/details/web_utilities.h
-C:\Users\TFG5076XG\Documents\GitHub\UE_VtuberStudio\Plugins\GoogleSTT\Source\ThirdParty\include\cpprest/uri.h
-C:\Users\TFG5076XG\Documents\GitHub\UE_VtuberStudio\Plugins\GoogleSTT\Source\ThirdParty\include\cpprest/base_uri.h
+C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\GoogleSTT\Source\ThirdParty\include\cpprest/details/web_utilities.h
+C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\GoogleSTT\Source\ThirdParty\include\cpprest/uri.h
+C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\GoogleSTT\Source\ThirdParty\include\cpprest/base_uri.h
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\map
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xtree
-C:\Users\TFG5076XG\Documents\GitHub\UE_VtuberStudio\Plugins\GoogleSTT\Source\ThirdParty\include\cpprest/uri_builder.h
-C:\Users\TFG5076XG\Documents\GitHub\UE_VtuberStudio\Plugins\GoogleSTT\Source\ThirdParty\include\cpprest/http_msg.h
-C:\Users\TFG5076XG\Documents\GitHub\UE_VtuberStudio\Plugins\GoogleSTT\Source\ThirdParty\include\cpprest/containerstream.h
-C:\Users\TFG5076XG\Documents\GitHub\UE_VtuberStudio\Plugins\GoogleSTT\Source\ThirdParty\include\cpprest/astreambuf.h
+C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\GoogleSTT\Source\ThirdParty\include\cpprest/uri_builder.h
+C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\GoogleSTT\Source\ThirdParty\include\cpprest/http_msg.h
+C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\GoogleSTT\Source\ThirdParty\include\cpprest/containerstream.h
+C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\GoogleSTT\Source\ThirdParty\include\cpprest/astreambuf.h
 C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\math.h
-C:\Users\TFG5076XG\Documents\GitHub\UE_VtuberStudio\Plugins\GoogleSTT\Source\ThirdParty\include\cpprest/streams.h
+C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\GoogleSTT\Source\ThirdParty\include\cpprest/streams.h
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\queue
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\deque
-C:\Users\TFG5076XG\Documents\GitHub\UE_VtuberStudio\Plugins\GoogleSTT\Source\ThirdParty\include\cpprest/http_compression.h
-C:\Users\TFG5076XG\Documents\GitHub\UE_VtuberStudio\Plugins\GoogleSTT\Source\ThirdParty\include\cpprest/http_headers.h
-C:\Users\TFG5076XG\Documents\GitHub\UE_VtuberStudio\Plugins\GoogleSTT\Source\ThirdParty\include\cpprest/json.h
+C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\GoogleSTT\Source\ThirdParty\include\cpprest/http_compression.h
+C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\GoogleSTT\Source\ThirdParty\include\cpprest/http_headers.h
+C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\GoogleSTT\Source\ThirdParty\include\cpprest/json.h
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\unordered_map
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xhash
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\list
-C:\Users\TFG5076XG\Documents\GitHub\UE_VtuberStudio\Plugins\GoogleSTT\Source\ThirdParty\include\cpprest/details/http_constants.dat
-C:\Users\TFG5076XG\Documents\GitHub\UE_VtuberStudio\Plugins\GoogleSTT\Source\ThirdParty\include\cpprest/details/http_constants.dat
-C:\Users\TFG5076XG\Documents\GitHub\UE_VtuberStudio\Plugins\GoogleSTT\Source\ThirdParty\include\cpprest/details/http_constants.dat
-C:\Users\TFG5076XG\Documents\GitHub\UE_VtuberStudio\Plugins\GoogleSTT\Source\ThirdParty\include\cpprest/details/http_constants.dat
-C:\Users\TFG5076XG\Documents\GitHub\UE_VtuberStudio\Plugins\GoogleSTT\Source\ThirdParty\include\cpprest/details/http_constants.dat
-C:\Users\TFG5076XG\Documents\GitHub\UE_VtuberStudio\Plugins\GoogleSTT\Source\ThirdParty\include\cpprest/oauth1.h
-C:\Users\TFG5076XG\Documents\GitHub\UE_VtuberStudio\Plugins\GoogleSTT\Source\ThirdParty\include\cpprest/details/http_constants.dat
-C:\Users\TFG5076XG\Documents\GitHub\UE_VtuberStudio\Plugins\GoogleSTT\Source\ThirdParty\include\cpprest/details/http_constants.dat
-C:\Users\TFG5076XG\Documents\GitHub\UE_VtuberStudio\Plugins\GoogleSTT\Source\ThirdParty\include\cpprest/oauth2.h
-C:\Users\TFG5076XG\Documents\GitHub\UE_VtuberStudio\Plugins\GoogleSTT\Source\ThirdParty\include\cpprest/details/http_constants.dat
-C:\Users\TFG5076XG\Documents\GitHub\UE_VtuberStudio\Plugins\GoogleSTT\Source\ThirdParty\include\cpprest/filestream.h
-C:\Users\TFG5076XG\Documents\GitHub\UE_VtuberStudio\Plugins\GoogleSTT\Source\ThirdParty\include\cpprest/details/fileio.h
+C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\GoogleSTT\Source\ThirdParty\include\cpprest/details/http_constants.dat
+C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\GoogleSTT\Source\ThirdParty\include\cpprest/details/http_constants.dat
+C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\GoogleSTT\Source\ThirdParty\include\cpprest/details/http_constants.dat
+C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\GoogleSTT\Source\ThirdParty\include\cpprest/details/http_constants.dat
+C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\GoogleSTT\Source\ThirdParty\include\cpprest/details/http_constants.dat
+C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\GoogleSTT\Source\ThirdParty\include\cpprest/oauth1.h
+C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\GoogleSTT\Source\ThirdParty\include\cpprest/details/http_constants.dat
+C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\GoogleSTT\Source\ThirdParty\include\cpprest/details/http_constants.dat
+C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\GoogleSTT\Source\ThirdParty\include\cpprest/oauth2.h
+C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\GoogleSTT\Source\ThirdParty\include\cpprest/details/http_constants.dat
+C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\GoogleSTT\Source\ThirdParty\include\cpprest/filestream.h
+C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\GoogleSTT\Source\ThirdParty\include\cpprest/details/fileio.h
 C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\assert.h
-C:/Users/TFG5076XG/Documents/GitHub/UE_VtuberStudio/Plugins/GoogleSTT/Source/GoogleSTT/Private/GoogleSTT.cpp
-C:\Users\TFG5076XG\Documents\GitHub\UE_VtuberStudio\Plugins\GoogleSTT\Source\GoogleSTT\Public\GoogleSTT.h
-C:/Users/TFG5076XG/Documents/GitHub/UE_VtuberStudio/Plugins/GoogleSTT/Source/GoogleSTT/Private/RecordingComponent.cpp
-C:\Users\TFG5076XG\Documents\GitHub\UE_VtuberStudio\Plugins\GoogleSTT\Source\GoogleSTT\Public\RecordingComponent.h
-C:\Users\TFG5076XG\Documents\GitHub\UE_VtuberStudio\Plugins\GoogleSTT\Source\GoogleSTT\Public\RecordingManager.h
+C:/Users/TFG5076XG/Documents/GitHub/MyTeamProjectOf2021/VtuberStudio/Plugins/GoogleSTT/Source/GoogleSTT/Private/GoogleSTT.cpp
+C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\GoogleSTT\Source\GoogleSTT\Public\GoogleSTT.h
+C:/Users/TFG5076XG/Documents/GitHub/MyTeamProjectOf2021/VtuberStudio/Plugins/GoogleSTT/Source/GoogleSTT/Private/RecordingComponent.cpp
+C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\GoogleSTT\Source\GoogleSTT\Public\RecordingComponent.h
+C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\GoogleSTT\Source\GoogleSTT\Public\RecordingManager.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Windows/WindowsHWrapper.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Windows/PreWindowsApi.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Windows/MinWindows.h
@@ -883,8 +883,8 @@ C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\AudioCaptureCore\Publi
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\SignalProcessing\Public\DSP/Delay.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\SignalProcessing\Public\DSP/WaveTableOsc.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\SignalProcessing\Public\DSP/EnvelopeFollower.h
-C:\Users\TFG5076XG\Documents\GitHub\UE_VtuberStudio\Plugins\GoogleSTT\Intermediate\Build\Win64\UE4Editor\Inc\GoogleSTT\RecordingComponent.generated.h
-C:/Users/TFG5076XG/Documents/GitHub/UE_VtuberStudio/Plugins/GoogleSTT/Source/GoogleSTT/Private/RecordingManager.cpp
+C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\GoogleSTT\Intermediate\Build\Win64\UE4Editor\Inc\GoogleSTT\RecordingComponent.generated.h
+C:/Users/TFG5076XG/Documents/GitHub/MyTeamProjectOf2021/VtuberStudio/Plugins/GoogleSTT/Source/GoogleSTT/Private/RecordingManager.cpp
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\AssetRegistry\Public\AssetRegistryModule.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\AssetRegistry\Public\AssetRegistry/AssetRegistryModule.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\AssetRegistry\Public\AssetRegistry/IAssetRegistry.h

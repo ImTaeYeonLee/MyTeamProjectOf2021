@@ -1,0 +1,710 @@
+﻿  Using 'git status' to determine working set for adaptive non-unity build (C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021).
+  Creating makefile for UE_VtuberStudioEditor (no existing makefile)
+UnrealBuildTool : warning : The 'Developer' module type has been deprecated in 4.24. Use 'DeveloperTool' for modules that can be loaded by game/client/server targets in non-shipping configurations, or 'UncookedOnly' for modules that should only be loaded by uncooked editor and program targets (eg. modules containing blueprint nodes)
+C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\VRM4U\VRM4U.uplugin : warning : The 'Developer' module type has been deprecated in 4.24.
+  ----- isLibrarySupported true
+  C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\GoogleSTT\Source\ThirdParty\lib
+  ----- PublicIncludePaths.Add true
+  C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\GoogleSTT\Source\ThirdParty\include
+C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\OWLLivestreamingToolkit\Source\ThirdParty\Spout\Spout.Build.cs : warning : Referenced directory 'C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\OWLLivestreamingToolkit\Source\ThirdParty\Spout\Spout2\SPOUTSDK\SpoutGL' does not exist.
+  Parsing headers for UE_VtuberStudioEditor
+    Running UnrealHeaderTool "C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\UE_VtuberStudio.uproject" "C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Intermediate\Build\Win64\UE_VtuberStudioEditor\Development\UE_VtuberStudioEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\TFG5076XG\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+LogPluginManager : warning : Plugin 'AdvancedSessions' exists at '../../../../../../Users/TFG5076XG/Documents/GitHub/MyTeamProjectOf2021/VtuberStudio/Plugins/AdvancedSessions/AdvancedSessions.uplugin' and '../../../../../../Users/TFG5076XG/Documents/GitHub/MyTeamProjectOf2021/VtuberStudio/Plugins/AdvancedSessions/AdvancedSessions/AdvancedSessions.uplugin' - second location will be ignored
+LogPluginManager : warning : Plugin 'AdvancedSteamSessions' exists at '../../../../../../Users/TFG5076XG/Documents/GitHub/MyTeamProjectOf2021/VtuberStudio/Plugins/AdvancedSteamSessions/AdvancedSteamSessions.uplugin' and '../../../../../../Users/TFG5076XG/Documents/GitHub/MyTeamProjectOf2021/VtuberStudio/Plugins/AdvancedSessions/AdvancedSteamSessions/AdvancedSteamSessions.uplugin' - second location will be ignored
+  LogInit: Display: Loading text-based GConfig....
+  Reflection code generated for UE_VtuberStudioEditor in 5.0284462 seconds
+  Building UE_VtuberStudioEditor...
+  Using Visual Studio 2019 14.29.30133 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Building 129 actions with 16 processes...
+    [1/129] Default.rc2
+    [2/129] Default.rc2
+    [3/129] Default.rc2
+    [4/129] Default.rc2
+    [5/129] Default.rc2
+    [6/129] Default.rc2
+    [7/129] Default.rc2
+    [8/129] Default.rc2
+    [9/129] Default.rc2
+    [10/129] Default.rc2
+    [11/129] Default.rc2
+    [12/129] Default.rc2
+    [13/129] Default.rc2
+    [14/129] Default.rc2
+    [15/129] SharedPCH.UnrealEd.ShadowErrors.cpp
+    [16/129] VRM4UMisc.cpp
+    [17/129] UE4Editor-VRM4UMisc.lib
+       C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\VRM4U\Intermediate\Build\Win64\UE4Editor\Development\VRM4UMisc\UE4Editor-VRM4UMisc.lib 라이브러리 및 C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\VRM4U\Intermediate\Build\Win64\UE4Editor\Development\VRM4UMisc\UE4Editor-VRM4UMisc.exp 개체를 생성하고 있습니다.
+    [18/129] Module.VRM4UEditor.gen.cpp
+    [19/129] Module.AnimatedTextureEditor.gen.cpp
+    [20/129] Module.AnimatedTextureEditor.cpp
+C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\UnrealAnimatedTexturePlugin-master\Source\AnimatedTextureEditor\Private\gif_load\gif_load.h(251): warning C4701: 초기화되지 않았을 수 있는 'desc' 지역 변수를 사용했습니다.
+    [21/129] UE4Editor-AnimatedTextureEditor.lib
+       C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\UnrealAnimatedTexturePlugin-master\Intermediate\Build\Win64\UE4Editor\Development\AnimatedTextureEditor\UE4Editor-AnimatedTextureEditor.lib 라이브러리 및 C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\UnrealAnimatedTexturePlugin-master\Intermediate\Build\Win64\UE4Editor\Development\AnimatedTextureEditor\UE4Editor-AnimatedTextureEditor.exp 개체를 생성하고 있습니다.
+    [22/129] SharedPCH.Engine.ShadowErrors.cpp
+    [23/129] Module.VMC4UEEd.gen.cpp
+    [24/129] Module.UEOSC.gen.cpp
+    [25/129] Module.VRM4UImporter.gen.cpp
+    [26/129] Module.VRM4UEditor.cpp
+    [27/129] Module.AnimatedTexture.gen.cpp
+    [28/129] Module.AnimatedTexture.cpp
+C:/Users/TFG5076XG/Documents/GitHub/MyTeamProjectOf2021/VtuberStudio/Plugins/UnrealAnimatedTexturePlugin-master/Source/AnimatedTexture/Private/AnimatedTexture2D.cpp(47): warning C4996: UProperty has been renamed to FProperty Please update your code to the new API before upgrading to the next release, otherwise your project will no longer compile.
+    [29/129] Module.VMC4UE.gen.cpp
+    [30/129] Module.UEOSC.cpp
+    [31/129] TY_Client_Character.gen.cpp
+    [32/129] Module.VMC4UEEd.cpp
+C:/Users/TFG5076XG/Documents/GitHub/MyTeamProjectOf2021/VtuberStudio/Plugins/VMC4UE/Source/VMC4UEEd/Source/VMC4UEBoneMappingAssetFactory.cpp(33): warning C4996: 'StaticConstructObject_Internal': Use version that takes parameter struct Please update your code to the new API before upgrading to the next release, otherwise your project will no longer compile.
+    [33/129] TY_VR_PlayerPawn.cpp
+    [34/129] TY_RhythmRewardNode.cpp
+    [35/129] TY_ClientFSMComponent.gen.cpp
+    [36/129] Module.VRM4U.gen.cpp
+    [37/129] UE_VtuberStudioCharacter.cpp
+    [38/129] TY_CameraMan_Pawn.cpp
+    [39/129] TY_VR_HandAnimInstance.gen.cpp
+    [40/129] TY_DancerFSM.cpp
+    [41/129] TY_VR_HandActorComponent.gen.cpp
+    [42/129] TY_Character.cpp
+    [43/129] TY_Streamer_Character.gen.cpp
+    [44/129] TY_Test_PlayerController.cpp
+    [45/129] TY_SoundMeterCube.gen.cpp
+    [46/129] TY_RhythmRewardNodeB.gen.cpp
+    [47/129] TY_VR_GrabActorComponent.cpp
+    [48/129] TY_Test_HUD.cpp
+    [49/129] TY_PC_MoveActorComponent.gen.cpp
+    [50/129] TY_PC_CameraWheelActorComponent.gen.cpp
+    [51/129] Module.GoogleSTT.gen.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sdkddkver.h(36): warning C4005: '_WIN32_WINNT_VISTA': 매크로 재정의
+    C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\GoogleSTT\Intermediate\Build\Win64\UE4Editor\Development\GoogleSTT\Definitions.GoogleSTT.h(55): note: '_WIN32_WINNT_VISTA'의 이전 정의를 참조하십시오.
+    [52/129] Module.VRM4UImporter.cpp
+    [53/129] TY_ClientFSMComponent.cpp
+    [54/129] UE_VtuberStudio.cpp
+    [55/129] Module.AdvancedSessions.gen.1_of_2.cpp
+    [56/129] TY_RhythmRewardNode.gen.cpp
+    [57/129] TY_DancerFSM.gen.cpp
+    [58/129] Module.AdvancedSessions.gen.2_of_2.cpp
+    [59/129] TY_WebBrowserWidget.cpp
+    [60/129] TY_PC_PlayerPawn.gen.cpp
+    [61/129] TY_PC_CameraWheelActorComponent.cpp
+    [62/129] TY_VR_MoveActorComponent.gen.cpp
+    [63/129] TY_Dancer.gen.cpp
+    [64/129] TY_ObjectBase.cpp
+    [65/129] Module.AdvancedSessions.cpp
+    [66/129] TY_VR_GrabActorComponent.gen.cpp
+    [67/129] TY_PC_MoveActorComponent.cpp
+    [68/129] UE_VtuberStudio.init.gen.cpp
+    [69/129] TY_SoundMeterCube.cpp
+    [70/129] TY_VR_PickUpActor.cpp
+    [71/129] TY_Streamer_Character.cpp
+    [72/129] Module.AdvancedSteamSessions.gen.cpp
+    [73/129] UE_VtuberStudioGameMode.gen.cpp
+    [74/129] TY_PC_PlayerPawn.cpp
+    [75/129] TY_Test_HUD.gen.cpp
+    [76/129] TY_VR_HandAnimInstance.cpp
+    [77/129] TY_VR_PlayerPawn.gen.cpp
+    [78/129] TY_VR_MoveActorComponent.cpp
+    [79/129] TY_Client_Character.cpp
+    [80/129] TY_ObjectBase.gen.cpp
+    [81/129] TY_Test_GameMode.gen.cpp
+    [82/129] TY_VR_HandActorComponent.cpp
+    [83/129] TY_TestSpawnActor.gen.cpp
+    [84/129] TY_VR_PickUpActor.gen.cpp
+    [85/129] TY_RhythmRewardNodeB.cpp
+    [86/129] UE_VtuberStudioGameMode.cpp
+    [87/129] TY_Test_GameMode.cpp
+    [88/129] UE_VtuberStudioCharacter.gen.cpp
+    [89/129] TY_Test_PlayerController.gen.cpp
+    [90/129] TY_CameraMan_Pawn.gen.cpp
+    [91/129] UE4Editor-VRM4UEditor.lib
+       C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\VRM4U\Intermediate\Build\Win64\UE4Editor\Development\VRM4UEditor\UE4Editor-VRM4UEditor.lib 라이브러리 및 C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\VRM4U\Intermediate\Build\Win64\UE4Editor\Development\VRM4UEditor\UE4Editor-VRM4UEditor.exp 개체를 생성하고 있습니다.
+    [92/129] UE4Editor-VRM4UImporter.lib
+       C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\VRM4U\Intermediate\Build\Win64\UE4Editor\Development\VRM4UImporter\UE4Editor-VRM4UImporter.lib 라이브러리 및 C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\VRM4U\Intermediate\Build\Win64\UE4Editor\Development\VRM4UImporter\UE4Editor-VRM4UImporter.exp 개체를 생성하고 있습니다.
+    [93/129] UE4Editor-VMC4UEEd.lib
+       C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\VMC4UE\Intermediate\Build\Win64\UE4Editor\Development\VMC4UEEd\UE4Editor-VMC4UEEd.lib 라이브러리 및 C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\VMC4UE\Intermediate\Build\Win64\UE4Editor\Development\VMC4UEEd\UE4Editor-VMC4UEEd.exp 개체를 생성하고 있습니다.
+    [94/129] TY_TestSpawnActor.cpp
+    [95/129] UE4Editor-AnimatedTexture.lib
+       C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\UnrealAnimatedTexturePlugin-master\Intermediate\Build\Win64\UE4Editor\Development\AnimatedTexture\UE4Editor-AnimatedTexture.lib 라이브러리 및 C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\UnrealAnimatedTexturePlugin-master\Intermediate\Build\Win64\UE4Editor\Development\AnimatedTexture\UE4Editor-AnimatedTexture.exp 개체를 생성하고 있습니다.
+    [96/129] UE4Editor-UEOSC.lib
+       C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\UEOSC\Intermediate\Build\Win64\UE4Editor\Development\UEOSC\UE4Editor-UEOSC.lib 라이브러리 및 C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\UEOSC\Intermediate\Build\Win64\UE4Editor\Development\UEOSC\UE4Editor-UEOSC.exp 개체를 생성하고 있습니다.
+    [97/129] UE4Editor-AdvancedSessions.dll
+       C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\AdvancedSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSessions\UE4Editor-AdvancedSessions.suppressed.lib 라이브러리 및 C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\AdvancedSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSessions\UE4Editor-AdvancedSessions.suppressed.exp 개체를 생성하고 있습니다.
+    [98/129] TY_Dancer.cpp
+    [99/129] UE4Editor-AdvancedSessions.lib
+       C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\AdvancedSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSessions\UE4Editor-AdvancedSessions.lib 라이브러리 및 C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\AdvancedSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSessions\UE4Editor-AdvancedSessions.exp 개체를 생성하고 있습니다.
+    [100/129] TY_Character.gen.cpp
+    [101/129] UE4Editor-UEOSC.dll
+       C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\UEOSC\Intermediate\Build\Win64\UE4Editor\Development\UEOSC\UE4Editor-UEOSC.suppressed.lib 라이브러리 및 C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\UEOSC\Intermediate\Build\Win64\UE4Editor\Development\UEOSC\UE4Editor-UEOSC.suppressed.exp 개체를 생성하고 있습니다.
+    [102/129] UE4Editor-AnimatedTexture.dll
+       C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\UnrealAnimatedTexturePlugin-master\Intermediate\Build\Win64\UE4Editor\Development\AnimatedTexture\UE4Editor-AnimatedTexture.suppressed.lib 라이브러리 및 C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\UnrealAnimatedTexturePlugin-master\Intermediate\Build\Win64\UE4Editor\Development\AnimatedTexture\UE4Editor-AnimatedTexture.suppressed.exp 개체를 생성하고 있습니다.
+    [103/129] UE4Editor-AnimatedTextureEditor.dll
+       C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\UnrealAnimatedTexturePlugin-master\Intermediate\Build\Win64\UE4Editor\Development\AnimatedTextureEditor\UE4Editor-AnimatedTextureEditor.suppressed.lib 라이브러리 및 C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\UnrealAnimatedTexturePlugin-master\Intermediate\Build\Win64\UE4Editor\Development\AnimatedTextureEditor\UE4Editor-AnimatedTextureEditor.suppressed.exp 개체를 생성하고 있습니다.
+    [104/129] TY_BaseUserWidget.cpp
+    [105/129] Module.VRM4ULoader.gen.cpp
+    [106/129] TY_WebBrowserWidget.gen.cpp
+    [107/129] TY_BaseUserWidget.gen.cpp
+    [108/129] UE4Editor-UE_VtuberStudio.lib
+       C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Intermediate\Build\Win64\UE4Editor\Development\UE_VtuberStudio\UE4Editor-UE_VtuberStudio.lib 라이브러리 및 C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Intermediate\Build\Win64\UE4Editor\Development\UE_VtuberStudio\UE4Editor-UE_VtuberStudio.exp 개체를 생성하고 있습니다.
+    [109/129] UE4Editor-UE_VtuberStudio.dll
+       C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Intermediate\Build\Win64\UE4Editor\Development\UE_VtuberStudio\UE4Editor-UE_VtuberStudio.suppressed.lib 라이브러리 및 C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Intermediate\Build\Win64\UE4Editor\Development\UE_VtuberStudio\UE4Editor-UE_VtuberStudio.suppressed.exp 개체를 생성하고 있습니다.
+    [110/129] Module.AdvancedSteamSessions.cpp
+    [111/129] UE4Editor-AdvancedSteamSessions.lib
+       C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\AdvancedSteamSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSteamSessions\UE4Editor-AdvancedSteamSessions.lib 라이브러리 및 C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\AdvancedSteamSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSteamSessions\UE4Editor-AdvancedSteamSessions.exp 개체를 생성하고 있습니다.
+    [112/129] UE4Editor-AdvancedSteamSessions.dll
+       C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\AdvancedSteamSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSteamSessions\UE4Editor-AdvancedSteamSessions.suppressed.lib 라이브러리 및 C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\AdvancedSteamSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSteamSessions\UE4Editor-AdvancedSteamSessions.suppressed.exp 개체를 생성하고 있습니다.
+    [113/129] Module.VMC4UE.cpp
+    [114/129] UE4Editor-VMC4UE.lib
+       C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\VMC4UE\Intermediate\Build\Win64\UE4Editor\Development\VMC4UE\UE4Editor-VMC4UE.lib 라이브러리 및 C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\VMC4UE\Intermediate\Build\Win64\UE4Editor\Development\VMC4UE\UE4Editor-VMC4UE.exp 개체를 생성하고 있습니다.
+    [115/129] UE4Editor-VMC4UE.dll
+       C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\VMC4UE\Intermediate\Build\Win64\UE4Editor\Development\VMC4UE\UE4Editor-VMC4UE.suppressed.lib 라이브러리 및 C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\VMC4UE\Intermediate\Build\Win64\UE4Editor\Development\VMC4UE\UE4Editor-VMC4UE.suppressed.exp 개체를 생성하고 있습니다.
+    [116/129] UE4Editor-VMC4UEEd.dll
+       C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\VMC4UE\Intermediate\Build\Win64\UE4Editor\Development\VMC4UEEd\UE4Editor-VMC4UEEd.suppressed.lib 라이브러리 및 C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\VMC4UE\Intermediate\Build\Win64\UE4Editor\Development\VMC4UEEd\UE4Editor-VMC4UEEd.suppressed.exp 개체를 생성하고 있습니다.
+    [117/129] Module.VRM4U.cpp
+    [118/129] UE4Editor-VRM4U.lib
+       C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\VRM4U\Intermediate\Build\Win64\UE4Editor\Development\VRM4U\UE4Editor-VRM4U.lib 라이브러리 및 C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\VRM4U\Intermediate\Build\Win64\UE4Editor\Development\VRM4U\UE4Editor-VRM4U.exp 개체를 생성하고 있습니다.
+    [119/129] UE4Editor-VRM4U.dll
+       C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\VRM4U\Intermediate\Build\Win64\UE4Editor\Development\VRM4U\UE4Editor-VRM4U.suppressed.lib 라이브러리 및 C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\VRM4U\Intermediate\Build\Win64\UE4Editor\Development\VRM4U\UE4Editor-VRM4U.suppressed.exp 개체를 생성하고 있습니다.
+    [120/129] UE4Editor-VRM4UEditor.dll
+       C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\VRM4U\Intermediate\Build\Win64\UE4Editor\Development\VRM4UEditor\UE4Editor-VRM4UEditor.suppressed.lib 라이브러리 및 C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\VRM4U\Intermediate\Build\Win64\UE4Editor\Development\VRM4UEditor\UE4Editor-VRM4UEditor.suppressed.exp 개체를 생성하고 있습니다.
+    [121/129] Module.GoogleSTT.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(241): warning C4005: '_At_': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(618): note: '_At_'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(251): warning C4005: '_When_': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(619): note: '_When_'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(424): warning C4005: '_Outptr_': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(400): note: '_Outptr_'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(425): warning C4005: '_Outptr_result_maybenull_': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(401): note: '_Outptr_result_maybenull_'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(426): warning C4005: '_Outptr_opt_': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(402): note: '_Outptr_opt_'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(427): warning C4005: '_Outptr_opt_result_maybenull_': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(403): note: '_Outptr_opt_result_maybenull_'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(431): warning C4005: '_Outptr_result_z_': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(404): note: '_Outptr_result_z_'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(432): warning C4005: '_Outptr_opt_result_z_': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(405): note: '_Outptr_opt_result_z_'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(433): warning C4005: '_Outptr_result_maybenull_z_': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(406): note: '_Outptr_result_maybenull_z_'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(434): warning C4005: '_Outptr_opt_result_maybenull_z_': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(407): note: '_Outptr_opt_result_maybenull_z_'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(438): warning C4005: '_Outptr_result_nullonfailure_': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(408): note: '_Outptr_result_nullonfailure_'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(439): warning C4005: '_Outptr_opt_result_nullonfailure_': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(409): note: '_Outptr_opt_result_nullonfailure_'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(446): warning C4005: '_COM_Outptr_': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(410): note: '_COM_Outptr_'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(447): warning C4005: '_COM_Outptr_result_maybenull_': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(411): note: '_COM_Outptr_result_maybenull_'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(448): warning C4005: '_COM_Outptr_opt_': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(412): note: '_COM_Outptr_opt_'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(449): warning C4005: '_COM_Outptr_opt_result_maybenull_': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(413): note: '_COM_Outptr_opt_result_maybenull_'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(453): warning C4005: '_Outptr_result_buffer_': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(414): note: '_Outptr_result_buffer_'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(454): warning C4005: '_Outptr_opt_result_buffer_': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(415): note: '_Outptr_opt_result_buffer_'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(455): warning C4005: '_Outptr_result_buffer_to_': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(416): note: '_Outptr_result_buffer_to_'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(456): warning C4005: '_Outptr_opt_result_buffer_to_': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(417): note: '_Outptr_opt_result_buffer_to_'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(458): warning C4005: '_Outptr_result_buffer_all_': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(418): note: '_Outptr_result_buffer_all_'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(459): warning C4005: '_Outptr_opt_result_buffer_all_': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(419): note: '_Outptr_opt_result_buffer_all_'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(461): warning C4005: '_Outptr_result_buffer_maybenull_': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(420): note: '_Outptr_result_buffer_maybenull_'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(462): warning C4005: '_Outptr_opt_result_buffer_maybenull_': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(421): note: '_Outptr_opt_result_buffer_maybenull_'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(463): warning C4005: '_Outptr_result_buffer_to_maybenull_': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(422): note: '_Outptr_result_buffer_to_maybenull_'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(464): warning C4005: '_Outptr_opt_result_buffer_to_maybenull_': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(423): note: '_Outptr_opt_result_buffer_to_maybenull_'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(466): warning C4005: '_Outptr_result_buffer_all_maybenull_': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(424): note: '_Outptr_result_buffer_all_maybenull_'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(467): warning C4005: '_Outptr_opt_result_buffer_all_maybenull_': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(425): note: '_Outptr_opt_result_buffer_all_maybenull_'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(469): warning C4005: '_Outptr_result_bytebuffer_': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(426): note: '_Outptr_result_bytebuffer_'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(470): warning C4005: '_Outptr_opt_result_bytebuffer_': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(427): note: '_Outptr_opt_result_bytebuffer_'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(471): warning C4005: '_Outptr_result_bytebuffer_to_': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(428): note: '_Outptr_result_bytebuffer_to_'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(472): warning C4005: '_Outptr_opt_result_bytebuffer_to_': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(429): note: '_Outptr_opt_result_bytebuffer_to_'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(474): warning C4005: '_Outptr_result_bytebuffer_all_': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(430): note: '_Outptr_result_bytebuffer_all_'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(475): warning C4005: '_Outptr_opt_result_bytebuffer_all_': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(431): note: '_Outptr_opt_result_bytebuffer_all_'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(477): warning C4005: '_Outptr_result_bytebuffer_maybenull_': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(432): note: '_Outptr_result_bytebuffer_maybenull_'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(478): warning C4005: '_Outptr_opt_result_bytebuffer_maybenull_': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(433): note: '_Outptr_opt_result_bytebuffer_maybenull_'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(479): warning C4005: '_Outptr_result_bytebuffer_to_maybenull_': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(434): note: '_Outptr_result_bytebuffer_to_maybenull_'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(480): warning C4005: '_Outptr_opt_result_bytebuffer_to_maybenull_': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(435): note: '_Outptr_opt_result_bytebuffer_to_maybenull_'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(482): warning C4005: '_Outptr_result_bytebuffer_all_maybenull_': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(436): note: '_Outptr_result_bytebuffer_all_maybenull_'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(483): warning C4005: '_Outptr_opt_result_bytebuffer_all_maybenull_': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(437): note: '_Outptr_opt_result_bytebuffer_all_maybenull_'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(807): warning C4005: '_In_count_': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(446): note: '_In_count_'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(808): warning C4005: '_In_opt_count_': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(447): note: '_In_opt_count_'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(809): warning C4005: '_In_bytecount_': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(448): note: '_In_bytecount_'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(810): warning C4005: '_In_opt_bytecount_': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(449): note: '_In_opt_bytecount_'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(849): warning C4005: '_Out_cap_': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(450): note: '_Out_cap_'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(850): warning C4005: '_Out_opt_cap_': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(451): note: '_Out_opt_cap_'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(851): warning C4005: '_Out_bytecap_': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(452): note: '_Out_bytecap_'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(852): warning C4005: '_Out_opt_bytecap_': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(453): note: '_Out_opt_bytecap_'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(1009): warning C4005: '_Deref_out_': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(442): note: '_Deref_out_'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(1010): warning C4005: '_Deref_out_opt_': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(443): note: '_Deref_out_opt_'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(1011): warning C4005: '_Deref_opt_out_': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(444): note: '_Deref_opt_out_'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(1012): warning C4005: '_Deref_opt_out_opt_': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(445): note: '_Deref_opt_out_opt_'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(1123): warning C4005: '_Deref_post_cap_': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(458): note: '_Deref_post_cap_'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(1124): warning C4005: '_Deref_post_opt_cap_': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(459): note: '_Deref_post_opt_cap_'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(1125): warning C4005: '_Deref_post_bytecap_': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(460): note: '_Deref_post_bytecap_'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(1126): warning C4005: '_Deref_post_opt_bytecap_': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(461): note: '_Deref_post_opt_bytecap_'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(1174): warning C4005: '_Deref_post_count_': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(454): note: '_Deref_post_count_'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(1175): warning C4005: '_Deref_post_opt_count_': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(455): note: '_Deref_post_opt_count_'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(1176): warning C4005: '_Deref_post_bytecount_': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(456): note: '_Deref_post_bytecount_'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(1177): warning C4005: '_Deref_post_opt_bytecount_': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(457): note: '_Deref_post_opt_bytecount_'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(2595): warning C4005: '__null': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(658): note: '__null'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(2596): warning C4005: '__notnull': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(659): note: '__notnull'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(2597): warning C4005: '__maybenull': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(660): note: '__maybenull'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(2615): warning C4005: '__exceptthat': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(661): note: '__exceptthat'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(2645): warning C4005: '__ecount': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(189): note: '__ecount'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(2646): warning C4005: '__bcount': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(190): note: '__bcount'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(2647): warning C4005: '__in': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(192): note: '__in'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(2648): warning C4005: '__in_ecount': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(193): note: '__in_ecount'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(2649): warning C4005: '__in_bcount': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(194): note: '__in_bcount'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(2650): warning C4005: '__in_z': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(196): note: '__in_z'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(2651): warning C4005: '__in_ecount_z': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(197): note: '__in_ecount_z'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(2652): warning C4005: '__in_bcount_z': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(198): note: '__in_bcount_z'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(2653): warning C4005: '__in_nz': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(1066): note: '__in_nz'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(2654): warning C4005: '__in_ecount_nz': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(1067): note: '__in_ecount_nz'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(2655): warning C4005: '__in_bcount_nz': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(1068): note: '__in_bcount_nz'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(2656): warning C4005: '__out': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(199): note: '__out'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(2657): warning C4005: '__out_ecount': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(200): note: '__out_ecount'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(2658): warning C4005: '__out_bcount': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(201): note: '__out_bcount'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(2659): warning C4005: '__out_ecount_part': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(203): note: '__out_ecount_part'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(2660): warning C4005: '__out_bcount_part': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(204): note: '__out_bcount_part'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(2661): warning C4005: '__out_ecount_full': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(206): note: '__out_ecount_full'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(2662): warning C4005: '__out_bcount_full': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(207): note: '__out_bcount_full'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(2663): warning C4005: '__out_z': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(209): note: '__out_z'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(2665): warning C4005: '__out_ecount_z': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(210): note: '__out_ecount_z'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(2666): warning C4005: '__out_bcount_z': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(211): note: '__out_bcount_z'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(2671): warning C4005: '__out_nz': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(1069): note: '__out_nz'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(2672): warning C4005: '__out_nz_opt': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(1070): note: '__out_nz_opt'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(2673): warning C4005: '__out_ecount_nz': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(1071): note: '__out_ecount_nz'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(2674): warning C4005: '__out_bcount_nz': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(1072): note: '__out_bcount_nz'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(2675): warning C4005: '__inout': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(212): note: '__inout'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(2676): warning C4005: '__inout_ecount': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(213): note: '__inout_ecount'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(2677): warning C4005: '__inout_bcount': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(214): note: '__inout_bcount'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(2678): warning C4005: '__inout_ecount_part': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(216): note: '__inout_ecount_part'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(2679): warning C4005: '__inout_bcount_part': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(217): note: '__inout_bcount_part'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(2680): warning C4005: '__inout_ecount_full': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(219): note: '__inout_ecount_full'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(2681): warning C4005: '__inout_bcount_full': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(220): note: '__inout_bcount_full'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(2682): warning C4005: '__inout_z': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(222): note: '__inout_z'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(2683): warning C4005: '__inout_ecount_z': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(223): note: '__inout_ecount_z'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(2684): warning C4005: '__inout_bcount_z': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(224): note: '__inout_bcount_z'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(2685): warning C4005: '__inout_nz': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(1073): note: '__inout_nz'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(2686): warning C4005: '__inout_ecount_nz': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(1074): note: '__inout_ecount_nz'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(2687): warning C4005: '__inout_bcount_nz': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(1075): note: '__inout_bcount_nz'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(2688): warning C4005: '__ecount_opt': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(225): note: '__ecount_opt'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(2689): warning C4005: '__bcount_opt': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(226): note: '__bcount_opt'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(2690): warning C4005: '__in_opt': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(228): note: '__in_opt'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(2691): warning C4005: '__in_ecount_opt': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(229): note: '__in_ecount_opt'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(2692): warning C4005: '__in_bcount_opt': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(230): note: '__in_bcount_opt'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(2693): warning C4005: '__in_z_opt': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(231): note: '__in_z_opt'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(2694): warning C4005: '__in_ecount_z_opt': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(232): note: '__in_ecount_z_opt'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(2695): warning C4005: '__in_bcount_z_opt': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(233): note: '__in_bcount_z_opt'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(2696): warning C4005: '__in_nz_opt': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(1076): note: '__in_nz_opt'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(2697): warning C4005: '__in_ecount_nz_opt': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(1077): note: '__in_ecount_nz_opt'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(2698): warning C4005: '__in_bcount_nz_opt': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(1078): note: '__in_bcount_nz_opt'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(2699): warning C4005: '__out_opt': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(235): note: '__out_opt'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(2700): warning C4005: '__out_ecount_opt': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(236): note: '__out_ecount_opt'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(2701): warning C4005: '__out_bcount_opt': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(237): note: '__out_bcount_opt'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(2702): warning C4005: '__out_ecount_part_opt': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(239): note: '__out_ecount_part_opt'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(2703): warning C4005: '__out_bcount_part_opt': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(240): note: '__out_bcount_part_opt'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(2704): warning C4005: '__out_ecount_full_opt': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(242): note: '__out_ecount_full_opt'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(2705): warning C4005: '__out_bcount_full_opt': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(243): note: '__out_bcount_full_opt'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(2706): warning C4005: '__out_ecount_z_opt': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(245): note: '__out_ecount_z_opt'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(2707): warning C4005: '__out_bcount_z_opt': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(246): note: '__out_bcount_z_opt'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(2712): warning C4005: '__out_ecount_nz_opt': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(1079): note: '__out_ecount_nz_opt'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(2713): warning C4005: '__out_bcount_nz_opt': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(1080): note: '__out_bcount_nz_opt'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(2714): warning C4005: '__inout_opt': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(247): note: '__inout_opt'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(2715): warning C4005: '__inout_ecount_opt': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(248): note: '__inout_ecount_opt'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(2716): warning C4005: '__inout_bcount_opt': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(249): note: '__inout_bcount_opt'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(2717): warning C4005: '__inout_ecount_part_opt': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(251): note: '__inout_ecount_part_opt'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(2718): warning C4005: '__inout_bcount_part_opt': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(252): note: '__inout_bcount_part_opt'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(2719): warning C4005: '__inout_ecount_full_opt': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(254): note: '__inout_ecount_full_opt'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(2720): warning C4005: '__inout_bcount_full_opt': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(255): note: '__inout_bcount_full_opt'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(2721): warning C4005: '__inout_z_opt': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(257): note: '__inout_z_opt'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(2722): warning C4005: '__inout_ecount_z_opt': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(258): note: '__inout_ecount_z_opt'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(2724): warning C4005: '__inout_bcount_z_opt': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(260): note: '__inout_bcount_z_opt'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(2725): warning C4005: '__inout_nz_opt': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(1081): note: '__inout_nz_opt'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(2726): warning C4005: '__inout_ecount_nz_opt': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(1082): note: '__inout_ecount_nz_opt'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(2727): warning C4005: '__inout_bcount_nz_opt': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(1083): note: '__inout_bcount_nz_opt'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(2728): warning C4005: '__deref_ecount': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(261): note: '__deref_ecount'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(2729): warning C4005: '__deref_bcount': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(262): note: '__deref_bcount'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(2730): warning C4005: '__deref_out': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(268): note: '__deref_out'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(2731): warning C4005: '__deref_out_ecount': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(269): note: '__deref_out_ecount'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(2732): warning C4005: '__deref_out_bcount': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(270): note: '__deref_out_bcount'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(2733): warning C4005: '__deref_out_ecount_part': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(272): note: '__deref_out_ecount_part'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(2734): warning C4005: '__deref_out_bcount_part': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(273): note: '__deref_out_bcount_part'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(2735): warning C4005: '__deref_out_ecount_full': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(275): note: '__deref_out_ecount_full'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(2736): warning C4005: '__deref_out_bcount_full': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(276): note: '__deref_out_bcount_full'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(2737): warning C4005: '__deref_out_z': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(278): note: '__deref_out_z'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(2738): warning C4005: '__deref_out_ecount_z': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(279): note: '__deref_out_ecount_z'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(2739): warning C4005: '__deref_out_bcount_z': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(280): note: '__deref_out_bcount_z'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(2740): warning C4005: '__deref_out_nz': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(1084): note: '__deref_out_nz'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(2741): warning C4005: '__deref_out_ecount_nz': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(1085): note: '__deref_out_ecount_nz'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(2742): warning C4005: '__deref_out_bcount_nz': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(1086): note: '__deref_out_bcount_nz'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(2743): warning C4005: '__deref_inout': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(281): note: '__deref_inout'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(2744): warning C4005: '__deref_inout_z': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(291): note: '__deref_inout_z'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(2745): warning C4005: '__deref_inout_ecount': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(282): note: '__deref_inout_ecount'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(2746): warning C4005: '__deref_inout_bcount': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(283): note: '__deref_inout_bcount'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(2747): warning C4005: '__deref_inout_ecount_part': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(285): note: '__deref_inout_ecount_part'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(2748): warning C4005: '__deref_inout_bcount_part': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(286): note: '__deref_inout_bcount_part'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(2749): warning C4005: '__deref_inout_ecount_full': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(288): note: '__deref_inout_ecount_full'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(2750): warning C4005: '__deref_inout_bcount_full': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(289): note: '__deref_inout_bcount_full'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(2751): warning C4005: '__deref_inout_ecount_z': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(292): note: '__deref_inout_ecount_z'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(2752): warning C4005: '__deref_inout_bcount_z': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(293): note: '__deref_inout_bcount_z'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(2753): warning C4005: '__deref_inout_nz': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(1087): note: '__deref_inout_nz'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(2754): warning C4005: '__deref_inout_ecount_nz': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(1088): note: '__deref_inout_ecount_nz'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(2755): warning C4005: '__deref_inout_bcount_nz': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(1089): note: '__deref_inout_bcount_nz'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(2756): warning C4005: '__deref_ecount_opt': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(294): note: '__deref_ecount_opt'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(2757): warning C4005: '__deref_bcount_opt': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(295): note: '__deref_bcount_opt'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(2758): warning C4005: '__deref_out_opt': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(302): note: '__deref_out_opt'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(2759): warning C4005: '__deref_out_ecount_opt': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(303): note: '__deref_out_ecount_opt'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(2760): warning C4005: '__deref_out_bcount_opt': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(304): note: '__deref_out_bcount_opt'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(2761): warning C4005: '__deref_out_ecount_part_opt': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(306): note: '__deref_out_ecount_part_opt'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(2762): warning C4005: '__deref_out_bcount_part_opt': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(307): note: '__deref_out_bcount_part_opt'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(2763): warning C4005: '__deref_out_ecount_full_opt': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(309): note: '__deref_out_ecount_full_opt'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(2764): warning C4005: '__deref_out_bcount_full_opt': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(310): note: '__deref_out_bcount_full_opt'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(2765): warning C4005: '__deref_out_z_opt': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(312): note: '__deref_out_z_opt'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(2766): warning C4005: '__deref_out_ecount_z_opt': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(313): note: '__deref_out_ecount_z_opt'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(2767): warning C4005: '__deref_out_bcount_z_opt': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(314): note: '__deref_out_bcount_z_opt'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(2768): warning C4005: '__deref_out_nz_opt': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(1090): note: '__deref_out_nz_opt'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(2769): warning C4005: '__deref_out_ecount_nz_opt': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(1091): note: '__deref_out_ecount_nz_opt'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(2770): warning C4005: '__deref_out_bcount_nz_opt': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(1092): note: '__deref_out_bcount_nz_opt'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(2771): warning C4005: '__deref_inout_opt': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(315): note: '__deref_inout_opt'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(2772): warning C4005: '__deref_inout_ecount_opt': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(316): note: '__deref_inout_ecount_opt'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(2773): warning C4005: '__deref_inout_bcount_opt': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(317): note: '__deref_inout_bcount_opt'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(2774): warning C4005: '__deref_inout_ecount_part_opt': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(319): note: '__deref_inout_ecount_part_opt'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(2775): warning C4005: '__deref_inout_bcount_part_opt': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(320): note: '__deref_inout_bcount_part_opt'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(2776): warning C4005: '__deref_inout_ecount_full_opt': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(322): note: '__deref_inout_ecount_full_opt'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(2777): warning C4005: '__deref_inout_bcount_full_opt': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(323): note: '__deref_inout_bcount_full_opt'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(2778): warning C4005: '__deref_inout_z_opt': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(325): note: '__deref_inout_z_opt'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(2779): warning C4005: '__deref_inout_ecount_z_opt': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(326): note: '__deref_inout_ecount_z_opt'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(2780): warning C4005: '__deref_inout_bcount_z_opt': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(327): note: '__deref_inout_bcount_z_opt'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(2781): warning C4005: '__deref_inout_nz_opt': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(1093): note: '__deref_inout_nz_opt'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(2782): warning C4005: '__deref_inout_ecount_nz_opt': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(1094): note: '__deref_inout_ecount_nz_opt'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(2783): warning C4005: '__deref_inout_bcount_nz_opt': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(1095): note: '__deref_inout_bcount_nz_opt'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(2784): warning C4005: '__deref_opt_ecount': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(328): note: '__deref_opt_ecount'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(2785): warning C4005: '__deref_opt_bcount': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(329): note: '__deref_opt_bcount'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(2786): warning C4005: '__deref_opt_out': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(335): note: '__deref_opt_out'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(2788): warning C4005: '__deref_opt_out_ecount': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(336): note: '__deref_opt_out_ecount'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(2789): warning C4005: '__deref_opt_out_bcount': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(337): note: '__deref_opt_out_bcount'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(2790): warning C4005: '__deref_opt_out_ecount_part': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(339): note: '__deref_opt_out_ecount_part'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(2791): warning C4005: '__deref_opt_out_bcount_part': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(340): note: '__deref_opt_out_bcount_part'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(2792): warning C4005: '__deref_opt_out_ecount_full': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(342): note: '__deref_opt_out_ecount_full'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(2793): warning C4005: '__deref_opt_out_bcount_full': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(343): note: '__deref_opt_out_bcount_full'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(2794): warning C4005: '__deref_opt_inout': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(345): note: '__deref_opt_inout'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(2795): warning C4005: '__deref_opt_inout_ecount': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(346): note: '__deref_opt_inout_ecount'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(2796): warning C4005: '__deref_opt_inout_bcount': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(347): note: '__deref_opt_inout_bcount'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(2797): warning C4005: '__deref_opt_inout_ecount_part': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(349): note: '__deref_opt_inout_ecount_part'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(2798): warning C4005: '__deref_opt_inout_bcount_part': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(350): note: '__deref_opt_inout_bcount_part'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(2799): warning C4005: '__deref_opt_inout_ecount_full': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(352): note: '__deref_opt_inout_ecount_full'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(2800): warning C4005: '__deref_opt_inout_bcount_full': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(353): note: '__deref_opt_inout_bcount_full'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(2801): warning C4005: '__deref_opt_inout_z': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(355): note: '__deref_opt_inout_z'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(2802): warning C4005: '__deref_opt_inout_ecount_z': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(356): note: '__deref_opt_inout_ecount_z'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(2803): warning C4005: '__deref_opt_inout_bcount_z': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(357): note: '__deref_opt_inout_bcount_z'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(2804): warning C4005: '__deref_opt_inout_nz': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(1096): note: '__deref_opt_inout_nz'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(2805): warning C4005: '__deref_opt_inout_ecount_nz': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(1097): note: '__deref_opt_inout_ecount_nz'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(2806): warning C4005: '__deref_opt_inout_bcount_nz': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(1098): note: '__deref_opt_inout_bcount_nz'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(2807): warning C4005: '__deref_opt_ecount_opt': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(358): note: '__deref_opt_ecount_opt'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(2808): warning C4005: '__deref_opt_bcount_opt': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(359): note: '__deref_opt_bcount_opt'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(2809): warning C4005: '__deref_opt_out_opt': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(365): note: '__deref_opt_out_opt'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(2810): warning C4005: '__deref_opt_out_ecount_opt': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(366): note: '__deref_opt_out_ecount_opt'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(2811): warning C4005: '__deref_opt_out_bcount_opt': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(367): note: '__deref_opt_out_bcount_opt'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(2812): warning C4005: '__deref_opt_out_ecount_part_opt': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(369): note: '__deref_opt_out_ecount_part_opt'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(2813): warning C4005: '__deref_opt_out_bcount_part_opt': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(370): note: '__deref_opt_out_bcount_part_opt'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(2814): warning C4005: '__deref_opt_out_ecount_full_opt': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(372): note: '__deref_opt_out_ecount_full_opt'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(2815): warning C4005: '__deref_opt_out_bcount_full_opt': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(373): note: '__deref_opt_out_bcount_full_opt'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(2816): warning C4005: '__deref_opt_out_z_opt': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(375): note: '__deref_opt_out_z_opt'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(2817): warning C4005: '__deref_opt_out_ecount_z_opt': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(376): note: '__deref_opt_out_ecount_z_opt'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(2818): warning C4005: '__deref_opt_out_bcount_z_opt': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(377): note: '__deref_opt_out_bcount_z_opt'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(2819): warning C4005: '__deref_opt_out_nz_opt': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(1099): note: '__deref_opt_out_nz_opt'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(2820): warning C4005: '__deref_opt_out_ecount_nz_opt': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(1100): note: '__deref_opt_out_ecount_nz_opt'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(2821): warning C4005: '__deref_opt_out_bcount_nz_opt': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(1101): note: '__deref_opt_out_bcount_nz_opt'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(2822): warning C4005: '__deref_opt_inout_opt': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(378): note: '__deref_opt_inout_opt'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(2823): warning C4005: '__deref_opt_inout_ecount_opt': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(379): note: '__deref_opt_inout_ecount_opt'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(2824): warning C4005: '__deref_opt_inout_bcount_opt': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(380): note: '__deref_opt_inout_bcount_opt'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(2825): warning C4005: '__deref_opt_inout_ecount_part_opt': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(382): note: '__deref_opt_inout_ecount_part_opt'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(2826): warning C4005: '__deref_opt_inout_bcount_part_opt': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(383): note: '__deref_opt_inout_bcount_part_opt'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(2827): warning C4005: '__deref_opt_inout_ecount_full_opt': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(385): note: '__deref_opt_inout_ecount_full_opt'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(2828): warning C4005: '__deref_opt_inout_bcount_full_opt': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(386): note: '__deref_opt_inout_bcount_full_opt'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(2829): warning C4005: '__deref_opt_inout_z_opt': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(388): note: '__deref_opt_inout_z_opt'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(2830): warning C4005: '__deref_opt_inout_ecount_z_opt': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(389): note: '__deref_opt_inout_ecount_z_opt'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(2831): warning C4005: '__deref_opt_inout_bcount_z_opt': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(390): note: '__deref_opt_inout_bcount_z_opt'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(2832): warning C4005: '__deref_opt_inout_nz_opt': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(1102): note: '__deref_opt_inout_nz_opt'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(2833): warning C4005: '__deref_opt_inout_ecount_nz_opt': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(1103): note: '__deref_opt_inout_ecount_nz_opt'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(2834): warning C4005: '__deref_opt_inout_bcount_nz_opt': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(1104): note: '__deref_opt_inout_bcount_nz_opt'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(2846): warning C4005: '__success': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(620): note: '__success'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(2847): warning C4005: '__nullterminated': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(623): note: '__nullterminated'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(2848): warning C4005: '__nullnullterminated': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(624): note: '__nullnullterminated'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(2849): warning C4005: '__reserved': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(625): note: '__reserved'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(2850): warning C4005: '__checkReturn': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(626): note: '__checkReturn'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(2851): warning C4005: '__typefix': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(627): note: '__typefix'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(2852): warning C4005: '__override': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(628): note: '__override'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(2853): warning C4005: '__callback': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(629): note: '__callback'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(2854): warning C4005: '__format_string': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(630): note: '__format_string'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(2855): warning C4005: '__blocksOn': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(631): note: '__blocksOn'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(2856): warning C4005: '__control_entrypoint': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(844): note: '__control_entrypoint'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h(2857): warning C4005: '__data_entrypoint': 매크로 재정의
+    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h(1112): note: '__data_entrypoint'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sdkddkver.h(36): warning C4005: '_WIN32_WINNT_VISTA': 매크로 재정의
+    C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\GoogleSTT\Intermediate\Build\Win64\UE4Editor\Development\GoogleSTT\Definitions.GoogleSTT.h(55): note: '_WIN32_WINNT_VISTA'의 이전 정의를 참조하십시오.
+C:/Users/TFG5076XG/Documents/GitHub/MyTeamProjectOf2021/VtuberStudio/Plugins/GoogleSTT/Source/GoogleSTT/Private/RecordingManager.cpp(383): warning C4996: 'CreatePackage': Use CreatePackage overload that does not take the first Outer parameter. Specifying non-null outers for UPackages is no longer supported. Please update your code to the new API before upgrading to the next release, otherwise your project will no longer compile.
+    [122/129] UE4Editor-GoogleSTT.lib
+       C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\GoogleSTT\Intermediate\Build\Win64\UE4Editor\Development\GoogleSTT\UE4Editor-GoogleSTT.lib 라이브러리 및 C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\GoogleSTT\Intermediate\Build\Win64\UE4Editor\Development\GoogleSTT\UE4Editor-GoogleSTT.exp 개체를 생성하고 있습니다.
+    [123/129] UE4Editor-GoogleSTT.dll
+       C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\GoogleSTT\Intermediate\Build\Win64\UE4Editor\Development\GoogleSTT\UE4Editor-GoogleSTT.suppressed.lib 라이브러리 및 C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\GoogleSTT\Intermediate\Build\Win64\UE4Editor\Development\GoogleSTT\UE4Editor-GoogleSTT.suppressed.exp 개체를 생성하고 있습니다.
+cpprest_2_10.lib(http_client_winhttp.cpp.obj) : warning LNK4206: 미리 컴파일된 형식 정보를 찾을 수 없습니다. 'D:\src\vcpkg\buildtrees\cpprestsdk\x64-windows-static-md-rel\src\CMakeFiles\cpprest.dir\pch\stdafx.cpp.obj'이(가) 링크되지 않았거나 덮어쓰여졌습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+cpprest_2_10.lib(http_compression.cpp.obj) : warning LNK4206: 미리 컴파일된 형식 정보를 찾을 수 없습니다. 'D:\src\vcpkg\buildtrees\cpprestsdk\x64-windows-static-md-rel\src\CMakeFiles\cpprest.dir\pch\stdafx.cpp.obj'이(가) 링크되지 않았거나 덮어쓰여졌습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+cpprest_2_10.lib(web_utilities.cpp.obj) : warning LNK4206: 미리 컴파일된 형식 정보를 찾을 수 없습니다. 'D:\src\vcpkg\buildtrees\cpprestsdk\x64-windows-static-md-rel\src\CMakeFiles\cpprest.dir\pch\stdafx.cpp.obj'이(가) 링크되지 않았거나 덮어쓰여졌습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+cpprest_2_10.lib(http_helpers.cpp.obj) : warning LNK4206: 미리 컴파일된 형식 정보를 찾을 수 없습니다. 'D:\src\vcpkg\buildtrees\cpprestsdk\x64-windows-static-md-rel\src\CMakeFiles\cpprest.dir\pch\stdafx.cpp.obj'이(가) 링크되지 않았거나 덮어쓰여졌습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+cpprest_2_10.lib(asyncrt_utils.cpp.obj) : warning LNK4206: 미리 컴파일된 형식 정보를 찾을 수 없습니다. 'D:\src\vcpkg\buildtrees\cpprestsdk\x64-windows-static-md-rel\src\CMakeFiles\cpprest.dir\pch\stdafx.cpp.obj'이(가) 링크되지 않았거나 덮어쓰여졌습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+cpprest_2_10.lib(http_client.cpp.obj) : warning LNK4206: 미리 컴파일된 형식 정보를 찾을 수 없습니다. 'D:\src\vcpkg\buildtrees\cpprestsdk\x64-windows-static-md-rel\src\CMakeFiles\cpprest.dir\pch\stdafx.cpp.obj'이(가) 링크되지 않았거나 덮어쓰여졌습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+cpprest_2_10.lib(json_parsing.cpp.obj) : warning LNK4206: 미리 컴파일된 형식 정보를 찾을 수 없습니다. 'D:\src\vcpkg\buildtrees\cpprestsdk\x64-windows-static-md-rel\src\CMakeFiles\cpprest.dir\pch\stdafx.cpp.obj'이(가) 링크되지 않았거나 덮어쓰여졌습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+cpprest_2_10.lib(json_serialization.cpp.obj) : warning LNK4206: 미리 컴파일된 형식 정보를 찾을 수 없습니다. 'D:\src\vcpkg\buildtrees\cpprestsdk\x64-windows-static-md-rel\src\CMakeFiles\cpprest.dir\pch\stdafx.cpp.obj'이(가) 링크되지 않았거나 덮어쓰여졌습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+cpprest_2_10.lib(json.cpp.obj) : warning LNK4206: 미리 컴파일된 형식 정보를 찾을 수 없습니다. 'D:\src\vcpkg\buildtrees\cpprestsdk\x64-windows-static-md-rel\src\CMakeFiles\cpprest.dir\pch\stdafx.cpp.obj'이(가) 링크되지 않았거나 덮어쓰여졌습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+cpprest_2_10.lib(http_client_msg.cpp.obj) : warning LNK4206: 미리 컴파일된 형식 정보를 찾을 수 없습니다. 'D:\src\vcpkg\buildtrees\cpprestsdk\x64-windows-static-md-rel\src\CMakeFiles\cpprest.dir\pch\stdafx.cpp.obj'이(가) 링크되지 않았거나 덮어쓰여졌습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+cpprest_2_10.lib(http_msg.cpp.obj) : warning LNK4206: 미리 컴파일된 형식 정보를 찾을 수 없습니다. 'D:\src\vcpkg\buildtrees\cpprestsdk\x64-windows-static-md-rel\src\CMakeFiles\cpprest.dir\pch\stdafx.cpp.obj'이(가) 링크되지 않았거나 덮어쓰여졌습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+cpprest_2_10.lib(oauth1.cpp.obj) : warning LNK4206: 미리 컴파일된 형식 정보를 찾을 수 없습니다. 'D:\src\vcpkg\buildtrees\cpprestsdk\x64-windows-static-md-rel\src\CMakeFiles\cpprest.dir\pch\stdafx.cpp.obj'이(가) 링크되지 않았거나 덮어쓰여졌습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+cpprest_2_10.lib(uri.cpp.obj) : warning LNK4206: 미리 컴파일된 형식 정보를 찾을 수 없습니다. 'D:\src\vcpkg\buildtrees\cpprestsdk\x64-windows-static-md-rel\src\CMakeFiles\cpprest.dir\pch\stdafx.cpp.obj'이(가) 링크되지 않았거나 덮어쓰여졌습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+cpprest_2_10.lib(base64.cpp.obj) : warning LNK4206: 미리 컴파일된 형식 정보를 찾을 수 없습니다. 'D:\src\vcpkg\buildtrees\cpprestsdk\x64-windows-static-md-rel\src\CMakeFiles\cpprest.dir\pch\stdafx.cpp.obj'이(가) 링크되지 않았거나 덮어쓰여졌습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+cpprest_2_10.lib(uri_builder.cpp.obj) : warning LNK4206: 미리 컴파일된 형식 정보를 찾을 수 없습니다. 'D:\src\vcpkg\buildtrees\cpprestsdk\x64-windows-static-md-rel\src\CMakeFiles\cpprest.dir\pch\stdafx.cpp.obj'이(가) 링크되지 않았거나 덮어쓰여졌습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+    [124/129] Module.VRM4ULoader.cpp
+    [125/129] UE4Editor-VRM4ULoader.lib
+       C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\VRM4U\Intermediate\Build\Win64\UE4Editor\Development\VRM4ULoader\UE4Editor-VRM4ULoader.lib 라이브러리 및 C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\VRM4U\Intermediate\Build\Win64\UE4Editor\Development\VRM4ULoader\UE4Editor-VRM4ULoader.exp 개체를 생성하고 있습니다.
+    [126/129] UE4Editor-VRM4ULoader.dll
+       C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\VRM4U\Intermediate\Build\Win64\UE4Editor\Development\VRM4ULoader\UE4Editor-VRM4ULoader.suppressed.lib 라이브러리 및 C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\VRM4U\Intermediate\Build\Win64\UE4Editor\Development\VRM4ULoader\UE4Editor-VRM4ULoader.suppressed.exp 개체를 생성하고 있습니다.
+    [127/129] UE4Editor-VRM4UMisc.dll
+       C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\VRM4U\Intermediate\Build\Win64\UE4Editor\Development\VRM4UMisc\UE4Editor-VRM4UMisc.suppressed.lib 라이브러리 및 C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\VRM4U\Intermediate\Build\Win64\UE4Editor\Development\VRM4UMisc\UE4Editor-VRM4UMisc.suppressed.exp 개체를 생성하고 있습니다.
+    [128/129] UE4Editor-VRM4UImporter.dll
+       C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\VRM4U\Intermediate\Build\Win64\UE4Editor\Development\VRM4UImporter\UE4Editor-VRM4UImporter.suppressed.lib 라이브러리 및 C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\VRM4U\Intermediate\Build\Win64\UE4Editor\Development\VRM4UImporter\UE4Editor-VRM4UImporter.suppressed.exp 개체를 생성하고 있습니다.
+    [129/129] UE_VtuberStudioEditor.target
+  Total time in Parallel executor: 55.71 seconds
+  Total execution time: 63.92 seconds

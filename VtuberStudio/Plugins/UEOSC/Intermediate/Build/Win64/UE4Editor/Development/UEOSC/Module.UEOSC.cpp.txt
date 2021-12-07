@@ -1,6 +1,6 @@
-C:\Users\TFG5076XG\Documents\GitHub\UE_VtuberStudio\Plugins\UEOSC\Intermediate\Build\Win64\UE4Editor\Development\UEOSC\Definitions.UEOSC.h
-C:/Users/TFG5076XG/Documents/GitHub/UE_VtuberStudio/Plugins/UEOSC/Source/UEOSC/Source/UEOSCReceiver.cpp
-C:\Users\TFG5076XG\Documents\GitHub\UE_VtuberStudio\Plugins\UEOSC\Source\UEOSC\Source\../Include/UEOSCReceiver.h
+C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\UEOSC\Intermediate\Build\Win64\UE4Editor\Development\UEOSC\Definitions.UEOSC.h
+C:/Users/TFG5076XG/Documents/GitHub/MyTeamProjectOf2021/VtuberStudio/Plugins/UEOSC/Source/UEOSC/Source/UEOSCReceiver.cpp
+C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\UEOSC\Source\UEOSC\Source\../Include/UEOSCReceiver.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Networking\Public\Common/UdpSocketReceiver.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Serialization/ArrayReader.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Sockets\Public\Sockets.h
@@ -9,12 +9,12 @@ C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Sockets\Public\Address
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Networking\Public\Interfaces/IPv4/IPv4Endpoint.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Networking\Public\Interfaces/IPv4/IPv4Address.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Networking\Public\Interfaces/IPv4/IPv4SubnetMask.h
-C:\Users\TFG5076XG\Documents\GitHub\UE_VtuberStudio\Plugins\UEOSC\Source\UEOSC\Include\UEOSCElement.h
-C:\Users\TFG5076XG\Documents\GitHub\UE_VtuberStudio\Plugins\UEOSC\Intermediate\Build\Win64\UE4Editor\Inc\UEOSC\UEOscElement.generated.h
-C:\Users\TFG5076XG\Documents\GitHub\UE_VtuberStudio\Plugins\UEOSC\Intermediate\Build\Win64\UE4Editor\Inc\UEOSC\UEOSCReceiver.generated.h
+C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\UEOSC\Source\UEOSC\Include\UEOSCElement.h
+C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\UEOSC\Intermediate\Build\Win64\UE4Editor\Inc\UEOSC\UEOscElement.generated.h
+C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\UEOSC\Intermediate\Build\Win64\UE4Editor\Inc\UEOSC\UEOSCReceiver.generated.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Networking\Public\Common/UdpSocketBuilder.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Kismet/KismetMathLibrary.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\KismetMathLibrary.generated.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Kismet\KismetMathLibrary.inl
-C:/Users/TFG5076XG/Documents/GitHub/UE_VtuberStudio/Plugins/UEOSC/Source/UEOSC/UEOSC.cpp
-C:\Users\TFG5076XG\Documents\GitHub\UE_VtuberStudio\Plugins\UEOSC\Source\UEOSC\UEOSC.h
+C:/Users/TFG5076XG/Documents/GitHub/MyTeamProjectOf2021/VtuberStudio/Plugins/UEOSC/Source/UEOSC/UEOSC.cpp
+C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\UEOSC\Source\UEOSC\UEOSC.h

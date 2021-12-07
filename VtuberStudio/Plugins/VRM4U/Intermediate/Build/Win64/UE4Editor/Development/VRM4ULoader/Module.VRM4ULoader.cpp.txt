@@ -1,32 +1,32 @@
-C:\Users\TFG5076XG\Documents\GitHub\UE_VtuberStudio\Plugins\VRM4U\Intermediate\Build\Win64\UE4Editor\Development\VRM4ULoader\Definitions.VRM4ULoader.h
-C:/Users/TFG5076XG/Documents/GitHub/UE_VtuberStudio/Plugins/VRM4U/Source/VRM4ULoader/Private/LoaderBPFunctionLibrary.cpp
-C:\Users\TFG5076XG\Documents\GitHub\UE_VtuberStudio\Plugins\VRM4U\Source\VRM4ULoader\Public\LoaderBPFunctionLibrary.h
-C:\Users\TFG5076XG\Documents\GitHub\UE_VtuberStudio\Plugins\VRM4U\Source\VRM4ULoader\Public\VrmConvert.h
+C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\VRM4U\Intermediate\Build\Win64\UE4Editor\Development\VRM4ULoader\Definitions.VRM4ULoader.h
+C:/Users/TFG5076XG/Documents/GitHub/MyTeamProjectOf2021/VtuberStudio/Plugins/VRM4U/Source/VRM4ULoader/Private/LoaderBPFunctionLibrary.cpp
+C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\VRM4U\Source\VRM4ULoader\Public\LoaderBPFunctionLibrary.h
+C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\VRM4U\Source\VRM4ULoader\Public\VrmConvert.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/EngineVersionComparison.h
-C:\Users\TFG5076XG\Documents\GitHub\UE_VtuberStudio\Plugins\VRM4U\Source\VRM4U\Public\VrmUtil.h
-C:\Users\TFG5076XG\Documents\GitHub\UE_VtuberStudio\Plugins\VRM4U\Intermediate\Build\Win64\UE4Editor\Inc\VRM4U\VrmUtil.generated.h
-C:\Users\TFG5076XG\Documents\GitHub\UE_VtuberStudio\Plugins\VRM4U\Intermediate\Build\Win64\UE4Editor\Inc\VRM4ULoader\LoaderBPFunctionLibrary.generated.h
-C:\Users\TFG5076XG\Documents\GitHub\UE_VtuberStudio\Plugins\VRM4U\Source\VRM4ULoader\Public\VrmSkeletalMesh.h
-C:\Users\TFG5076XG\Documents\GitHub\UE_VtuberStudio\Plugins\VRM4U\Intermediate\Build\Win64\UE4Editor\Inc\VRM4ULoader\VrmSkeletalMesh.generated.h
-C:\Users\TFG5076XG\Documents\GitHub\UE_VtuberStudio\Plugins\VRM4U\Source\VRM4U\Public\VrmModelActor.h
-C:\Users\TFG5076XG\Documents\GitHub\UE_VtuberStudio\Plugins\VRM4U\Intermediate\Build\Win64\UE4Editor\Inc\VRM4U\VrmModelActor.generated.h
-C:\Users\TFG5076XG\Documents\GitHub\UE_VtuberStudio\Plugins\VRM4U\Source\VRM4U\Public\VrmAssetListObject.h
+C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\VRM4U\Source\VRM4U\Public\VrmUtil.h
+C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\VRM4U\Intermediate\Build\Win64\UE4Editor\Inc\VRM4U\VrmUtil.generated.h
+C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\VRM4U\Intermediate\Build\Win64\UE4Editor\Inc\VRM4ULoader\LoaderBPFunctionLibrary.generated.h
+C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\VRM4U\Source\VRM4ULoader\Public\VrmSkeletalMesh.h
+C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\VRM4U\Intermediate\Build\Win64\UE4Editor\Inc\VRM4ULoader\VrmSkeletalMesh.generated.h
+C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\VRM4U\Source\VRM4U\Public\VrmModelActor.h
+C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\VRM4U\Intermediate\Build\Win64\UE4Editor\Inc\VRM4U\VrmModelActor.generated.h
+C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\VRM4U\Source\VRM4U\Public\VrmAssetListObject.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/NoExportTypes.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/PropertyAccessUtil.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Math/UnitConversion.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Math/UnitConversion.inl
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Internationalization/PolyglotTextData.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\AssetRegistry/ARFilter.h
-C:\Users\TFG5076XG\Documents\GitHub\UE_VtuberStudio\Plugins\VRM4U\Source\VRM4U\Public\VrmImportMaterialSet.h
-C:\Users\TFG5076XG\Documents\GitHub\UE_VtuberStudio\Plugins\VRM4U\Intermediate\Build\Win64\UE4Editor\Inc\VRM4U\VrmImportMaterialSet.generated.h
-C:\Users\TFG5076XG\Documents\GitHub\UE_VtuberStudio\Plugins\VRM4U\Intermediate\Build\Win64\UE4Editor\Inc\VRM4U\VrmAssetListObject.generated.h
-C:\Users\TFG5076XG\Documents\GitHub\UE_VtuberStudio\Plugins\VRM4U\Source\VRM4U\Public\VrmMetaObject.h
-C:\Users\TFG5076XG\Documents\GitHub\UE_VtuberStudio\Plugins\VRM4U\Intermediate\Build\Win64\UE4Editor\Inc\VRM4U\VrmMetaObject.generated.h
-C:\Users\TFG5076XG\Documents\GitHub\UE_VtuberStudio\Plugins\VRM4U\Source\VRM4U\Public\VrmLicenseObject.h
-C:\Users\TFG5076XG\Documents\GitHub\UE_VtuberStudio\Plugins\VRM4U\Intermediate\Build\Win64\UE4Editor\Inc\VRM4U\VrmLicenseObject.generated.h
-C:\Users\TFG5076XG\Documents\GitHub\UE_VtuberStudio\Plugins\VRM4U\Source\VRM4ULoader\Private\VrmAsyncLoadAction.h
+C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\VRM4U\Source\VRM4U\Public\VrmImportMaterialSet.h
+C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\VRM4U\Intermediate\Build\Win64\UE4Editor\Inc\VRM4U\VrmImportMaterialSet.generated.h
+C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\VRM4U\Intermediate\Build\Win64\UE4Editor\Inc\VRM4U\VrmAssetListObject.generated.h
+C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\VRM4U\Source\VRM4U\Public\VrmMetaObject.h
+C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\VRM4U\Intermediate\Build\Win64\UE4Editor\Inc\VRM4U\VrmMetaObject.generated.h
+C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\VRM4U\Source\VRM4U\Public\VrmLicenseObject.h
+C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\VRM4U\Intermediate\Build\Win64\UE4Editor\Inc\VRM4U\VrmLicenseObject.generated.h
+C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\VRM4U\Source\VRM4ULoader\Private\VrmAsyncLoadAction.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Public\LatentActions.h
-C:\Users\TFG5076XG\Documents\GitHub\UE_VtuberStudio\Plugins\VRM4U\Source\VRM4ULoader\Private\VRM4ULoaderLog.h
+C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\VRM4U\Source\VRM4ULoader\Private\VRM4ULoaderLog.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Public\Rendering/SkeletalMeshLODRenderData.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Public\Rendering/MultiSizeIndexContainer.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Public\Rendering/SkeletalMeshVertexBuffer.h
@@ -155,17 +155,17 @@ C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\imm.h
 C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\ime_cmodes.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Windows/PostWindowsApi.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Windows/HideWindowsPlatformTypes.h
-C:\Users\TFG5076XG\Documents\GitHub\UE_VtuberStudio\Plugins\VRM4U\ThirdParty\assimp\include\assimp/Importer.hpp
-C:\Users\TFG5076XG\Documents\GitHub\UE_VtuberStudio\Plugins\VRM4U\ThirdParty\assimp\include\assimp/types.h
-C:\Users\TFG5076XG\Documents\GitHub\UE_VtuberStudio\Plugins\VRM4U\ThirdParty\assimp\include\assimp/defs.h
-C:\Users\TFG5076XG\Documents\GitHub\UE_VtuberStudio\Plugins\VRM4U\ThirdParty\assimp\include\assimp/config.h
-C:\Users\TFG5076XG\Documents\GitHub\UE_VtuberStudio\Plugins\VRM4U\ThirdParty\assimp\include\assimp/vector2.h
+C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\VRM4U\ThirdParty\assimp\include\assimp/Importer.hpp
+C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\VRM4U\ThirdParty\assimp\include\assimp/types.h
+C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\VRM4U\ThirdParty\assimp\include\assimp/defs.h
+C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\VRM4U\ThirdParty\assimp\include\assimp/config.h
+C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\VRM4U\ThirdParty\assimp\include\assimp/vector2.h
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\cmath
-C:\Users\TFG5076XG\Documents\GitHub\UE_VtuberStudio\Plugins\VRM4U\ThirdParty\assimp\include\assimp/vector3.h
-C:\Users\TFG5076XG\Documents\GitHub\UE_VtuberStudio\Plugins\VRM4U\ThirdParty\assimp\include\assimp/color4.h
-C:\Users\TFG5076XG\Documents\GitHub\UE_VtuberStudio\Plugins\VRM4U\ThirdParty\assimp\include\assimp/matrix3x3.h
-C:\Users\TFG5076XG\Documents\GitHub\UE_VtuberStudio\Plugins\VRM4U\ThirdParty\assimp\include\assimp/matrix4x4.h
-C:\Users\TFG5076XG\Documents\GitHub\UE_VtuberStudio\Plugins\VRM4U\ThirdParty\assimp\include\assimp/quaternion.h
+C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\VRM4U\ThirdParty\assimp\include\assimp/vector3.h
+C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\VRM4U\ThirdParty\assimp\include\assimp/color4.h
+C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\VRM4U\ThirdParty\assimp\include\assimp/matrix3x3.h
+C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\VRM4U\ThirdParty\assimp\include\assimp/matrix4x4.h
+C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\VRM4U\ThirdParty\assimp\include\assimp/quaternion.h
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\string
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xstring
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\iosfwd
@@ -176,37 +176,37 @@ C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.2
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\cfloat
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\isa_availability.h
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\cctype
-C:\Users\TFG5076XG\Documents\GitHub\UE_VtuberStudio\Plugins\VRM4U\ThirdParty\assimp\include\assimp\vector2.inl
-C:\Users\TFG5076XG\Documents\GitHub\UE_VtuberStudio\Plugins\VRM4U\ThirdParty\assimp\include\assimp\vector3.inl
-C:\Users\TFG5076XG\Documents\GitHub\UE_VtuberStudio\Plugins\VRM4U\ThirdParty\assimp\include\assimp\color4.inl
-C:\Users\TFG5076XG\Documents\GitHub\UE_VtuberStudio\Plugins\VRM4U\ThirdParty\assimp\include\assimp\matrix3x3.inl
+C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\VRM4U\ThirdParty\assimp\include\assimp\vector2.inl
+C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\VRM4U\ThirdParty\assimp\include\assimp\vector3.inl
+C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\VRM4U\ThirdParty\assimp\include\assimp\color4.inl
+C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\VRM4U\ThirdParty\assimp\include\assimp\matrix3x3.inl
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\algorithm
-C:\Users\TFG5076XG\Documents\GitHub\UE_VtuberStudio\Plugins\VRM4U\ThirdParty\assimp\include\assimp\matrix4x4.inl
-C:\Users\TFG5076XG\Documents\GitHub\UE_VtuberStudio\Plugins\VRM4U\ThirdParty\assimp\include\assimp\MathFunctions.h
-C:\Users\TFG5076XG\Documents\GitHub\UE_VtuberStudio\Plugins\VRM4U\ThirdParty\assimp\include\assimp\quaternion.inl
-C:\Users\TFG5076XG\Documents\GitHub\UE_VtuberStudio\Plugins\VRM4U\ThirdParty\assimp\include\assimp/scene.h
-C:\Users\TFG5076XG\Documents\GitHub\UE_VtuberStudio\Plugins\VRM4U\ThirdParty\assimp\include\assimp/texture.h
-C:\Users\TFG5076XG\Documents\GitHub\UE_VtuberStudio\Plugins\VRM4U\ThirdParty\assimp\include\assimp\./Compiler/pushpack1.h
-C:\Users\TFG5076XG\Documents\GitHub\UE_VtuberStudio\Plugins\VRM4U\ThirdParty\assimp\include\assimp\./Compiler/poppack1.h
-C:\Users\TFG5076XG\Documents\GitHub\UE_VtuberStudio\Plugins\VRM4U\ThirdParty\assimp\include\assimp/mesh.h
-C:\Users\TFG5076XG\Documents\GitHub\UE_VtuberStudio\Plugins\VRM4U\ThirdParty\assimp\include\assimp/aabb.h
-C:\Users\TFG5076XG\Documents\GitHub\UE_VtuberStudio\Plugins\VRM4U\ThirdParty\assimp\include\assimp/light.h
-C:\Users\TFG5076XG\Documents\GitHub\UE_VtuberStudio\Plugins\VRM4U\ThirdParty\assimp\include\assimp/camera.h
-C:\Users\TFG5076XG\Documents\GitHub\UE_VtuberStudio\Plugins\VRM4U\ThirdParty\assimp\include\assimp/material.h
-C:\Users\TFG5076XG\Documents\GitHub\UE_VtuberStudio\Plugins\VRM4U\ThirdParty\assimp\include\assimp\./Compiler/pushpack1.h
-C:\Users\TFG5076XG\Documents\GitHub\UE_VtuberStudio\Plugins\VRM4U\ThirdParty\assimp\include\assimp\./Compiler/poppack1.h
-C:\Users\TFG5076XG\Documents\GitHub\UE_VtuberStudio\Plugins\VRM4U\ThirdParty\assimp\include\assimp\material.inl
-C:\Users\TFG5076XG\Documents\GitHub\UE_VtuberStudio\Plugins\VRM4U\ThirdParty\assimp\include\assimp/anim.h
-C:\Users\TFG5076XG\Documents\GitHub\UE_VtuberStudio\Plugins\VRM4U\ThirdParty\assimp\include\assimp/metadata.h
-C:\Users\TFG5076XG\Documents\GitHub\UE_VtuberStudio\Plugins\VRM4U\ThirdParty\assimp\include\assimp/postprocess.h
-C:\Users\TFG5076XG\Documents\GitHub\UE_VtuberStudio\Plugins\VRM4U\ThirdParty\assimp\include\assimp/pbrmaterial.h
-C:\Users\TFG5076XG\Documents\GitHub\UE_VtuberStudio\Plugins\VRM4U\ThirdParty\assimp\include\assimp/vrm/vrmmeta.h
+C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\VRM4U\ThirdParty\assimp\include\assimp\matrix4x4.inl
+C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\VRM4U\ThirdParty\assimp\include\assimp\MathFunctions.h
+C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\VRM4U\ThirdParty\assimp\include\assimp\quaternion.inl
+C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\VRM4U\ThirdParty\assimp\include\assimp/scene.h
+C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\VRM4U\ThirdParty\assimp\include\assimp/texture.h
+C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\VRM4U\ThirdParty\assimp\include\assimp\./Compiler/pushpack1.h
+C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\VRM4U\ThirdParty\assimp\include\assimp\./Compiler/poppack1.h
+C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\VRM4U\ThirdParty\assimp\include\assimp/mesh.h
+C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\VRM4U\ThirdParty\assimp\include\assimp/aabb.h
+C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\VRM4U\ThirdParty\assimp\include\assimp/light.h
+C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\VRM4U\ThirdParty\assimp\include\assimp/camera.h
+C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\VRM4U\ThirdParty\assimp\include\assimp/material.h
+C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\VRM4U\ThirdParty\assimp\include\assimp\./Compiler/pushpack1.h
+C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\VRM4U\ThirdParty\assimp\include\assimp\./Compiler/poppack1.h
+C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\VRM4U\ThirdParty\assimp\include\assimp\material.inl
+C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\VRM4U\ThirdParty\assimp\include\assimp/anim.h
+C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\VRM4U\ThirdParty\assimp\include\assimp/metadata.h
+C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\VRM4U\ThirdParty\assimp\include\assimp/postprocess.h
+C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\VRM4U\ThirdParty\assimp\include\assimp/pbrmaterial.h
+C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\VRM4U\ThirdParty\assimp\include\assimp/vrm/vrmmeta.h
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\map
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xtree
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\list
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\vector
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\stdexcept
-C:/Users/TFG5076XG/Documents/GitHub/UE_VtuberStudio/Plugins/VRM4U/Source/VRM4ULoader/Private/VRM4ULoaderModule.cpp
+C:/Users/TFG5076XG/Documents/GitHub/MyTeamProjectOf2021/VtuberStudio/Plugins/VRM4U/Source/VRM4ULoader/Private/VRM4ULoaderModule.cpp
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Public\Engine.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/MonolithicHeaderBoilerplate.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Core.h
@@ -985,18 +985,18 @@ C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Microsoft/
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Windows/HideWindowsPlatformTypes.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Windows/AllowWindowsPlatformTypes.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Windows/HideWindowsPlatformTypes.h
-C:\Users\TFG5076XG\Documents\GitHub\UE_VtuberStudio\Plugins\VRM4U\Source\VRM4U\Public\VrmDropFiles.h
-C:\Users\TFG5076XG\Documents\GitHub\UE_VtuberStudio\Plugins\VRM4U\Intermediate\Build\Win64\UE4Editor\Inc\VRM4U\VrmDropFiles.generated.h
-C:\Users\TFG5076XG\Documents\GitHub\UE_VtuberStudio\Plugins\VRM4U\Source\VRM4U\Public\VrmRuntimeSettings.h
-C:\Users\TFG5076XG\Documents\GitHub\UE_VtuberStudio\Plugins\VRM4U\Intermediate\Build\Win64\UE4Editor\Inc\VRM4U\VrmRuntimeSettings.generated.h
-C:/Users/TFG5076XG/Documents/GitHub/UE_VtuberStudio/Plugins/VRM4U/Source/VRM4ULoader/Private/VrmAsyncLoadAction.cpp
-C:/Users/TFG5076XG/Documents/GitHub/UE_VtuberStudio/Plugins/VRM4U/Source/VRM4ULoader/Private/VrmConvert.cpp
-C:/Users/TFG5076XG/Documents/GitHub/UE_VtuberStudio/Plugins/VRM4U/Source/VRM4ULoader/Private/VrmConvertHumanoid.cpp
-C:\Users\TFG5076XG\Documents\GitHub\UE_VtuberStudio\Plugins\VRM4U\Source\VRM4ULoader\Public\VrmConvertHumanoid.h
-C:/Users/TFG5076XG/Documents/GitHub/UE_VtuberStudio/Plugins/VRM4U/Source/VRM4ULoader/Private/VrmConvertMetadata.cpp
-C:\Users\TFG5076XG\Documents\GitHub\UE_VtuberStudio\Plugins\VRM4U\Source\VRM4ULoader\Public\VrmConvertMetadata.h
-C:\Users\TFG5076XG\Documents\GitHub\UE_VtuberStudio\Plugins\VRM4U\Source\VRM4ULoader\Public\VrmJson.h
-C:\Users\TFG5076XG\Documents\GitHub\UE_VtuberStudio\Plugins\VRM4U\ThirdParty\nlohmann\include\json.hpp
+C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\VRM4U\Source\VRM4U\Public\VrmDropFiles.h
+C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\VRM4U\Intermediate\Build\Win64\UE4Editor\Inc\VRM4U\VrmDropFiles.generated.h
+C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\VRM4U\Source\VRM4U\Public\VrmRuntimeSettings.h
+C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\VRM4U\Intermediate\Build\Win64\UE4Editor\Inc\VRM4U\VrmRuntimeSettings.generated.h
+C:/Users/TFG5076XG/Documents/GitHub/MyTeamProjectOf2021/VtuberStudio/Plugins/VRM4U/Source/VRM4ULoader/Private/VrmAsyncLoadAction.cpp
+C:/Users/TFG5076XG/Documents/GitHub/MyTeamProjectOf2021/VtuberStudio/Plugins/VRM4U/Source/VRM4ULoader/Private/VrmConvert.cpp
+C:/Users/TFG5076XG/Documents/GitHub/MyTeamProjectOf2021/VtuberStudio/Plugins/VRM4U/Source/VRM4ULoader/Private/VrmConvertHumanoid.cpp
+C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\VRM4U\Source\VRM4ULoader\Public\VrmConvertHumanoid.h
+C:/Users/TFG5076XG/Documents/GitHub/MyTeamProjectOf2021/VtuberStudio/Plugins/VRM4U/Source/VRM4ULoader/Private/VrmConvertMetadata.cpp
+C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\VRM4U\Source\VRM4ULoader\Public\VrmConvertMetadata.h
+C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\VRM4U\Source\VRM4ULoader\Public\VrmJson.h
+C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\VRM4U\ThirdParty\nlohmann\include\json.hpp
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\functional
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\iterator
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\memory
@@ -1027,21 +1027,21 @@ C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.2
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xlocinfo.h
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\clocale
 C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\locale.h
-C:/Users/TFG5076XG/Documents/GitHub/UE_VtuberStudio/Plugins/VRM4U/Source/VRM4ULoader/Private/VrmConvertModel.cpp
-C:\Users\TFG5076XG\Documents\GitHub\UE_VtuberStudio\Plugins\VRM4U\Source\VRM4ULoader\Public\VrmConvertModel.h
-C:\Users\TFG5076XG\Documents\GitHub\UE_VtuberStudio\Plugins\VRM4U\Source\VRM4ULoader\Public\VrmSkeleton.h
-C:/Users/TFG5076XG/Documents/GitHub/UE_VtuberStudio/Plugins/VRM4U/Source/VRM4ULoader/Private/VrmConvertMorphTarget.cpp
-C:\Users\TFG5076XG\Documents\GitHub\UE_VtuberStudio\Plugins\VRM4U\Source\VRM4ULoader\Public\VrmConvertMorphTarget.h
-C:/Users/TFG5076XG/Documents/GitHub/UE_VtuberStudio/Plugins/VRM4U/Source/VRM4ULoader/Private/VrmConvertPose.cpp
-C:\Users\TFG5076XG\Documents\GitHub\UE_VtuberStudio\Plugins\VRM4U\Source\VRM4ULoader\Public\VrmConvertRig.h
-C:\Users\TFG5076XG\Documents\GitHub\UE_VtuberStudio\Plugins\VRM4U\Source\VRM4U\Public\VrmBPFunctionLibrary.h
+C:/Users/TFG5076XG/Documents/GitHub/MyTeamProjectOf2021/VtuberStudio/Plugins/VRM4U/Source/VRM4ULoader/Private/VrmConvertModel.cpp
+C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\VRM4U\Source\VRM4ULoader\Public\VrmConvertModel.h
+C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\VRM4U\Source\VRM4ULoader\Public\VrmSkeleton.h
+C:/Users/TFG5076XG/Documents/GitHub/MyTeamProjectOf2021/VtuberStudio/Plugins/VRM4U/Source/VRM4ULoader/Private/VrmConvertMorphTarget.cpp
+C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\VRM4U\Source\VRM4ULoader\Public\VrmConvertMorphTarget.h
+C:/Users/TFG5076XG/Documents/GitHub/MyTeamProjectOf2021/VtuberStudio/Plugins/VRM4U/Source/VRM4ULoader/Private/VrmConvertPose.cpp
+C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\VRM4U\Source\VRM4ULoader\Public\VrmConvertRig.h
+C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\VRM4U\Source\VRM4U\Public\VrmBPFunctionLibrary.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\LiveLinkInterface\Public\LiveLinkTypes.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\LiveLinkInterface\Public\LiveLinkRefSkeleton.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\LiveLinkInterface\LiveLinkRefSkeleton.generated.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\LiveLinkInterface\LiveLinkTypes.generated.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CinematicCamera/Public/CineCameraComponent.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\CinematicCamera\CineCameraComponent.generated.h
-C:\Users\TFG5076XG\Documents\GitHub\UE_VtuberStudio\Plugins\VRM4U\Intermediate\Build\Win64\UE4Editor\Inc\VRM4U\VrmBPFunctionLibrary.generated.h
+C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\VRM4U\Intermediate\Build\Win64\UE4Editor\Inc\VRM4U\VrmBPFunctionLibrary.generated.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Animation/Rig.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Rig.generated.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Animation/PoseAsset.h
@@ -1084,9 +1084,9 @@ C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\UnrealEd\Classes\Factor
 C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEd\FbxImportUI.generated.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\UnrealEd\Classes\Animation/DebugSkelMeshComponent.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEd\DebugSkelMeshComponent.generated.h
-C:/Users/TFG5076XG/Documents/GitHub/UE_VtuberStudio/Plugins/VRM4U/Source/VRM4ULoader/Private/VrmConvertRig.cpp
-C:/Users/TFG5076XG/Documents/GitHub/UE_VtuberStudio/Plugins/VRM4U/Source/VRM4ULoader/Private/VrmConvertTexture.cpp
-C:\Users\TFG5076XG\Documents\GitHub\UE_VtuberStudio\Plugins\VRM4U\Source\VRM4ULoader\Public\VrmConvertTexture.h
+C:/Users/TFG5076XG/Documents/GitHub/MyTeamProjectOf2021/VtuberStudio/Plugins/VRM4U/Source/VRM4ULoader/Private/VrmConvertRig.cpp
+C:/Users/TFG5076XG/Documents/GitHub/MyTeamProjectOf2021/VtuberStudio/Plugins/VRM4U/Source/VRM4ULoader/Private/VrmConvertTexture.cpp
+C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\VRM4U\Source\VRM4ULoader\Public\VrmConvertTexture.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Materials/MaterialExpressionTextureSampleParameter2D.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MaterialExpressionTextureSampleParameter2D.generated.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\UnrealEd\Public\Factories.h
@@ -1094,16 +1094,16 @@ C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\UnrealEd\Classes\Factor
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\UnrealEd\Classes\Factories/Factory.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEd\Factory.generated.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEd\TextureFactory.generated.h
-C:/Users/TFG5076XG/Documents/GitHub/UE_VtuberStudio/Plugins/VRM4U/Source/VRM4ULoader/Private/VrmJson.cpp
-C:/Users/TFG5076XG/Documents/GitHub/UE_VtuberStudio/Plugins/VRM4U/Source/VRM4ULoader/Private/VrmLoaderComponent.cpp
-C:\Users\TFG5076XG\Documents\GitHub\UE_VtuberStudio\Plugins\VRM4U\Source\VRM4ULoader\Public\VrmLoaderComponent.h
-C:\Users\TFG5076XG\Documents\GitHub\UE_VtuberStudio\Plugins\VRM4U\Intermediate\Build\Win64\UE4Editor\Inc\VRM4ULoader\VrmLoaderComponent.generated.h
-C:/Users/TFG5076XG/Documents/GitHub/UE_VtuberStudio/Plugins/VRM4U/Source/VRM4ULoader/Private/VrmSkeletalMesh.cpp
-C:/Users/TFG5076XG/Documents/GitHub/UE_VtuberStudio/Plugins/VRM4U/Source/VRM4ULoader/Private/VrmSkeletalMeshComponent.cpp
-C:\Users\TFG5076XG\Documents\GitHub\UE_VtuberStudio\Plugins\VRM4U\Source\VRM4ULoader\Public\VrmSkeletalMeshComponent.h
-C:\Users\TFG5076XG\Documents\GitHub\UE_VtuberStudio\Plugins\VRM4U\Intermediate\Build\Win64\UE4Editor\Inc\VRM4ULoader\VrmSkeletalMeshComponent.generated.h
-C:\Users\TFG5076XG\Documents\GitHub\UE_VtuberStudio\Plugins\VRM4U\Source\VRM4U\Public\VrmAnimInstance.h
+C:/Users/TFG5076XG/Documents/GitHub/MyTeamProjectOf2021/VtuberStudio/Plugins/VRM4U/Source/VRM4ULoader/Private/VrmJson.cpp
+C:/Users/TFG5076XG/Documents/GitHub/MyTeamProjectOf2021/VtuberStudio/Plugins/VRM4U/Source/VRM4ULoader/Private/VrmLoaderComponent.cpp
+C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\VRM4U\Source\VRM4ULoader\Public\VrmLoaderComponent.h
+C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\VRM4U\Intermediate\Build\Win64\UE4Editor\Inc\VRM4ULoader\VrmLoaderComponent.generated.h
+C:/Users/TFG5076XG/Documents/GitHub/MyTeamProjectOf2021/VtuberStudio/Plugins/VRM4U/Source/VRM4ULoader/Private/VrmSkeletalMesh.cpp
+C:/Users/TFG5076XG/Documents/GitHub/MyTeamProjectOf2021/VtuberStudio/Plugins/VRM4U/Source/VRM4ULoader/Private/VrmSkeletalMeshComponent.cpp
+C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\VRM4U\Source\VRM4ULoader\Public\VrmSkeletalMeshComponent.h
+C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\VRM4U\Intermediate\Build\Win64\UE4Editor\Inc\VRM4ULoader\VrmSkeletalMeshComponent.generated.h
+C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\VRM4U\Source\VRM4U\Public\VrmAnimInstance.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Public\Animation/AnimInstanceProxy.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\AnimInstanceProxy.generated.h
-C:\Users\TFG5076XG\Documents\GitHub\UE_VtuberStudio\Plugins\VRM4U\Intermediate\Build\Win64\UE4Editor\Inc\VRM4U\VrmAnimInstance.generated.h
-C:/Users/TFG5076XG/Documents/GitHub/UE_VtuberStudio/Plugins/VRM4U/Source/VRM4ULoader/Private/VrmSkeleton.cpp
+C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\VRM4U\Intermediate\Build\Win64\UE4Editor\Inc\VRM4U\VrmAnimInstance.generated.h
+C:/Users/TFG5076XG/Documents/GitHub/MyTeamProjectOf2021/VtuberStudio/Plugins/VRM4U/Source/VRM4ULoader/Private/VrmSkeleton.cpp

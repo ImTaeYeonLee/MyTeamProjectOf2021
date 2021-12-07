@@ -17,7 +17,7 @@ class USkeletalMeshComponent;
 #endif
 #define VRM4U_VrmAnimInstanceCopy_generated_h
 
-#define UE_VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmAnimInstanceCopy_h_20_GENERATED_BODY \
+#define VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmAnimInstanceCopy_h_20_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FVrmAnimInstanceCopyProxy_Statics; \
 	static class UScriptStruct* StaticStruct(); \
 	typedef FAnimInstanceProxy Super;
@@ -25,8 +25,8 @@ class USkeletalMeshComponent;
 
 template<> VRM4U_API UScriptStruct* StaticStruct<struct FVrmAnimInstanceCopyProxy>();
 
-#define UE_VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmAnimInstanceCopy_h_52_SPARSE_DATA
-#define UE_VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmAnimInstanceCopy_h_52_RPC_WRAPPERS \
+#define VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmAnimInstanceCopy_h_52_SPARSE_DATA
+#define VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmAnimInstanceCopy_h_52_RPC_WRAPPERS \
  \
 	DECLARE_FUNCTION(execSetVrmSpringBoneIgnoreWingBone); \
 	DECLARE_FUNCTION(execSetVrmSpringBoneBool); \
@@ -35,7 +35,7 @@ template<> VRM4U_API UScriptStruct* StaticStruct<struct FVrmAnimInstanceCopyProx
 	DECLARE_FUNCTION(execSetSkeletalMeshCopyData);
 
 
-#define UE_VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmAnimInstanceCopy_h_52_RPC_WRAPPERS_NO_PURE_DECLS \
+#define VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmAnimInstanceCopy_h_52_RPC_WRAPPERS_NO_PURE_DECLS \
  \
 	DECLARE_FUNCTION(execSetVrmSpringBoneIgnoreWingBone); \
 	DECLARE_FUNCTION(execSetVrmSpringBoneBool); \
@@ -44,7 +44,7 @@ template<> VRM4U_API UScriptStruct* StaticStruct<struct FVrmAnimInstanceCopyProx
 	DECLARE_FUNCTION(execSetSkeletalMeshCopyData);
 
 
-#define UE_VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmAnimInstanceCopy_h_52_INCLASS_NO_PURE_DECLS \
+#define VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmAnimInstanceCopy_h_52_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUVrmAnimInstanceCopy(); \
 	friend struct Z_Construct_UClass_UVrmAnimInstanceCopy_Statics; \
@@ -53,7 +53,7 @@ public: \
 	DECLARE_SERIALIZER(UVrmAnimInstanceCopy)
 
 
-#define UE_VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmAnimInstanceCopy_h_52_INCLASS \
+#define VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmAnimInstanceCopy_h_52_INCLASS \
 private: \
 	static void StaticRegisterNativesUVrmAnimInstanceCopy(); \
 	friend struct Z_Construct_UClass_UVrmAnimInstanceCopy_Statics; \
@@ -62,7 +62,7 @@ public: \
 	DECLARE_SERIALIZER(UVrmAnimInstanceCopy)
 
 
-#define UE_VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmAnimInstanceCopy_h_52_STANDARD_CONSTRUCTORS \
+#define VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmAnimInstanceCopy_h_52_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UVrmAnimInstanceCopy(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UVrmAnimInstanceCopy) \
@@ -75,7 +75,7 @@ private: \
 public:
 
 
-#define UE_VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmAnimInstanceCopy_h_52_ENHANCED_CONSTRUCTORS \
+#define VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmAnimInstanceCopy_h_52_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UVrmAnimInstanceCopy(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
 private: \
@@ -88,28 +88,28 @@ public: \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UVrmAnimInstanceCopy)
 
 
-#define UE_VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmAnimInstanceCopy_h_52_PRIVATE_PROPERTY_OFFSET
-#define UE_VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmAnimInstanceCopy_h_49_PROLOG
-#define UE_VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmAnimInstanceCopy_h_52_GENERATED_BODY_LEGACY \
+#define VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmAnimInstanceCopy_h_52_PRIVATE_PROPERTY_OFFSET
+#define VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmAnimInstanceCopy_h_49_PROLOG
+#define VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmAnimInstanceCopy_h_52_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	UE_VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmAnimInstanceCopy_h_52_PRIVATE_PROPERTY_OFFSET \
-	UE_VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmAnimInstanceCopy_h_52_SPARSE_DATA \
-	UE_VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmAnimInstanceCopy_h_52_RPC_WRAPPERS \
-	UE_VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmAnimInstanceCopy_h_52_INCLASS \
-	UE_VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmAnimInstanceCopy_h_52_STANDARD_CONSTRUCTORS \
+	VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmAnimInstanceCopy_h_52_PRIVATE_PROPERTY_OFFSET \
+	VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmAnimInstanceCopy_h_52_SPARSE_DATA \
+	VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmAnimInstanceCopy_h_52_RPC_WRAPPERS \
+	VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmAnimInstanceCopy_h_52_INCLASS \
+	VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmAnimInstanceCopy_h_52_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define UE_VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmAnimInstanceCopy_h_52_GENERATED_BODY \
+#define VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmAnimInstanceCopy_h_52_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	UE_VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmAnimInstanceCopy_h_52_PRIVATE_PROPERTY_OFFSET \
-	UE_VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmAnimInstanceCopy_h_52_SPARSE_DATA \
-	UE_VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmAnimInstanceCopy_h_52_RPC_WRAPPERS_NO_PURE_DECLS \
-	UE_VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmAnimInstanceCopy_h_52_INCLASS_NO_PURE_DECLS \
-	UE_VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmAnimInstanceCopy_h_52_ENHANCED_CONSTRUCTORS \
+	VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmAnimInstanceCopy_h_52_PRIVATE_PROPERTY_OFFSET \
+	VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmAnimInstanceCopy_h_52_SPARSE_DATA \
+	VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmAnimInstanceCopy_h_52_RPC_WRAPPERS_NO_PURE_DECLS \
+	VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmAnimInstanceCopy_h_52_INCLASS_NO_PURE_DECLS \
+	VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmAnimInstanceCopy_h_52_ENHANCED_CONSTRUCTORS \
 static_assert(false, "Unknown access specifier for GENERATED_BODY() macro in class VrmAnimInstanceCopy."); \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -117,7 +117,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 template<> VRM4U_API UClass* StaticClass<class UVrmAnimInstanceCopy>();
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID UE_VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmAnimInstanceCopy_h
+#define CURRENT_FILE_ID VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmAnimInstanceCopy_h
 
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

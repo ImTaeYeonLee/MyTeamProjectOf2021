@@ -13,14 +13,14 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define UEOSC_UEOSCElement_generated_h
 
-#define UE_VtuberStudio_Plugins_UEOSC_Source_UEOSC_Include_UEOSCElement_h_46_GENERATED_BODY \
+#define VtuberStudio_Plugins_UEOSC_Source_UEOSC_Include_UEOSCElement_h_46_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FUEOSCMessage_Statics; \
 	static class UScriptStruct* StaticStruct();
 
 
 template<> UEOSC_API UScriptStruct* StaticStruct<struct FUEOSCMessage>();
 
-#define UE_VtuberStudio_Plugins_UEOSC_Source_UEOSC_Include_UEOSCElement_h_26_GENERATED_BODY \
+#define VtuberStudio_Plugins_UEOSC_Source_UEOSC_Include_UEOSCElement_h_26_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FUEOSCElement_Statics; \
 	static class UScriptStruct* StaticStruct();
 
@@ -28,7 +28,7 @@ template<> UEOSC_API UScriptStruct* StaticStruct<struct FUEOSCMessage>();
 template<> UEOSC_API UScriptStruct* StaticStruct<struct FUEOSCElement>();
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID UE_VtuberStudio_Plugins_UEOSC_Source_UEOSC_Include_UEOSCElement_h
+#define CURRENT_FILE_ID VtuberStudio_Plugins_UEOSC_Source_UEOSC_Include_UEOSCElement_h
 
 
 #define FOREACH_ENUM_EUEOSCELEMENTTYPE(op) \

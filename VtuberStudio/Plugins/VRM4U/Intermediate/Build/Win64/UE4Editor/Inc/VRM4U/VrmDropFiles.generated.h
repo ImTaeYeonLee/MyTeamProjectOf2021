@@ -13,7 +13,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define VRM4U_VrmDropFiles_generated_h
 
-#define UE_VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmDropFiles_h_43_DELEGATE \
+#define VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmDropFiles_h_43_DELEGATE \
 struct VrmDropFilesComponent_eventOnDropFiles_Parms \
 { \
 	FString FileName; \
@@ -26,18 +26,18 @@ static inline void FOnDropFiles_DelegateWrapper(const FMulticastScriptDelegate& 
 }
 
 
-#define UE_VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmDropFiles_h_34_SPARSE_DATA
-#define UE_VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmDropFiles_h_34_RPC_WRAPPERS \
+#define VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmDropFiles_h_34_SPARSE_DATA
+#define VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmDropFiles_h_34_RPC_WRAPPERS \
  \
 	DECLARE_FUNCTION(execVRMGetOpenFileName);
 
 
-#define UE_VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmDropFiles_h_34_RPC_WRAPPERS_NO_PURE_DECLS \
+#define VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmDropFiles_h_34_RPC_WRAPPERS_NO_PURE_DECLS \
  \
 	DECLARE_FUNCTION(execVRMGetOpenFileName);
 
 
-#define UE_VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmDropFiles_h_34_INCLASS_NO_PURE_DECLS \
+#define VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmDropFiles_h_34_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUVrmDropFilesComponent(); \
 	friend struct Z_Construct_UClass_UVrmDropFilesComponent_Statics; \
@@ -46,7 +46,7 @@ public: \
 	DECLARE_SERIALIZER(UVrmDropFilesComponent)
 
 
-#define UE_VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmDropFiles_h_34_INCLASS \
+#define VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmDropFiles_h_34_INCLASS \
 private: \
 	static void StaticRegisterNativesUVrmDropFilesComponent(); \
 	friend struct Z_Construct_UClass_UVrmDropFilesComponent_Statics; \
@@ -55,7 +55,7 @@ public: \
 	DECLARE_SERIALIZER(UVrmDropFilesComponent)
 
 
-#define UE_VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmDropFiles_h_34_STANDARD_CONSTRUCTORS \
+#define VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmDropFiles_h_34_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UVrmDropFilesComponent(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UVrmDropFilesComponent) \
@@ -68,7 +68,7 @@ private: \
 public:
 
 
-#define UE_VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmDropFiles_h_34_ENHANCED_CONSTRUCTORS \
+#define VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmDropFiles_h_34_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UVrmDropFilesComponent(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
 private: \
@@ -81,28 +81,28 @@ public: \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UVrmDropFilesComponent)
 
 
-#define UE_VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmDropFiles_h_34_PRIVATE_PROPERTY_OFFSET
-#define UE_VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmDropFiles_h_31_PROLOG
-#define UE_VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmDropFiles_h_34_GENERATED_BODY_LEGACY \
+#define VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmDropFiles_h_34_PRIVATE_PROPERTY_OFFSET
+#define VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmDropFiles_h_31_PROLOG
+#define VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmDropFiles_h_34_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	UE_VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmDropFiles_h_34_PRIVATE_PROPERTY_OFFSET \
-	UE_VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmDropFiles_h_34_SPARSE_DATA \
-	UE_VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmDropFiles_h_34_RPC_WRAPPERS \
-	UE_VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmDropFiles_h_34_INCLASS \
-	UE_VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmDropFiles_h_34_STANDARD_CONSTRUCTORS \
+	VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmDropFiles_h_34_PRIVATE_PROPERTY_OFFSET \
+	VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmDropFiles_h_34_SPARSE_DATA \
+	VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmDropFiles_h_34_RPC_WRAPPERS \
+	VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmDropFiles_h_34_INCLASS \
+	VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmDropFiles_h_34_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define UE_VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmDropFiles_h_34_GENERATED_BODY \
+#define VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmDropFiles_h_34_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	UE_VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmDropFiles_h_34_PRIVATE_PROPERTY_OFFSET \
-	UE_VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmDropFiles_h_34_SPARSE_DATA \
-	UE_VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmDropFiles_h_34_RPC_WRAPPERS_NO_PURE_DECLS \
-	UE_VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmDropFiles_h_34_INCLASS_NO_PURE_DECLS \
-	UE_VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmDropFiles_h_34_ENHANCED_CONSTRUCTORS \
+	VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmDropFiles_h_34_PRIVATE_PROPERTY_OFFSET \
+	VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmDropFiles_h_34_SPARSE_DATA \
+	VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmDropFiles_h_34_RPC_WRAPPERS_NO_PURE_DECLS \
+	VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmDropFiles_h_34_INCLASS_NO_PURE_DECLS \
+	VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmDropFiles_h_34_ENHANCED_CONSTRUCTORS \
 static_assert(false, "Unknown access specifier for GENERATED_BODY() macro in class VrmDropFilesComponent."); \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -110,7 +110,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 template<> VRM4U_API UClass* StaticClass<class UVrmDropFilesComponent>();
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID UE_VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmDropFiles_h
+#define CURRENT_FILE_ID VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmDropFiles_h
 
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

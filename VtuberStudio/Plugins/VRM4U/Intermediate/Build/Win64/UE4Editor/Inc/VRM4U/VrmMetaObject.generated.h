@@ -13,52 +13,52 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define VRM4U_VrmMetaObject_generated_h
 
-#define UE_VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmMetaObject_h_107_GENERATED_BODY \
+#define VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmMetaObject_h_107_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FVrmBlendShapeGroup_Statics; \
 	static class UScriptStruct* StaticStruct();
 
 
 template<> VRM4U_API UScriptStruct* StaticStruct<struct FVrmBlendShapeGroup>();
 
-#define UE_VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmMetaObject_h_93_GENERATED_BODY \
+#define VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmMetaObject_h_93_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FVrmBlendShapeMaterialList_Statics; \
 	static class UScriptStruct* StaticStruct();
 
 
 template<> VRM4U_API UScriptStruct* StaticStruct<struct FVrmBlendShapeMaterialList>();
 
-#define UE_VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmMetaObject_h_69_GENERATED_BODY \
+#define VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmMetaObject_h_69_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FVrmBlendShape_Statics; \
 	static class UScriptStruct* StaticStruct();
 
 
 template<> VRM4U_API UScriptStruct* StaticStruct<struct FVrmBlendShape>();
 
-#define UE_VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmMetaObject_h_54_GENERATED_BODY \
+#define VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmMetaObject_h_54_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FVRMColliderMeta_Statics; \
 	static class UScriptStruct* StaticStruct();
 
 
 template<> VRM4U_API UScriptStruct* StaticStruct<struct FVRMColliderMeta>();
 
-#define UE_VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmMetaObject_h_43_GENERATED_BODY \
+#define VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmMetaObject_h_43_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FVRMSpringColliderData_Statics; \
 	static class UScriptStruct* StaticStruct();
 
 
 template<> VRM4U_API UScriptStruct* StaticStruct<struct FVRMSpringColliderData>();
 
-#define UE_VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmMetaObject_h_11_GENERATED_BODY \
+#define VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmMetaObject_h_11_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FVRMSpringMeta_Statics; \
 	static class UScriptStruct* StaticStruct();
 
 
 template<> VRM4U_API UScriptStruct* StaticStruct<struct FVRMSpringMeta>();
 
-#define UE_VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmMetaObject_h_127_SPARSE_DATA
-#define UE_VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmMetaObject_h_127_RPC_WRAPPERS
-#define UE_VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmMetaObject_h_127_RPC_WRAPPERS_NO_PURE_DECLS
-#define UE_VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmMetaObject_h_127_INCLASS_NO_PURE_DECLS \
+#define VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmMetaObject_h_127_SPARSE_DATA
+#define VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmMetaObject_h_127_RPC_WRAPPERS
+#define VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmMetaObject_h_127_RPC_WRAPPERS_NO_PURE_DECLS
+#define VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmMetaObject_h_127_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUVrmMetaObject(); \
 	friend struct Z_Construct_UClass_UVrmMetaObject_Statics; \
@@ -67,7 +67,7 @@ public: \
 	DECLARE_SERIALIZER(UVrmMetaObject)
 
 
-#define UE_VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmMetaObject_h_127_INCLASS \
+#define VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmMetaObject_h_127_INCLASS \
 private: \
 	static void StaticRegisterNativesUVrmMetaObject(); \
 	friend struct Z_Construct_UClass_UVrmMetaObject_Statics; \
@@ -76,7 +76,7 @@ public: \
 	DECLARE_SERIALIZER(UVrmMetaObject)
 
 
-#define UE_VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmMetaObject_h_127_STANDARD_CONSTRUCTORS \
+#define VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmMetaObject_h_127_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UVrmMetaObject(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UVrmMetaObject) \
@@ -89,7 +89,7 @@ private: \
 public:
 
 
-#define UE_VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmMetaObject_h_127_ENHANCED_CONSTRUCTORS \
+#define VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmMetaObject_h_127_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UVrmMetaObject(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
 private: \
@@ -102,28 +102,28 @@ public: \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UVrmMetaObject)
 
 
-#define UE_VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmMetaObject_h_127_PRIVATE_PROPERTY_OFFSET
-#define UE_VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmMetaObject_h_124_PROLOG
-#define UE_VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmMetaObject_h_127_GENERATED_BODY_LEGACY \
+#define VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmMetaObject_h_127_PRIVATE_PROPERTY_OFFSET
+#define VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmMetaObject_h_124_PROLOG
+#define VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmMetaObject_h_127_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	UE_VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmMetaObject_h_127_PRIVATE_PROPERTY_OFFSET \
-	UE_VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmMetaObject_h_127_SPARSE_DATA \
-	UE_VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmMetaObject_h_127_RPC_WRAPPERS \
-	UE_VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmMetaObject_h_127_INCLASS \
-	UE_VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmMetaObject_h_127_STANDARD_CONSTRUCTORS \
+	VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmMetaObject_h_127_PRIVATE_PROPERTY_OFFSET \
+	VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmMetaObject_h_127_SPARSE_DATA \
+	VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmMetaObject_h_127_RPC_WRAPPERS \
+	VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmMetaObject_h_127_INCLASS \
+	VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmMetaObject_h_127_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define UE_VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmMetaObject_h_127_GENERATED_BODY \
+#define VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmMetaObject_h_127_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	UE_VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmMetaObject_h_127_PRIVATE_PROPERTY_OFFSET \
-	UE_VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmMetaObject_h_127_SPARSE_DATA \
-	UE_VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmMetaObject_h_127_RPC_WRAPPERS_NO_PURE_DECLS \
-	UE_VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmMetaObject_h_127_INCLASS_NO_PURE_DECLS \
-	UE_VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmMetaObject_h_127_ENHANCED_CONSTRUCTORS \
+	VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmMetaObject_h_127_PRIVATE_PROPERTY_OFFSET \
+	VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmMetaObject_h_127_SPARSE_DATA \
+	VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmMetaObject_h_127_RPC_WRAPPERS_NO_PURE_DECLS \
+	VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmMetaObject_h_127_INCLASS_NO_PURE_DECLS \
+	VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmMetaObject_h_127_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -131,7 +131,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 template<> VRM4U_API UClass* StaticClass<class UVrmMetaObject>();
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID UE_VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmMetaObject_h
+#define CURRENT_FILE_ID VtuberStudio_Plugins_VRM4U_Source_VRM4U_Public_VrmMetaObject_h
 
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

@@ -32,7 +32,7 @@
 /wd4244
 /wd4838
 /I .
-/I C:\Users\TFG5076XG\Documents\GitHub\UE_VtuberStudio\Plugins\VRM4U\Source\VRM4UImporter\Private
+/I C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\VRM4U\Source\VRM4UImporter\Private
 /I Runtime
 /I Runtime\TraceLog\Public
 /I Runtime\Core\Public
@@ -233,9 +233,9 @@
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\ClothingSystemRuntimeInterface
 /I Runtime\ClothingSystemRuntimeInterface\Public
 /I Editor\MainFrame\Public
-/I C:\Users\TFG5076XG\Documents\GitHub\UE_VtuberStudio\Plugins\VRM4U\Intermediate\Build\Win64\UE4Editor\Inc\VRM4U
-/I C:\Users\TFG5076XG\Documents\GitHub\UE_VtuberStudio\Plugins\VRM4U\Source
-/I C:\Users\TFG5076XG\Documents\GitHub\UE_VtuberStudio\Plugins\VRM4U\Source\VRM4U\Public
+/I C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\VRM4U\Intermediate\Build\Win64\UE4Editor\Inc\VRM4U
+/I C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\VRM4U\Source
+/I C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\VRM4U\Source\VRM4U\Public
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\AnimGraphRuntime
 /I Runtime\AnimGraphRuntime\Public
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\LiveLinkInterface
@@ -251,10 +251,10 @@
 /I Editor\SceneOutliner\Public
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\CurveEditor
 /I Editor\CurveEditor\Public
-/I C:\Users\TFG5076XG\Documents\GitHub\UE_VtuberStudio\Plugins\VRM4U\Intermediate\Build\Win64\UE4Editor\Inc\VRM4ULoader
-/I C:\Users\TFG5076XG\Documents\GitHub\UE_VtuberStudio\Plugins\VRM4U\ThirdParty\assimp\include
-/I C:\Users\TFG5076XG\Documents\GitHub\UE_VtuberStudio\Plugins\VRM4U\ThirdParty\nlohmann\include
-/I C:\Users\TFG5076XG\Documents\GitHub\UE_VtuberStudio\Plugins\VRM4U\Source\VRM4ULoader\Public
+/I C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\VRM4U\Intermediate\Build\Win64\UE4Editor\Inc\VRM4ULoader
+/I C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\VRM4U\ThirdParty\assimp\include
+/I C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\VRM4U\ThirdParty\nlohmann\include
+/I C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\VRM4U\Source\VRM4ULoader\Public
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\AnimGraph
 /I Editor\AnimGraph\Classes
 /I Editor\AnimGraph\Public
@@ -265,7 +265,7 @@
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\SkeletonEditor
 /I Editor\SkeletonEditor\Public
 /I Editor\AnimationEditor\Public
-/I C:\Users\TFG5076XG\Documents\GitHub\UE_VtuberStudio\Plugins\VRM4U\Intermediate\Build\Win64\UE4Editor\Inc\VRM4UImporter
+/I C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\VRM4U\Intermediate\Build\Win64\UE4Editor\Inc\VRM4UImporter
 /I ThirdParty\PhysX3\PxShared\include
 /I ThirdParty\PhysX3\PxShared\include\cudamanager
 /I ThirdParty\PhysX3\PxShared\include\filebuf
@@ -295,12 +295,12 @@
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"
-/FI"C:\Users\TFG5076XG\Documents\GitHub\UE_VtuberStudio\Intermediate\Build\Win64\UE_VtuberStudioEditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h"
-/Yu"C:\Users\TFG5076XG\Documents\GitHub\UE_VtuberStudio\Intermediate\Build\Win64\UE_VtuberStudioEditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h"
-/Fp"C:\Users\TFG5076XG\Documents\GitHub\UE_VtuberStudio\Intermediate\Build\Win64\UE_VtuberStudioEditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h.pch"
-"C:\Users\TFG5076XG\Documents\GitHub\UE_VtuberStudio\Plugins\VRM4U\Intermediate\Build\Win64\UE4Editor\Development\VRM4UImporter\Module.VRM4UImporter.gen.cpp"
-/FI"C:\Users\TFG5076XG\Documents\GitHub\UE_VtuberStudio\Plugins\VRM4U\Intermediate\Build\Win64\UE4Editor\Development\VRM4UImporter\Definitions.VRM4UImporter.h"
-/Fo"C:\Users\TFG5076XG\Documents\GitHub\UE_VtuberStudio\Plugins\VRM4U\Intermediate\Build\Win64\UE4Editor\Development\VRM4UImporter\Module.VRM4UImporter.gen.cpp.obj"
+/FI"C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Intermediate\Build\Win64\UE_VtuberStudioEditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h"
+/Yu"C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Intermediate\Build\Win64\UE_VtuberStudioEditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h"
+/Fp"C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Intermediate\Build\Win64\UE_VtuberStudioEditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h.pch"
+"C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\VRM4U\Intermediate\Build\Win64\UE4Editor\Development\VRM4UImporter\Module.VRM4UImporter.gen.cpp"
+/FI"C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\VRM4U\Intermediate\Build\Win64\UE4Editor\Development\VRM4UImporter\Definitions.VRM4UImporter.h"
+/Fo"C:\Users\TFG5076XG\Documents\GitHub\MyTeamProjectOf2021\VtuberStudio\Plugins\VRM4U\Intermediate\Build\Win64\UE4Editor\Development\VRM4UImporter\Module.VRM4UImporter.gen.cpp.obj"
 /TP
 /GR-
 /W4
