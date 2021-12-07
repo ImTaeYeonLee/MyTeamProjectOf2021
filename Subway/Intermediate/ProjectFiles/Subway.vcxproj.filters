@@ -1,0 +1,334 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Subway.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F8DE43DE-175F-41E2-B6AE-BE91CC4A8D47}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Subway.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\SubwayEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.gitignore" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{2123DBF2-2E39-4B92-9891-80EC5FD3FC9F}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\steamvr_ue_editor_app.json">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Config\SteamVRBindings">
+      <UniqueIdentifier>{9BB642C3-71BA-4151-970B-7ADDCB29BF8A}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\SteamVRBindings\gamepad.json">
+      <Filter>Config\SteamVRBindings</Filter>
+    </None>
+    <None Include="..\..\Config\SteamVRBindings\holographic_controller.json">
+      <Filter>Config\SteamVRBindings</Filter>
+    </None>
+    <None Include="..\..\Config\SteamVRBindings\hpmotioncontroller.json">
+      <Filter>Config\SteamVRBindings</Filter>
+    </None>
+    <None Include="..\..\Config\SteamVRBindings\indexhmd.json">
+      <Filter>Config\SteamVRBindings</Filter>
+    </None>
+    <None Include="..\..\Config\SteamVRBindings\knuckles.json">
+      <Filter>Config\SteamVRBindings</Filter>
+    </None>
+    <None Include="..\..\Config\SteamVRBindings\oculus_touch.json">
+      <Filter>Config\SteamVRBindings</Filter>
+    </None>
+    <None Include="..\..\Config\SteamVRBindings\rift.json">
+      <Filter>Config\SteamVRBindings</Filter>
+    </None>
+    <None Include="..\..\Config\SteamVRBindings\steamvr_manifest.json">
+      <Filter>Config\SteamVRBindings</Filter>
+    </None>
+    <None Include="..\..\Config\SteamVRBindings\vive.json">
+      <Filter>Config\SteamVRBindings</Filter>
+    </None>
+    <None Include="..\..\Config\SteamVRBindings\vive_controller.json">
+      <Filter>Config\SteamVRBindings</Filter>
+    </None>
+    <None Include="..\..\Config\SteamVRBindings\vive_cosmos_controller.json">
+      <Filter>Config\SteamVRBindings</Filter>
+    </None>
+    <None Include="..\..\Config\SteamVRBindings\vive_pro.json">
+      <Filter>Config\SteamVRBindings</Filter>
+    </None>
+    <None Include="..\..\Config\SteamVRBindings\vive_tracker.json">
+      <Filter>Config\SteamVRBindings</Filter>
+    </None>
+    <None Include="..\..\Config\SteamVRBindings\vive_tracker_camera.json">
+      <Filter>Config\SteamVRBindings</Filter>
+    </None>
+    <None Include="..\..\Config\SteamVRBindings\vive_tracker_chest.json">
+      <Filter>Config\SteamVRBindings</Filter>
+    </None>
+    <None Include="..\..\Config\SteamVRBindings\vive_tracker_handed.json">
+      <Filter>Config\SteamVRBindings</Filter>
+    </None>
+    <None Include="..\..\Config\SteamVRBindings\vive_tracker_keyboard.json">
+      <Filter>Config\SteamVRBindings</Filter>
+    </None>
+    <None Include="..\..\Config\SteamVRBindings\vive_tracker_left_elbow.json">
+      <Filter>Config\SteamVRBindings</Filter>
+    </None>
+    <None Include="..\..\Config\SteamVRBindings\vive_tracker_left_foot.json">
+      <Filter>Config\SteamVRBindings</Filter>
+    </None>
+    <None Include="..\..\Config\SteamVRBindings\vive_tracker_left_knee.json">
+      <Filter>Config\SteamVRBindings</Filter>
+    </None>
+    <None Include="..\..\Config\SteamVRBindings\vive_tracker_left_shoulder.json">
+      <Filter>Config\SteamVRBindings</Filter>
+    </None>
+    <None Include="..\..\Config\SteamVRBindings\vive_tracker_right_elbow.json">
+      <Filter>Config\SteamVRBindings</Filter>
+    </None>
+    <None Include="..\..\Config\SteamVRBindings\vive_tracker_right_foot.json">
+      <Filter>Config\SteamVRBindings</Filter>
+    </None>
+    <None Include="..\..\Config\SteamVRBindings\vive_tracker_right_knee.json">
+      <Filter>Config\SteamVRBindings</Filter>
+    </None>
+    <None Include="..\..\Config\SteamVRBindings\vive_tracker_right_shoulder.json">
+      <Filter>Config\SteamVRBindings</Filter>
+    </None>
+    <None Include="..\..\Config\SteamVRBindings\vive_tracker_waist.json">
+      <Filter>Config\SteamVRBindings</Filter>
+    </None>
+    <Filter Include="Source\Subway">
+      <UniqueIdentifier>{0424686B-692A-4BF5-9F74-83C7EC5DB246}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Subway\Subway.Build.cs">
+      <Filter>Source\Subway</Filter>
+    </None>
+    <Filter Include="Source\Subway\Private">
+      <UniqueIdentifier>{81261543-CD55-4142-AE46-1DC933B53E05}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Subway\Private\Boss.cpp">
+      <Filter>Source\Subway\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Subway\Private\BossAnimInstance.cpp">
+      <Filter>Source\Subway\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Subway\Private\Boss_FSM.cpp">
+      <Filter>Source\Subway\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Subway\Private\BP_ShotGunActor.cpp">
+      <Filter>Source\Subway\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Subway\Private\DoorOpenActor.cpp">
+      <Filter>Source\Subway\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Subway\Private\EnemyA.cpp">
+      <Filter>Source\Subway\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Subway\Private\EnemyAAnimInstance.cpp">
+      <Filter>Source\Subway\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Subway\Private\EnemyA_FSM.cpp">
+      <Filter>Source\Subway\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Subway\Private\EnemyB.cpp">
+      <Filter>Source\Subway\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Subway\Private\EnemyBAnimInstance.cpp">
+      <Filter>Source\Subway\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Subway\Private\EnemyB_FSM.cpp">
+      <Filter>Source\Subway\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Subway\Private\EnemySoundAttenuation.cpp">
+      <Filter>Source\Subway\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Subway\Private\FPSPlayer.cpp">
+      <Filter>Source\Subway\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Subway\Private\GrabActorComponent.cpp">
+      <Filter>Source\Subway\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Subway\Private\GunTargetActor.cpp">
+      <Filter>Source\Subway\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Subway\Private\HandActorComponent.cpp">
+      <Filter>Source\Subway\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Subway\Private\MagazineActor.cpp">
+      <Filter>Source\Subway\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Subway\Private\MoveActorComponent.cpp">
+      <Filter>Source\Subway\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Subway\Private\PickUpActor.cpp">
+      <Filter>Source\Subway\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Subway\Private\PistolAnimInstance.cpp">
+      <Filter>Source\Subway\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Subway\Private\PlayerMove.cpp">
+      <Filter>Source\Subway\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Subway\Private\ShotGunActor.cpp">
+      <Filter>Source\Subway\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Subway\Private\ShotGunAnimInstance.cpp">
+      <Filter>Source\Subway\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Subway\Private\SpawnMananger1.cpp">
+      <Filter>Source\Subway\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Subway\Private\SpawnPoint.cpp">
+      <Filter>Source\Subway\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Subway\Private\Subway.cpp">
+      <Filter>Source\Subway\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Subway\Private\TriggerBoxBase.cpp">
+      <Filter>Source\Subway\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Subway\Private\VRGameModeBase.cpp">
+      <Filter>Source\Subway\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Subway\Private\VRHandAnimInstance.cpp">
+      <Filter>Source\Subway\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Subway\Private\VR_Player.cpp">
+      <Filter>Source\Subway\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Subway\Private\WeaponBase.cpp">
+      <Filter>Source\Subway\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Subway\Private\WeaponPistol.cpp">
+      <Filter>Source\Subway\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Subway\Private\WeaponRifle.cpp">
+      <Filter>Source\Subway\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Subway\Private\WeaponShotgun.cpp">
+      <Filter>Source\Subway\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\Subway\Public">
+      <UniqueIdentifier>{63FA80FC-0F69-4468-BB59-5FB0013DA4E3}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\Subway\Public\Boss.h">
+      <Filter>Source\Subway\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Subway\Public\BossAnimInstance.h">
+      <Filter>Source\Subway\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Subway\Public\Boss_FSM.h">
+      <Filter>Source\Subway\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Subway\Public\BP_ShotGunActor.h">
+      <Filter>Source\Subway\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Subway\Public\DoorOpenActor.h">
+      <Filter>Source\Subway\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Subway\Public\EnemyA.h">
+      <Filter>Source\Subway\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Subway\Public\EnemyAAnimInstance.h">
+      <Filter>Source\Subway\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Subway\Public\EnemyA_FSM.h">
+      <Filter>Source\Subway\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Subway\Public\EnemyB.h">
+      <Filter>Source\Subway\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Subway\Public\EnemyBAnimInstance.h">
+      <Filter>Source\Subway\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Subway\Public\EnemyB_FSM.h">
+      <Filter>Source\Subway\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Subway\Public\EnemySoundAttenuation.h">
+      <Filter>Source\Subway\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Subway\Public\FPSPlayer.h">
+      <Filter>Source\Subway\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Subway\Public\GrabActorComponent.h">
+      <Filter>Source\Subway\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Subway\Public\GunTargetActor.h">
+      <Filter>Source\Subway\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Subway\Public\HandActorComponent.h">
+      <Filter>Source\Subway\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Subway\Public\MagazineActor.h">
+      <Filter>Source\Subway\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Subway\Public\MoveActorComponent.h">
+      <Filter>Source\Subway\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Subway\Public\PickUpActor.h">
+      <Filter>Source\Subway\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Subway\Public\PistolAnimInstance.h">
+      <Filter>Source\Subway\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Subway\Public\PlayerMove.h">
+      <Filter>Source\Subway\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Subway\Public\ShotGunActor.h">
+      <Filter>Source\Subway\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Subway\Public\ShotGunAnimInstance.h">
+      <Filter>Source\Subway\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Subway\Public\SpawnMananger1.h">
+      <Filter>Source\Subway\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Subway\Public\SpawnPoint.h">
+      <Filter>Source\Subway\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Subway\Public\Subway.h">
+      <Filter>Source\Subway\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Subway\Public\TriggerBoxBase.h">
+      <Filter>Source\Subway\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Subway\Public\VRGameModeBase.h">
+      <Filter>Source\Subway\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Subway\Public\VRHandAnimInstance.h">
+      <Filter>Source\Subway\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Subway\Public\VR_Player.h">
+      <Filter>Source\Subway\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Subway\Public\WeaponBase.h">
+      <Filter>Source\Subway\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Subway\Public\WeaponPistol.h">
+      <Filter>Source\Subway\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Subway\Public\WeaponRifle.h">
+      <Filter>Source\Subway\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Subway\Public\WeaponShotgun.h">
+      <Filter>Source\Subway\Public</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
