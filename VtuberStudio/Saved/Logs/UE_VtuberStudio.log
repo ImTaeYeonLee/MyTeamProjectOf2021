@@ -1040,3 +1040,4 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.12.07-13.59.34:174][  3]LogStreaming: Warning: Failed to read file '../../../../../../Users/TFG5076XG/Documents/GitHub/MyTeamProjectOf2021/VtuberStudio/Saved/SaveGames/PluginSettingsSaveData.sav' error.
 [2021.12.07-13.59.36:452][ 80]LogSlate: Window '메시지 로그' being destroyed
 [2021.12.07-13.59.36:461][ 80]LogSlate: Window '메시지 로그' being destroyed
+[2021.12.07-14.11.38:831][272]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
